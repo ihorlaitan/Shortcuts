@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "description": "- Added Language Support\n- Added Shortcuts Updater\n- Added Backup Section",
-  "url": "shortcuts://shortcuts/ad8c18479ecb4e849cce9f26f5b2121a"
+  "version": "3.0.0",
+  "description": "- Added Language Support\n- Added Shortcuts Updater\n- Added Backup Section\n- Added Network Settings",
+  "url": "shortcuts://shortcuts/79140d6fe67b4813a7a3ebde8ebbc8ef"
 }
