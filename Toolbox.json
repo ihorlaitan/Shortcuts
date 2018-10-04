@@ -1,5 +1,10 @@
 {
   "version": "3.0.3",
-  "description": "- Added Language Support\n- Added Shortcuts Updater\n- Added Backup Section\n- Added Network Settings\n\n3.0.3:\n- Added Chinese language",
-  "url": "shortcuts://shortcuts/a6f30f286ba743d8ab906d7b4b18cde7"
+  "url": "shortcuts://shortcuts/a6f30f286ba743d8ab906d7b4b18cde7",
+  "description": "Important update for older versions",
+  "1": "Added Language Support",
+  "2": "Added Shortcuts Updater",
+  "3": "Added Backup & Restore",
+  "4": "Added Network Settings",
+  "5": "Added Chinese Language"
 }
