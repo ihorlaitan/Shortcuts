@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
-  "description": "- Added Language Support\n- Added Shortcuts Updater\n- Added Backup Section\n- Added Network Settings",
-  "url": "shortcuts://shortcuts/2e76ea155ea94e3fbdcc8d0e3852b9a1"
+  "version": "3.0.3",
+  "description": "- Added Language Support\n- Added Shortcuts Updater\n- Added Backup Section\n- Added Network Settings\n\n3.0.3:\n- Added Chinese language",
+  "url": "shortcuts://shortcuts/a6f30f286ba743d8ab906d7b4b18cde7"
 }
