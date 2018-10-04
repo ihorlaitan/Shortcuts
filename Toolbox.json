@@ -1,10 +1,11 @@
 {
-  "version": "3.0.4",
-  "url": "shortcuts://shortcuts/fa07e79489a7468b9444bf137ff3e2ca",
+  "version": "3.0.5",
+  "url": "shortcuts://shortcuts/c068ace79bc44adcbd19cfc21016c667",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
   "3": "Added Backup & Restore",
   "4": "Added Network Settings",
-  "5": "Added Chinese Language"
+  "5": "Added Chinese Language",
+  "6": "Big Optimization Update"
 }
