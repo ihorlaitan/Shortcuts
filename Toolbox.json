@@ -1,6 +1,6 @@
 {
-  "version": "3.0.6",
-  "url": "shortcuts://shortcuts/9b7a367b7ff0481281abdbc234c3677b",
+  "version": "3.0.7",
+  "url": "shortcuts://shortcuts/7f08039a19aa419983e41950e79fa05f",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -8,5 +8,6 @@
   "4": "Added Network Settings",
   "5": "Added Chinese Language",
   "6": "Big Optimization Update",
-  "7": "Added Battery Save"
+  "7": "Added Battery Save",
+  "8": "Added Parameter Image For Qrcode"
 }
