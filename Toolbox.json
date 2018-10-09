@@ -1,6 +1,6 @@
 {
-  "version": "3.0.8",
-  "url": "shortcuts://shortcuts/0ee754af341f43fc96358f1b517dc3fb",
+  "version": "3.0.9",
+  "url": "shortcuts://shortcuts/725dcc6aef994b4d9ff213dd2a979b0c",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -10,5 +10,6 @@
   "6": "Big Optimization Update",
   "7": "Added Battery Save",
   "8": "Added Parameter Image For Qrcode",
-  "9": "Added Pages"
+  "9": "Added Pages",
+  "10": "Changed Shortcuts Updater (PLEASE REMOVE OLD VERSION)
 }
