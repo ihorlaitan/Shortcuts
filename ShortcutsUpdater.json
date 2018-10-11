@@ -1,7 +1,8 @@
 {
-  "version": "2.0.0",
-  "url": "shortcuts://shortcuts/26e29adae4414e5e9e32f4cc4c6cd9e4",
+  "version": "2.0.1",
+  "url": "shortcuts://shortcuts/bdbe2e52e9c2427e82c7529bea7c4f93",
   "apps": ["Shortcuts Updater", "Toolbox"],
   "1": "Added Name",
-  "2": "Optimization of code"
+  "2": "Optimization of code",
+  "3": "Added Automatic Language Detect"
 }
