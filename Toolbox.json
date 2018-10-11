@@ -1,6 +1,6 @@
 {
-  "version": "3.1.1",
-  "url": "shortcuts://shortcuts/39c66cf17b0a491fbc1b6189d0834964",
+  "version": "3.1.2",
+  "url": "shortcuts://shortcuts/08d195ec040948ab9697c99e3a78249f",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -13,5 +13,6 @@
   "9": "Added Pages",
   "10": "Changed Shortcuts Updater (PLEASE REMOVE OLD VERSION)",
   "11": "Added Age Calculator",
-  "12": "Added Battery Modes (Normal, Charging, Super Low Power) instead Battery Save"
+  "12": "Added Battery Modes (Normal, Charging, Super Low Power) instead Battery Save",
+  "13": "Added Respring in Settings"
 }
