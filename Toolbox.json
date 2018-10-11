@@ -1,6 +1,6 @@
 {
-  "version": "3.1.2",
-  "url": "shortcuts://shortcuts/9476c32f0b144dba8dff0cd6700a00d4",
+  "version": "3.1.3",
+  "url": "shortcuts://shortcuts/b03a1950cf2c485caac3ed2aca98a232",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -14,5 +14,6 @@
   "10": "Changed Shortcuts Updater (PLEASE REMOVE OLD VERSION)",
   "11": "Added Age Calculator",
   "12": "Added Battery Modes (Normal, Charging, Super Low Power) instead Battery Save",
-  "13": "Added Respring Interface in Settings"
+  "13": "Added Respring Interface in Settings",
+  "14": "Added Automatic Language Detect"
 }
