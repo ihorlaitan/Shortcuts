@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "url": "shortcuts://shortcuts/6c7daf798341410baebc529dc0e132a8",
+  "version": "3.1.1",
+  "url": "shortcuts://shortcuts/39c66cf17b0a491fbc1b6189d0834964",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -12,5 +12,6 @@
   "8": "Added Parameter Image For Qrcode",
   "9": "Added Pages",
   "10": "Changed Shortcuts Updater (PLEASE REMOVE OLD VERSION)",
-  "11": "Added Age Calculator"
+  "11": "Added Age Calculator",
+  "12": "Added Battery Modes (Normal, Charging, Super Low Power) instead Battery Save"
 }
