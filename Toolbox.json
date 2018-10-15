@@ -1,6 +1,6 @@
 {
-  "version": "3.1.4",
-  "url": "shortcuts://shortcuts/5494e420acad4d279b233eadb8f14d5e",
+  "version": "3.1.5",
+  "url": "shortcuts://shortcuts/920287d10809483db3370fdb22c85c6a",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -16,5 +16,6 @@
   "12": "Added Battery Modes (Normal, Charging, Super Low Power) instead Battery Save",
   "13": "Added Respring Interface in Settings",
   "14": "Added Automatic Language Detect",
-  "15": "Added Auto Switch Network instead Network Switch feature"
+  "15": "Added Auto Switch Network instead Network Switch feature",
+  "16": "Added Network Speed Test"
 }
