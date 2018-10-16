@@ -2,8 +2,8 @@
   "version": "2.0.2",
   "url": "shortcuts://shortcuts/ba6541d5684c4bf2938c62be5968bc7e",
   "apps": ["Shortcuts Updater", "Toolbox"],
-  "1": "Added name",
+  "1": "Added Name",
   "2": "Optimization of code",
-  "3": "Added automatic language detect",
-  "4": "Added automatic supported shortcuts detect in your Library"
+  "3": "Added Automatic Language Detect",
+  "4": "Added Automatic Supported Shortcuts Detect in your Library"
 }
