@@ -1,6 +1,6 @@
 {
-  "version": "3.1.5",
-  "url": "shortcuts://shortcuts/65ef0ec6301745f980eaea405cc9073c",
+  "version": "3.1.7",
+  "url": "shortcuts://shortcuts/81e37e2a5988467fbacf522616e8c9e9",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -17,5 +17,6 @@
   "13": "Added Respring Interface in Settings",
   "14": "Added Automatic Language Detect",
   "15": "Added Auto Switch Network instead Network Switch feature",
-  "16": "Added Network Speed Test"
+  "16": "Added Network Speed Test",
+  "17": "Readded Backup Restore & Cleanup"
 }
