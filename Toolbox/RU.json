@@ -1,6 +1,6 @@
 {
  "name": "Инструменты",
- "menu.qrcode": "хуй",
+ "menu.qrcode": "Создать QR-код",
  "menu.network": "Инструменты сети",
  "menu.battery": "Режимы батареи",
  "menu.other": "Другое",
