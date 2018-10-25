@@ -7,5 +7,7 @@
  "changelog.noupdate": "Нет обновлений!",
  "changelog.name": "Название",
  "changelog.version": "Версия",
+ "changelog.current": "Текущая версия",
+ "changelog.new": "Новая версия",
  "changelog.changes": "Изменения"
 }
