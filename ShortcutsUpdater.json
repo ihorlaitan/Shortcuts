@@ -1,11 +1,12 @@
 {
-  "version": "2.0.4",
-  "url": "shortcuts://shortcuts/4918c067d7ba48aea7d654beef3301a4",
+  "version": "2.0.5",
+  "url": "shortcuts://shortcuts/fd0a1776f71d4c9f8495293ee2db73a3",
   "apps": ["Shortcuts Updater", "Toolbox", "SSH Manager"],
   "1": "Added Name",
   "2": "Optimization of code",
   "3": "Added Automatic Language Detect",
   "4": "Added Automatic Supported Shortcuts Detect in your Library",
   "5": "Cleanup Code & Added Settings Section",
-  "6": "Remaded Language System (Now you can add by yourself translations for all of my Shortcuts on 'github.com/xMrVizzy/Shortcuts')"
+  "6": "Remaded Language System (Now you can add translations by yourself)",
+  "7": "Added Language Update"
 }
