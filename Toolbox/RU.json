@@ -23,6 +23,7 @@
  "backup.save": "Сохранить команды",
  "backup.restore": "Восстановить команды",
  "settings.language": "Язык",
+ "language.help": "Помощь в переводе",
  "settings.update": "Проверка обновлений",
  "other.respring": "Перезагрузка интерфейса",
  "other.age": "Калькулятор возраста",

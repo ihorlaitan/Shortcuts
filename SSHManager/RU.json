@@ -12,6 +12,7 @@
  "menu.settings": "Настройки",
  "menu.other": "Другое",
  "settings.language": "Язык",
+ "language.help": "Помощь в переводе",
  "settings.update": "Проверка обновлений",
  "settings.ssh": "Данные SSH",
  "ssh.host": "Изменить хост",
