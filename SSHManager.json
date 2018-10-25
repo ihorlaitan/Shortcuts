@@ -1,6 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "shortcuts://shortcuts/f854197e529446d2a2c7cccf08dd6394",
+  "version": "1.0.2",
+  "url": "shortcuts://shortcuts/250a72b702254869b5c9216af4af4afa",
   "1": "First Release",
-  "2": "Added Nederlands Language"
+  "2": "Added Nederlands Language",
+  "3": "Remaded Language System (Now you can add by yourself translations for all of my Shortcuts on 'github.com/xMrVizzy/Shortcuts')"
 }
