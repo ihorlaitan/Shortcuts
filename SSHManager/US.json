@@ -1,0 +1,21 @@
+{
+ "info": "For the correct work of the Shortcut you should enable 'Remote Login' in 'System Preferences/Sharing' on your MacOS, also you need to specify SSH data on the next step. (You can change it later in Settings)",
+ "info.secure": "For security, all data will only be stored on your device, outside the Shortcut.",
+ "info.host": "Host (ex.: my-macbook.local)",
+ "info.username": "Username (ex.: admin)",
+ "info.password": "Password (ex.: password)",
+ "menu.run": "Run Command",
+ "menu.say": "Say Message",
+ "menu.sleep": "Sleep & Unlock",
+ "menu.volume": "Set Volume (in %)",
+ "menu.open": "Open Application",
+ "menu.settings": "Settings",
+ "menu.other": "Other",
+ "settings.language": "Language",
+ "settings.update": "Check Updates",
+ "settings.ssh": "SSH Data",
+ "ssh.host": "Change Host",
+ "ssh.username": "Change Username",
+ "ssh.password": "Change Password",
+ "ssh.clear": "Clear Data"
+}
