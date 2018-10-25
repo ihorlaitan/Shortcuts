@@ -2,6 +2,7 @@
  "menu.supported": "Поддерживаемые команды",
  "menu.settings": "Настройки",
  "settings.language": "Язык",
+ "language.help": "Помочь в переводе",
  "changelog.update": "Доступно обновление!",
  "changelog.noupdate": "Нет обновлений!",
  "changelog.name": "Название",
