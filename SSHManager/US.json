@@ -7,7 +7,7 @@
  "menu.run": "Run Command",
  "menu.say": "Say Message",
  "menu.sleep": "Sleep & Unlock",
- "menu.volume": "Set Volume (in %)",
+ "menu.volume": "Set Volume",
  "menu.open": "Open Application",
  "menu.settings": "Settings",
  "menu.other": "Other",
@@ -20,6 +20,5 @@
  "ssh.password": "Change Password",
  "ssh.clear": "Clear Data",
  "sleep.lock": "Lock",
- "sleep.unlock": "Unlock",
- "menu.power": "Power Management"
+ "sleep.unlock": "Unlock"
 }
