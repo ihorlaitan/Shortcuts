@@ -18,5 +18,7 @@
  "ssh.host": "Change Host",
  "ssh.username": "Change Username",
  "ssh.password": "Change Password",
- "ssh.clear": "Clear Data"
+ "ssh.clear": "Clear Data",
+ "sleep.lock": "Lock",
+ "sleep.unlock": "Unlock"
 }
