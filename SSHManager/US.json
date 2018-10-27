@@ -22,5 +22,6 @@
  "sleep.lock": "Lock",
  "sleep.unlock": "Unlock",
  "menu.power": "Power Management",
- "power.sleep": "Sleep Mode"
+ "power.sleep": "Sleep Mode",
+ "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it."
 }
