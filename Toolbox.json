@@ -1,6 +1,6 @@
 {
-  "version": "3.1.9",
-  "url": "shortcuts://shortcuts/a761e81e7e3f42519bed4badcdbe2158",
+  "version": "3.2.0",
+  "url": "shortcuts://shortcuts/9abd2173d565431189f914634d2aaff9",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -20,5 +20,6 @@
   "16": "Added Network Speed Test",
   "17": "Readded Backup Restore & Cleanup",
   "18": "Remaded Language System (Now you can add translations by yourself)",
-  "19": "Added Help Us Translate"
+  "19": "Added Help Us Translate",
+  "20": "Fixed Check Updates"
 }
