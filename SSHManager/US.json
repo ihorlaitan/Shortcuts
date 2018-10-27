@@ -21,5 +21,6 @@
  "ssh.clear": "Clear Data",
  "sleep.lock": "Lock",
  "sleep.unlock": "Unlock",
- "menu.power": "Power Management"
+ "menu.power": "Power Management",
+ "power.sleep": "Sleep Mode"
 }
