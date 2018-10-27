@@ -1,8 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "shortcuts://shortcuts/3e5c41e10ba74f94925c6ff12f244932",
+  "version": "1.0.5",
+  "url": "shortcuts://shortcuts/7c6d2f8013b941bea2f07516ae6bc91b",
   "1": "First Release",
   "2": "Added Nederlands Language",
   "3": "Remaded Language System (Now you can add translations by yourself)",
-  "4": "Added Help Us Translate"
+  "4": "Added Help Us Translate",
+  "5": "Minor Fixes"
 }
