@@ -20,5 +20,6 @@
  "ssh.password": "Change Password",
  "ssh.clear": "Clear Data",
  "sleep.lock": "Lock",
- "sleep.unlock": "Unlock"
+ "sleep.unlock": "Unlock",
+ "menu.power": "Power Management"
 }
