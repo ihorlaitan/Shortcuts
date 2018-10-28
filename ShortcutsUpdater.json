@@ -1,6 +1,6 @@
 {
-  "version": "2.0.5",
-  "url": "shortcuts://shortcuts/fd0a1776f71d4c9f8495293ee2db73a3",
+  "version": "2.0.8",
+  "url": "shortcuts://shortcuts/ef11897bd191459ba146db432ca788ed",
   "apps": ["Shortcuts Updater", "Toolbox", "SSH Manager"],
   "1": "Added Name",
   "2": "Optimization of code",
@@ -8,5 +8,6 @@
   "4": "Added Automatic Supported Shortcuts Detect in your Library",
   "5": "Cleanup Code & Added Settings Section",
   "6": "Remaded Language System (Now you can add translations by yourself)",
-  "7": "Added Language Update"
+  "7": "Added Language Update",
+  "8": "Added Credits in Settings"
 }
