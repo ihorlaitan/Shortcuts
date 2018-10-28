@@ -25,5 +25,6 @@
  "power.sleep": "Sleep Mode",
  "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it.",
  "setting.credits": "Credits",
- "power.restart": "Restart"
+ "power.restart": "Restart",
+ "menu.preferences": "Change Preferences"
 }
