@@ -1,10 +1,11 @@
 {
-  "version": "1.0.6",
-  "url": "shortcuts://shortcuts/9a959ca9947248a99c2ecc963306ec7a",
+  "version": "1.0.7",
+  "url": "shortcuts://shortcuts/c95637b9ad694e239a3893aa7c0a1b66",
   "1": "First Release",
   "2": "Added Nederlands Language",
   "3": "Remaded Language System (Now you can add translations by yourself)",
   "4": "Added Help Us Translate",
   "5": "Minor Fixes",
-  "6": "Fixed Check Updates"
+  "6": "Fixed Check Updates",
+  "7": "Added Automatic Update Check every 3 days, without Shortcuts freeze on startup"
 }
