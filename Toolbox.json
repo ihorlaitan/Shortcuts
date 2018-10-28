@@ -1,6 +1,6 @@
 {
-  "version": "3.2.0",
-  "url": "shortcuts://shortcuts/9abd2173d565431189f914634d2aaff9",
+  "version": "3.2.1",
+  "url": "shortcuts://shortcuts/bc1cdfe6bd3341f592b285f0b909730d",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -21,5 +21,6 @@
   "17": "Readded Backup Restore & Cleanup",
   "18": "Remaded Language System (Now you can add translations by yourself)",
   "19": "Added Help Us Translate",
-  "20": "Fixed Check Updates"
+  "20": "Fixed Check Updates",
+  "21": "Added Automatic Update Check every 3 days, without Shortcuts freeze on startup"
 }
