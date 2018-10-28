@@ -9,5 +9,6 @@
  "changelog.version": "Версия",
  "changelog.current": "Текущая версия",
  "changelog.new": "Новая версия",
- "changelog.changes": "Изменения"
+ "changelog.changes": "Изменения",
+ "settings.credits": "Благодарности"
 }
