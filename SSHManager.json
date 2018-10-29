@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "url": "shortcuts://shortcuts/edd17d40eda44db5aeb2360ea72ff961",
+  "version": "1.1.0",
+  "url": "shortcuts://shortcuts/021e7caf40274707a90098b1de297537",
   "1": "First Release",
   "2": "Added Nederlands Language",
   "3": "Remaded Language System (Now you can add translations by yourself)",
@@ -9,5 +9,6 @@
   "6": "Fixed Check Updates",
   "7": "Added Automatic Update Check every 3 days, without Shortcuts freeze on startup",
   "8": "Added Credits in Settings",
-  "9": "Added Restart Feature"
+  "9": "Added Restart Feature",
+  "10": "Added Change Preferences & Application Actions (Open/Close)"
 }
