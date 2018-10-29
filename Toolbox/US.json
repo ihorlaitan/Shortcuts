@@ -31,7 +31,7 @@
  "age.years": "years",
  "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it.",
  "settings.credits": "Credits",
- "settings.pin": "PIN",
+ "settings.pin": "PIN Code",
  "pin.set": "Set PIN",
  "pin.reset": "Reset PIN"
 }

@@ -32,7 +32,7 @@
  "actions.close": "Close",
  "actions.url": "Open URL",
  "url.clipboard": "Clipboard",
- "settings.pin": "PIN",
+ "settings.pin": "PIN Code",
  "pin.set": "Set PIN",
  "pin.reset": "Reset PIN"
 }
