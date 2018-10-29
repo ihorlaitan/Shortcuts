@@ -31,5 +31,8 @@
  "actions.open": "Открыть",
  "actions.close": "Закрыть",
  "actions.url": "Открыть URL",
- "url.clipboard": "буфер"
+ "url.clipboard": "буфер",
+ "settings.pin": "ПИН-код",
+ "pin.set": "Установить ПИН-код",
+ "pin.reset": "Сбросить ПИН-код"
 }

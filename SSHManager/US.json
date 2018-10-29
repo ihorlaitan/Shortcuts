@@ -31,5 +31,8 @@
  "actions.open": "Open",
  "actions.close": "Close",
  "actions.url": "Open URL",
- "url.clipboard": "Clipboard"
+ "url.clipboard": "Clipboard",
+ "settings.pin": "PIN",
+ "pin.set": "Set PIN",
+ "pin.reset": "Reset PIN"
 }
