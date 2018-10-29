@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "shortcuts://shortcuts/78017844be0a45e6bbb929c45bdb8d15",
+  "version": "1.1.2",
+  "url": "shortcuts://shortcuts/4130af8c6be7493e9edcf5342262b5b5",
   "1": "First Release",
   "2": "Added Nederlands Language",
   "3": "Remaded Language System (Now you can add translations by yourself)",
@@ -11,5 +11,6 @@
   "8": "Added Credits in Settings",
   "9": "Added Restart Feature",
   "10": "Added Change Preferences & Application Actions (Open/Close)",
-  "11": "Added Safari Actions"
+  "11": "Added Safari Actions",
+  "12": "Added PIN in Settings"
 }
