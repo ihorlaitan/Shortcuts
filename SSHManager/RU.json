@@ -30,5 +30,6 @@
  "menu.actions": "Действия приложений",
  "actions.open": "Открыть",
  "actions.close": "Закрыть",
- "actions.url": "Открыть URL"
+ "actions.url": "Открыть URL",
+ "url.clipboard": "буфер"
 }

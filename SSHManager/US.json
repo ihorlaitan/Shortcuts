@@ -30,5 +30,6 @@
  "menu.actions": "Application Actions",
  "actions.open": "Open",
  "actions.close": "Close",
- "actions.url": "Open URL"
+ "actions.url": "Open URL",
+ "url.clipboard": "Clipboard"
 }
