@@ -29,5 +29,6 @@
  "menu.preferences": "Изменить параметры",
  "menu.actions": "Действия приложений",
  "actions.open": "Открыть",
- "actions.close": "Закрыть"
+ "actions.close": "Закрыть",
+ "actions.url": "Открыть URL"
 }

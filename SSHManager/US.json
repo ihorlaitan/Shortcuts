@@ -29,5 +29,6 @@
  "menu.preferences": "Change Preferences",
  "menu.actions": "Application Actions",
  "actions.open": "Open",
- "actions.close": "Close"
+ "actions.close": "Close",
+ "actions.url": "Open URL"
 }
