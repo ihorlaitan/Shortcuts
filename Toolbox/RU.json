@@ -36,5 +36,8 @@
  "pin.reset": "Сбросить ПИН-код",
  "qrcode.text": "Текст",
  "qrcode.clipboard": "Буфер обмена",
- "other.timer": "Установить таймер"
+ "other.timer": "Установить таймер",
+ "timer.seconds": "Секунды",
+ "timer.minutes": "Минуты",
+ "timer.hours": "Часы"
 }
