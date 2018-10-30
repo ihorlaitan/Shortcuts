@@ -35,5 +35,6 @@
  "pin.set": "Set PIN",
  "pin.reset": "Reset PIN",
  "qrcode.text": "Text",
- "qrcode.clipboard": "Clipboard"
+ "qrcode.clipboard": "Clipboard",
+ "other.timer": "Set Timer"
 }
