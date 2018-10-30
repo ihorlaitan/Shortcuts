@@ -11,7 +11,7 @@
  "qrcode.url": "URL-адрес",
  "qrcode.nourl": "URL-адрес не найден!",
  "qrcode.image": "Изображение",
- "qrcode.wifi": "Wi-Fi",
+ "qrcode.wifi": "Сеть Wi-Fi",
  "qrcode.enter": "Пароль текущей сети",
  "qrcode.network": "Сеть не найдена!",
  "network.speed": "Проверка скорости",
