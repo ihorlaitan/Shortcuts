@@ -33,5 +33,7 @@
  "settings.credits": "Благодарности",
  "settings.pin": "ПИН-код",
  "pin.set": "Установить ПИН-код",
- "pin.reset": "Сбросить ПИН-код"
+ "pin.reset": "Сбросить ПИН-код",
+ "qrcode.text": "Текст",
+ "qrcode.clipboard": "Буфер обмена"
 }

@@ -33,5 +33,7 @@
  "settings.credits": "Credits",
  "settings.pin": "PIN Code",
  "pin.set": "Set PIN",
- "pin.reset": "Reset PIN"
+ "pin.reset": "Reset PIN",
+ "qrcode.text": "Text",
+ "qrcode.clipboard": "Clipboard"
 }
