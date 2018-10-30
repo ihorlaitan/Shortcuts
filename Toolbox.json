@@ -1,6 +1,6 @@
 {
-  "version": "3.2.3",
-  "url": "shortcuts://shortcuts/cd184b9dfd9749599e7b2b086c377365",
+  "version": "3.2.4",
+  "url": "shortcuts://shortcuts/3836930457fe4517b4e7c5f209b38dc2",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -24,5 +24,6 @@
   "20": "Fixed Check Updates",
   "21": "Added Automatic Update Check every 3 days, without Shortcuts freeze on startup",
   "22": "Added Credits in Settings",
-  "23": "Added PIN in Settings"
+  "23": "Added PIN in Settings",
+  "24": "Added Qrcode Text, Clipboard"
 }
