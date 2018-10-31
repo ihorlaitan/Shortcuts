@@ -3,6 +3,8 @@
  "settings.language": "Язык",
  "language.help": "Помощь в переводе",
  "settings.credits": "Благодарности",
+ "app.added": "Приложение добавлено в список!",
+ "app.already": "Приложение уже в списке",
  "app.open": "Открыть в App Store",
  "app.remove": "Удалить из списка"
 }

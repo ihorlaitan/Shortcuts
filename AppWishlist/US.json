@@ -3,6 +3,8 @@
  "settings.language": "Language",
  "language.help": "Help Us Translate",
  "settings.credits": "Credits",
+ "app.added": "Application was added to list!",
+ "app.already": "Application already in list!",
  "app.open": "Open in App Store",
  "app.remove": "Remove from Wishlist"
 }
