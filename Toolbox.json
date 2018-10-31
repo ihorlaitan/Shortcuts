@@ -1,6 +1,6 @@
 {
-  "version": "3.2.5",
-  "url": "shortcuts://shortcuts/e7fe77c896c04063b89460ce2310be19",
+  "version": "3.2.6",
+  "url": "shortcuts://shortcuts/c6350ccaf30041b69fbf408d4e731e74",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -26,5 +26,6 @@
   "22": "Added Credits in Settings",
   "23": "Added PIN in Settings",
   "24": "Added Qrcode Text, Clipboard",
-  "25": "Added Timer Feature"
+  "25": "Added Timer Feature",
+  "26": "Fixed Missing Language Issue"
 }
