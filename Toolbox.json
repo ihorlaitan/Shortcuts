@@ -1,6 +1,6 @@
 {
-  "version": "3.2.7",
-  "url": "https://www.icloud.com/shortcuts/83f3150a5b5048ffb06c5a2f13ceeed9",
+  "version": "3.2.8",
+  "url": "https://www.icloud.com/shortcuts/aec8f9aa3a1f44e7812b804fd3b3dbea",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -28,5 +28,6 @@
   "24": "Added Qrcode Text, Clipboard",
   "25": "Added Timer Feature",
   "26": "Fixed Missing Language Issue",
-  "27": "Updates now work in App too, not only Widget"
+  "27": "Updates now work in App too, not only Widget",
+  "28": "Shortcuts Updater import in Base64 directly in Shortcuts"
 }

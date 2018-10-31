@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "url": "https://www.icloud.com/shortcuts/fb3e01297db048b6923beb37498b1111",
+  "version": "1.1.5",
+  "url": "https://www.icloud.com/shortcuts/986b8c397b9e47a0b759c1cbbc7918ae",
   "1": "First Release",
   "2": "Added Nederlands Language",
   "3": "Remaded Language System (Now you can add translations by yourself)",
@@ -14,5 +14,6 @@
   "11": "Added Safari Actions",
   "12": "Added PIN in Settings",
   "13": "Automatic Menu Reopen",
-  "14": "Updates now work in App too, not only Widget"
+  "14": "Updates now work in App too, not only Widget",
+  "15": "Shortcuts Updater import in Base64 directly in Shortcuts"
 }
