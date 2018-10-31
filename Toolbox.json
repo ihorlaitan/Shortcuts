@@ -1,6 +1,6 @@
 {
-  "version": "3.2.6",
-  "url": "https://www.icloud.com/shortcuts/732eb53e9a1d45ad98f665fce8733a72",
+  "version": "3.2.7",
+  "url": "https://www.icloud.com/shortcuts/ef563f9cab11407fb280260ca688cde2",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -27,5 +27,6 @@
   "23": "Added PIN in Settings",
   "24": "Added Qrcode Text, Clipboard",
   "25": "Added Timer Feature",
-  "26": "Fixed Missing Language Issue"
+  "26": "Fixed Missing Language Issue",
+  "27": "Updates now work in App too, not only Widget"
 }
