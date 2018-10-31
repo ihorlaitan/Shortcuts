@@ -1,6 +1,6 @@
 {
-  "version": "2.0.8",
-  "url": "https://www.icloud.com/shortcuts/486ffad6759641ce997453437a2677a2",
+  "version": "2.0.9",
+  "url": "https://www.icloud.com/shortcuts/2e74f25c21ba44c99363855d5cc68944",
   "apps": ["Shortcuts Updater", "Toolbox", "SSH Manager"],
   "1": "Added Name",
   "2": "Optimization of code",
@@ -9,5 +9,6 @@
   "5": "Cleanup Code & Added Settings Section",
   "6": "Remaded Language System (Now you can add translations by yourself)",
   "7": "Added Language Update",
-  "8": "Added Credits in Settings"
+  "8": "Added Credits in Settings",
+  "9": "Updates now work in App too, not only Widget"
 }
