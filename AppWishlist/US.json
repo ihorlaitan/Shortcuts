@@ -2,5 +2,7 @@
  "menu.settings": "Settings",
  "settings.language": "Language",
  "language.help": "Help Us Translate",
- "settings.credits": "Credits"
+ "settings.credits": "Credits",
+ "app.open": "Open in App Store",
+ "app.remove": "Remove from Wishlist"
 }

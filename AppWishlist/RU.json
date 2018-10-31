@@ -2,5 +2,7 @@
  "menu.settings": "Настройки",
  "settings.language": "Язык",
  "language.help": "Помощь в переводе",
- "settings.credits": "Благодарности"
+ "settings.credits": "Благодарности",
+ "app.open": "Открыть в App Store",
+ "app.remove": "Удалить из списка"
 }
