@@ -6,5 +6,6 @@
  "app.added": "Application was added to list!",
  "app.already": "Application already in list!",
  "app.open": "Open in App Store",
+ "app.description": "Application Description",
  "app.remove": "Remove from Wishlist"
 }
