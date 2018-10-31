@@ -1,7 +1,7 @@
 {
   "version": "2.0.9",
   "url": "https://www.icloud.com/shortcuts/2e74f25c21ba44c99363855d5cc68944",
-  "apps": ["Shortcuts Updater", "Toolbox", "SSH Manager"],
+  "apps": ["Shortcuts Updater", "Toolbox", "SSH Manager", "App Wishlist"],
   "1": "Added Name",
   "2": "Optimization of code",
   "3": "Added Automatic Language Detect",
