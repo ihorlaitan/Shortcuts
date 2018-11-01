@@ -42,5 +42,10 @@
  "timer.hours": "Hours",
  "other.emoji": "Emoji by Name",
  "emoji.available": "Available Emoji",
- "emoji.notfound": "Emoji not found!"
+ "emoji.notfound": "Emoji not found!",
+ "other.base64": "Base64 Encryption",
+ "base64.encode": "Encode",
+ "base64.decode": "Decode",
+ "encode.shortcut": "Shortcut",
+ "notifications.clipboard": "Copied in Clipboard!"
 }
