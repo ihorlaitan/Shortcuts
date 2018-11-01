@@ -47,5 +47,6 @@
  "base64.encode": "Кодировать",
  "base64.decode": "Декодировать",
  "encode.shortcut": "Команда",
+ "encode.file": "Файл",
  "notifications.clipboard": "Скопировано в буфер!"
 }

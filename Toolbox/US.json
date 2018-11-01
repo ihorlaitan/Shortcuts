@@ -47,5 +47,6 @@
  "base64.encode": "Encode",
  "base64.decode": "Decode",
  "encode.shortcut": "Shortcut",
+ "encode.file": "File",
  "notifications.clipboard": "Copied in Clipboard!"
 }
