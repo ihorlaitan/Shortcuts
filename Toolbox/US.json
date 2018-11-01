@@ -39,5 +39,8 @@
  "other.timer": "Set Timer",
  "timer.seconds": "Seconds",
  "timer.minutes": "Minutes",
- "timer.hours": "Hours"
+ "timer.hours": "Hours",
+ "other.emoji": "Emoji by Name",
+ "emoji.available": "Available Emojis",
+ "emoji.notfound": "Not found any Emoji"
 }
