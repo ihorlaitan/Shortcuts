@@ -42,5 +42,10 @@
  "timer.hours": "Часы",
  "other.emoji": "Эмодзи по имени",
  "emoji.available": "Доступные эмодзи",
- "emoji.notfound": "Эмодзи не найдены!"
+ "emoji.notfound": "Эмодзи не найдены!",
+ "other.base64": "Шифрование Base64",
+ "base64.encode": "Кодировать",
+ "base64.decode": "Декодировать",
+ "encode.shortcut": "Команда",
+ "notifications.clipboard": "Скопировано в буфер!"
 }
