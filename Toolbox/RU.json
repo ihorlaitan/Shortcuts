@@ -39,5 +39,8 @@
  "other.timer": "Установить таймер",
  "timer.seconds": "Секунды",
  "timer.minutes": "Минуты",
- "timer.hours": "Часы"
+ "timer.hours": "Часы",
+ "other.emoji": "Эмодзи по имени",
+ "emoji.available": "Доступные эмодзи",
+ "emoji.notfound": "Эмодзи не найдены!"
 }

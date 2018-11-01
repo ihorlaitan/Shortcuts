@@ -41,6 +41,6 @@
  "timer.minutes": "Minutes",
  "timer.hours": "Hours",
  "other.emoji": "Emoji by Name",
- "emoji.available": "Available Emojis",
- "emoji.notfound": "Not found any Emoji"
+ "emoji.available": "Available Emoji",
+ "emoji.notfound": "Emoji not found!"
 }
