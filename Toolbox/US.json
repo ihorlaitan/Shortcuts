@@ -48,5 +48,6 @@
  "base64.decode": "Decode",
  "encode.shortcut": "Shortcut",
  "encode.file": "File",
+ "encode.audio": "Recorded Audio",
  "notifications.clipboard": "Copied in Clipboard!"
 }
