@@ -48,6 +48,6 @@
  "base64.decode": "Декодировать",
  "encode.shortcut": "Команда",
  "encode.file": "Файл",
- "encode.audio": "Запись голоса"
+ "encode.audio": "Запись голоса",
  "notifications.clipboard": "Скопировано в буфер!"
 }
