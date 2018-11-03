@@ -1,6 +1,6 @@
 {
-  "version": "3.3.1",
-  "url": "https://www.icloud.com/shortcuts/310fb67a3e7f4da9a25d684fe02d523e",
+  "version": "3.3.2",
+  "url": "https://www.icloud.com/shortcuts/cc79539ed4684de585a1e68b0677cd9f",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -32,5 +32,6 @@
   "28": "Shortcuts Updater import in Base64 directly in Shortcuts",
   "29": "Added Search Emoji by Name",
   "30": "Any languages in Emoji Search & Added Base64 Encryption",
-  "31": "Added Recorded Audio in Base64 Encode"
+  "31": "Added Recorded Audio in Base64 Encode",
+  "32": "Launch Optimization"
 }
