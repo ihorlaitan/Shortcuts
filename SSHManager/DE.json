@@ -1,4 +1,5 @@
 {
+ "menu.name": "SSH Manager",
  "info": "Für die korrekte Ausführung des Kurzbefehls solltest du auf deinem Mac unter Systemeinstellungen/Freigaben die Entfernte Anmeldung aktivieren und du musst auch die SSH Daten spezifizieren im nächsten Schritt. (können im Nachhinein in den Einstellungen geändert werden)",
  "info.secure": "Für deine Sicherheit, werden alle deine Daten auf deinem Gerät gespeichert, außerhalb des Kurzbefehls.", 
  "info.host": "Host (ex.: my-macbook.local)",

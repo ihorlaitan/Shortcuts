@@ -1,4 +1,5 @@
 {
+ "menu.name": "SSH Manager",
  "info": "Om deze Snelkoppeling goed te laten werken moet u 'Remote Login' inschakelen in 'Systeemvoorkeuren/Delen' op uw MacOS, ook moet u in de volgende stap de SSH-gegevens opgeven. (U kunt dit later in Instellingen wijzigen)",
  "info.secure": "Om veiligheidsredenen worden alle gegevens alleen op uw apparaat opgeslagen, buiten de snelkoppeling om.",
  "info.host": "Host (bijv.: mijn-macbook.local)",
