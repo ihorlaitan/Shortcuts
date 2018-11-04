@@ -1,9 +1,8 @@
 {
-  "version": "2.0.5",
-  "url": "https://www.icloud.com/shortcuts/85f3c07a25894ce8b28cd7316c5cf764",
+  "version": "2.0.4",
+  "url": "https://www.icloud.com/shortcuts/8ca8577ffdd94e9ab81a405c192c4465",
   "1": "Added Name",
   "2": "Added Application Description",
   "3": "Shortcuts Updater import in Base64 directly in Shortcuts",
-  "4": "Launch Optimization",
-  "5": "New Check Updates & Changelog System"
+  "4": "Launch Optimization"
 }
