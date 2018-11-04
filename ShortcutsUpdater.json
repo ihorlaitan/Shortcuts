@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "url": "https://www.icloud.com/shortcuts/693bfcadd7b94c46a12f188c7cde9687",
+  "version": "2.1.2",
+  "url": "https://www.icloud.com/shortcuts/dc724d8262ba494ea3d3abc7e34a061e",
   "apps": ["Shortcuts Updater", "Toolbox", "SSH Manager", "App Wishlist"],
   "1": "Added Name",
   "2": "Optimization of code",
@@ -12,5 +12,6 @@
   "8": "Added Credits in Settings",
   "9": "Updates now work in App too, not only Widget",
   "10": "Now it automatic import instead manually install updates",
-  "11": "Revert latest Update & Added Automatic Language Update Of Selected Shortcut"
+  "11": "Revert latest Update & Added Automatic Language Update Of Selected Shortcut",
+  "12": "Changed Method to Check Supported Apps (Now It Launch Instantly)"
 }
