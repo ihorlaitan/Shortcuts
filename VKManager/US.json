@@ -6,5 +6,6 @@
  "language.help": "Help Us Translate",
  "settings.credits": "Credits",
  "settings.feedback": "Feedback",
- "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it."
+ "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it.",
+ "info.token": "In order for the Shortcut to be able to interact with Vkontakte you need an Access Token. To get it, in the next step, you need to log in to Vkontakte, click allow, then copy the link and return to the Shortcut."
 }
