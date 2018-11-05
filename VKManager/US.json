@@ -1,6 +1,6 @@
 {
  "name": "VK Manager",
- "menu.messages": "Messages",
+ "menu.message": "Send Message",
  "menu.settings": "Settings",
  "settings.language": "Language",
  "language.help": "Help Us Translate",

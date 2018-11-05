@@ -1,6 +1,6 @@
 {
  "name": "Менеджер Вконтакте",
- "menu.messages": "Сообщения",
+ "menu.message": "Отправить сообщение",
  "menu.settings": "Настройки",
  "settings.language": "Язык",
  "language.help": "Помощь в переводе",
