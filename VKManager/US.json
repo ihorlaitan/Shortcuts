@@ -2,6 +2,7 @@
  "name": "VK Manager",
  "menu.message": "Send Message",
  "menu.friends": "Friend List",
+ "friends.profile": "Open Profile",
  "friends.favorites": "Favorites",
  "favorites.add": "Add to Favorites",
  "favorites.remove": "Remove from Favorites",
