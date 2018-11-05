@@ -1,5 +1,6 @@
 {
  "menu.supported": "Поддерживаемые команды",
+ "menu.all": "Обновить все",
  "menu.settings": "Настройки",
  "settings.language": "Язык",
  "language.help": "Помощь в переводе",
