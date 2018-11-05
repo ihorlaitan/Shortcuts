@@ -49,5 +49,6 @@
  "encode.shortcut": "Shortcut",
  "encode.file": "File",
  "encode.audio": "Recorded Audio",
- "notifications.clipboard": "Copied in Clipboard!"
+ "notifications.clipboard": "Copied in Clipboard!",
+ "settings.feedback": "Feedback"
 }

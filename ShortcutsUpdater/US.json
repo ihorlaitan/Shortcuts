@@ -10,5 +10,6 @@
  "changelog.current": "Current Version",
  "changelog.new": "New Version",
  "changelog.changes": "Changes",
- "settings.credits": "Credits"
+ "settings.credits": "Credits",
+ "settings.feedback": "Feedback"
 }

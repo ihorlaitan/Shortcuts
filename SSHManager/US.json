@@ -38,5 +38,6 @@
  "pin.reset": "Reset PIN",
  "power.shutdown": "Shutdown",
  "shutdown.yes": "Yes",
- "shutdown.no": "No"
+ "shutdown.no": "No",
+ "settings.feedback": "Feedback"
 }

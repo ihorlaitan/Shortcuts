@@ -10,5 +10,6 @@
  "changelog.current": "Текущая версия",
  "changelog.new": "Новая версия",
  "changelog.changes": "Изменения",
- "settings.credits": "Благодарности"
+ "settings.credits": "Благодарности",
+ "settings.feedback": "Обратная связь"
 }

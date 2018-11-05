@@ -10,5 +10,6 @@
  "app.already": "Приложение уже в списке",
  "app.open": "Открыть в App Store",
  "app.description": "Описание приложения",
- "app.remove": "Удалить из списка"
+ "app.remove": "Удалить из списка",
+ "settings.feedback": "Обратная связь"
 }

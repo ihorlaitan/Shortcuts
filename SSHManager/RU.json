@@ -38,5 +38,6 @@
  "pin.reset": "Сбросить ПИН-код",
  "power.shutdown": "Выключить",
  "shutdown.yes": "Да",
- "shutdown.no": "Нет"
+ "shutdown.no": "Нет",
+ "settings.feedback": "Обратная связь"
 }
