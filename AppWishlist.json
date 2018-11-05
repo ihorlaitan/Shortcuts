@@ -1,9 +1,10 @@
 {
-  "version": "2.0.5",
-  "url": "https://www.icloud.com/shortcuts/a521897518e44798b19367a9f2023952",
+  "version": "2.0.6",
+  "url": "https://www.icloud.com/shortcuts/2344f45ae0444776be44014c49e86f77",
   "1": "Added Name",
   "2": "Added Application Description",
   "3": "Shortcuts Updater import in Base64 directly in Shortcuts",
   "4": "Launch Optimization",
-  "5": "Added Feedback in Settings"
+  "5": "Added Feedback in Settings",
+  "6": "Please Remove AppWishlist Folder in Files App"
 }
