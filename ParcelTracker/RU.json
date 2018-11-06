@@ -9,5 +9,7 @@
  "track.name": "Введите название",
  "track.number": "Введите трек-номер",
  "track.track": "Отследить посылку",
- "track.remove": "Удалить трек-номер"
+ "track.remove": "Удалить трек-номер",
+ "track.changename": "Изменить название",
+ "track.changetrack": "Изменить трек-номер"
 }

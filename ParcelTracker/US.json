@@ -9,5 +9,7 @@
  "track.name": "Enter Name",
  "track.number": "Enter Track Number",
  "track.track": "Track Parcel",
- "track.remove": "Remove Track"
+ "track.remove": "Remove Track",
+ "track.changename": "Change Name",
+ "track.changetrack": "Change Track"
 }
