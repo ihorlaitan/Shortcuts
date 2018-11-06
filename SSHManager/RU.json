@@ -39,5 +39,6 @@
  "power.shutdown": "Выключить",
  "shutdown.yes": "Да",
  "shutdown.no": "Нет",
- "settings.feedback": "Обратная связь"
+ "settings.feedback": "Обратная связь",
+ "menu.transfer": "Отправить файл"
 }

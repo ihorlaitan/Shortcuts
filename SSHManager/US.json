@@ -39,5 +39,6 @@
  "power.shutdown": "Shutdown",
  "shutdown.yes": "Yes",
  "shutdown.no": "No",
- "settings.feedback": "Feedback"
+ "settings.feedback": "Feedback",
+ "menu.transfer": "Transfer File"
 }
