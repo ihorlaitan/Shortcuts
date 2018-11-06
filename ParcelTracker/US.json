@@ -11,5 +11,6 @@
  "track.track": "Track Parcel",
  "track.remove": "Remove Track",
  "track.changename": "Change Name",
- "track.changetrack": "Change Track"
+ "track.changetrack": "Change Track",
+ "track.add": "Add Track"
 }

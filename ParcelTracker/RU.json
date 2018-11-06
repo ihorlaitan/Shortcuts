@@ -11,5 +11,6 @@
  "track.track": "Отследить посылку",
  "track.remove": "Удалить трек-номер",
  "track.changename": "Изменить название",
- "track.changetrack": "Изменить трек-номер"
+ "track.changetrack": "Изменить трек-номер",
+ "track.add": "Добавь трек-номер"
 }
