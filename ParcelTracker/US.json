@@ -5,5 +5,9 @@
  "language.help": "Help Us Translate",
  "settings.credits": "Credits",
  "settings.feedback": "Feedback",
- "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it."
+ "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it.",
+ "track.name": "Enter Name",
+ "track.number": "Enter Track Number",
+ "track.track": "Track Parcel",
+ "track.remove": "Remove Track"
 }
