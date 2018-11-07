@@ -1,6 +1,6 @@
 {
-  "version": "3.3.3",
-  "url": "https://www.icloud.com/shortcuts/e38ca00c54fa43f3bd5b07cce3792a4e",
+  "version": "3.3.4",
+  "url": "https://www.icloud.com/shortcuts/99ba7e58bbfb44fc8641c5b8960f03c0",
   "description": "Important update for older versions",
   "1": "Added Language Support",
   "2": "Added Shortcuts Updater",
@@ -34,5 +34,6 @@
   "30": "Any languages in Emoji Search & Added Base64 Encryption",
   "31": "Added Recorded Audio in Base64 Encode",
   "32": "Launch Optimization",
-  "33": "Added Feedback in Settings"
+  "33": "Added Feedback in Settings",
+  "34": "Added Text Regex"
 }
