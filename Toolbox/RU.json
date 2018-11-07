@@ -52,5 +52,6 @@
  "notifications.clipboard": "Скопировано в буфер!",
  "settings.feedback": "Обратная связь",
  "other.regex": "Сопоставление текста",
- "regex.between": "Между двумя строками"
+ "regex.between": "Между двумя строками",
+ "regex.commas": "С кавычками на конце"
 }

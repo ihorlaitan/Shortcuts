@@ -52,5 +52,6 @@
  "notifications.clipboard": "Copied in Clipboard!",
  "settings.feedback": "Feedback",
  "other.regex": "Text Regex",
- "regex.between": "Between Two Strings"
+ "regex.between": "Between Two Strings",
+ "regex.commas": "With Commas End"
 }
