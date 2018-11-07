@@ -1,1 +1,15 @@
-
+{
+ "menu.name": "App Wunschliste",
+ "menu.settings": "Einstellungen",
+ "settings.language": "Sprache",
+ "language.help": "Übersetze für uns",
+ "settings.update": "Nach Aktualisierungen suchen...",
+ "update.info": "Um automatisch nach Updates zu suchen muß ein weiterer Shortcut installiert werden. Dieser wird nun installiert..",
+ "settings.credits": "Credits",
+ "app.added": "App wurde der Wunschliste hinzugefügt!",
+ "app.already": "App ist bereits in der Wunschliste!",
+ "app.open": "Öffnen im App Store",
+ "app.description": "App-Beschreibung",
+ "app.remove": "Aus Wunschliste entfernen",
+ "settings.feedback": "Feedback"
+}
