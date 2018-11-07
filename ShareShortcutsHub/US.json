@@ -10,5 +10,6 @@
  "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it.",
  "shortcut.install": "Install Shortcut",
  "shortcut.open": "Open in Safari",
- "menu.top": "Top-100 Shortcuts"
+ "menu.top": "Top-100 Shortcuts",
+ "menu.categories": "Categories"
 }
