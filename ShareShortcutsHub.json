@@ -1,7 +1,8 @@
 {
-  "version": "1.0.3",
-  "url": "https://www.icloud.com/shortcuts/acdbf51d7fa84ee09226fc4437d38aff",
+  "version": "1.0.4",
+  "url": "https://www.icloud.com/shortcuts/9c4f21583b58400599790649c2a1ae26",
   "1": "First Release",
   "2": "Added Top Section",
-  "3": "Added Categories"
+  "3": "Added Categories",
+  "4": "Changed Detect Method to Regex (This mean that Shortcut now super fast)"
 }
