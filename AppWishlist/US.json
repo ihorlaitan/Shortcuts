@@ -11,5 +11,6 @@
  "app.open": "Open in App Store",
  "app.description": "Application Description",
  "app.remove": "Remove from Wishlist",
- "settings.feedback": "Feedback"
+ "settings.feedback": "Feedback",
+ "menu.price": "Check Price Drop"
 }
