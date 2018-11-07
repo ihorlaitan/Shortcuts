@@ -51,7 +51,7 @@
  "encode.audio": "Recorded Audio",
  "notifications.clipboard": "Copied in Clipboard!",
  "settings.feedback": "Feedback",
- "other.regex": "Text Regex",
+ "other.regex": "Regex Text",
  "regex.between": "Between Two Strings",
  "regex.commas": "With Commas End"
 }
