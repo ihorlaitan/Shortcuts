@@ -1,11 +1,12 @@
 {
-  "version": "2.0.7",
-  "url": "https://www.icloud.com/shortcuts/e9628b021a6a475997442f29f72230cd",
+  "version": "2.0.8",
+  "url": "https://www.icloud.com/shortcuts/327fd92c205a4ec9b0e0f67ba58e2fa2",
   "1": "Added Name",
   "2": "Added Application Description",
   "3": "Shortcuts Updater import in Base64 directly in Shortcuts",
   "4": "Launch Optimization",
   "5": "Added Feedback in Settings",
   "6": "Please Remove AppWishlist Folder in Files App",
-  "7": "Added Import Question"
+  "7": "Added Import Question",
+  "8": "Added Price Drop Checker (And also please add all your apps again, sorry)
 }
