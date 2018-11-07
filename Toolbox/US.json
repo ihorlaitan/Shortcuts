@@ -50,5 +50,7 @@
  "encode.file": "File",
  "encode.audio": "Recorded Audio",
  "notifications.clipboard": "Copied in Clipboard!",
- "settings.feedback": "Feedback"
+ "settings.feedback": "Feedback",
+ "other.regex": "Text Regex",
+ "regex.between": "Between Two Strings"
 }

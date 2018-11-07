@@ -50,5 +50,7 @@
  "encode.file": "Файл",
  "encode.audio": "Запись голоса",
  "notifications.clipboard": "Скопировано в буфер!",
- "settings.feedback": "Обратная связь"
+ "settings.feedback": "Обратная связь",
+ "other.regex": "Сопоставление текста",
+ "regex.between": "Между двумя строками"
 }
