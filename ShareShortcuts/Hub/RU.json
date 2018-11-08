@@ -14,5 +14,7 @@
  "top.likes": "По отметкам нравится",
  "menu.categories": "Все категории",
  "menu.updated": "Недавно обновленные",
- "search.next": "Следующая страница"
+ "search.next": "Следующая страница",
+ "shortcut.version": "Версия",
+ "shortcut.author": "Автор"
 }

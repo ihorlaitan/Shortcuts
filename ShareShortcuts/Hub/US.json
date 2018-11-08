@@ -14,5 +14,7 @@
  "top.likes": "By Likes",
  "menu.categories": "All Categories",
  "menu.updated": "Recent Updated",
- "search.next": "Next Page"
+ "search.next": "Next Page",
+ "shortcut.version": "Version",
+ "shortcut.author": "Author"
 }
