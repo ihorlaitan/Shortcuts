@@ -1,0 +1,17 @@
+{
+ "menu.name": "ShareShortcuts Hub",
+ "menu.latest": "Latest Shortcuts",
+ "menu.search": "Search",
+ "menu.settings": "Settings",
+ "settings.language": "Language",
+ "language.help": "Help Us Translate",
+ "settings.credits": "Credits",
+ "settings.feedback": "Feedback",
+ "shortcut.install": "Install Shortcut",
+ "shortcut.open": "Open in Safari",
+ "menu.top": "Top-100 Downloads",
+ "menu.topl": "Top-100 Liked",
+ "menu.categories": "Categories",
+ "menu.updated": "Recent Updated",
+ "search.next": "Next Page"
+}
