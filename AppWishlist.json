@@ -1,5 +1,5 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "url": "https://www.icloud.com/shortcuts/dbf57b662e264f1ab2bb96e807aa7883",
   "1": "Added Name",
   "2": "Added Application Description",
@@ -8,5 +8,6 @@
   "5": "Added Feedback in Settings",
   "6": "Please Remove AppWishlist Folder in Files App",
   "7": "Added Import Question",
-  "8": "Added Price Drop Checker (And also please add all your apps again, sorry)"
+  "8": "Added Price Drop Checker (And also please add all your apps again, sorry)",
+  "9": "Added Sort by Name"
 }
