@@ -6,5 +6,7 @@
  "settings.credits": "Credits",
  "settings.feedback": "Feedback",
  "menu.shortcuts": "My Shortcuts",
- "menu.account": "My Account"
+ "menu.account": "My Account",
+ "info": "API Key",
+ "info.api": "The next step will open the page with your API Key. Copy it and click 'Done'!"
 }
