@@ -4,5 +4,7 @@
  "settings.language": "Язык",
  "language.help": "Помощь в переводе",
  "settings.credits": "Благодарности",
- "settings.feedback": "Обратная связь"
+ "settings.feedback": "Обратная связь",
+ "menu.shortcuts": "Мои команды",
+ "menu.account": "Мой аккаунт"
 }

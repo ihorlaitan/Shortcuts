@@ -4,5 +4,7 @@
  "settings.language": "Language",
  "language.help": "Help Us Translate",
  "settings.credits": "Credits",
- "settings.feedback": "Feedback"
+ "settings.feedback": "Feedback",
+ "menu.shortcuts": "My Shortcuts",
+ "menu.account": "My Account"
 }
