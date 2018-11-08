@@ -1,0 +1,13 @@
+{
+ "menu.supported": "Unterstützte Verknüpfungen",
+ "menu.settings": "Einstellungen",
+ "settings.language": "Sprache",
+ "language.help": "Hilf uns übersetzen",
+ "changelog.update": "Eine neue Version ist verfügbar!",
+ "changelog.noupdate": "Keine neue Version verfügbar!",
+ "changelog.name": "Name",
+ "changelog.version": "Version",
+ "changelog.current": "aktuelle Version",
+ "changelog.new": "Neue Version",
+ "changelog.changes": "Änderungen"
+}
