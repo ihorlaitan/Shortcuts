@@ -12,5 +12,6 @@
  "app.description": "Application Description",
  "app.remove": "Remove from Wishlist",
  "settings.feedback": "Feedback",
- "menu.price": "Price Drop"
+ "menu.price": "Price Drop",
+ "price.nodrop": "No price changes!"
 }
