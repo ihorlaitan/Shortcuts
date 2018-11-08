@@ -1,6 +1,6 @@
 {
-  "version": "2.1.3",
-  "url": "https://www.icloud.com/shortcuts/089412d2d4df4e1db90383b648f66744",
+  "version": "2.1.4",
+  "url": "https://www.icloud.com/shortcuts/9093e5641c074cc9afd1209c26db523c",
   "apps": ["Shortcuts Updater", "Toolbox", "SSH Manager", "App Wishlist"],
   "1": "Added Name",
   "2": "Optimization of code",
@@ -14,5 +14,6 @@
   "10": "Now it automatic import instead manually install updates",
   "11": "Revert latest Update & Added Automatic Language Update Of Selected Shortcut",
   "12": "Changed Method to Check Supported Apps (Now It Launch Instantly)",
-  "13": "Added Feedback in Settings & Added Update All"
+  "13": "Added Feedback in Settings & Added Update All",
+  "14": "Added Sort by Name"
 }
