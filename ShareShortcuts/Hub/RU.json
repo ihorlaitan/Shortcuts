@@ -13,5 +13,20 @@
  "menu.topl": "Топ-100 понравившихся",
  "menu.categories": "Категории",
  "menu.updated": "Недавно обновленные",
- "search.next": "Следующая страница"
+ "search.next": "Следующая страница",
+ "category.api": "API",
+ "category.calculations": "Вычисления",
+ "category.fun": "Развлечения",
+ "category.homekit": "Homekit",
+ "category.messaging": "Общение",
+ "category.music": "Музыка",
+ "category.photos": "Фото и видео",
+ "category.productivity": "Производительность",
+ "category.reference": "Команды-ссылки",
+ "category.routines": "Рутинные дела",
+ "category.social": "Социальные сети",
+ "category.streaming": "Потоковое вещание",
+ "category.travel": "Путешествия и карты",
+ "category.utils": "Инструменты",
+ "category.weather": "Погода"
 }
