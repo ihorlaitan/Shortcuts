@@ -9,13 +9,12 @@
  "settings.feedback": "Feedback",
  "menu.shortcuts": "My Shortcuts",
  "menu.account": "My Account",
- "info": "API Key",
- "info.api": "The next step will open the page with your API Key. Copy it and click 'Done'!",
  "shortcut.install": "Install Shortcut",
  "shortcut.open": "Open in Safari",
  "account.avatar": "Change Avatar",
  "shortcuts.new": "Add New",
  "shortcuts.description": "Enter a Description",
  "shortcuts.icloud": "Enter an iCloud URL",
- "shortcuts.category": "Select a Category"
+ "shortcuts.category": "Select a Category",
+ "new.success": "Shortcut was Successfully Uploaded!"
 }

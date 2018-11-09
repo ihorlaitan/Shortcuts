@@ -9,13 +9,12 @@
  "settings.feedback": "Обратная связь",
  "menu.shortcuts": "Мои команды",
  "menu.account": "Мой аккаунт",
- "info": "Ключ доступа",
- "info.api": "На следующем шаге откроется страница с вашим ключом доступа (API Key). Скопируйте его и нажмите 'Готово'!",
  "shortcut.install": "Установить команду",
  "shortcut.open": "Открыть в Safari",
  "account.avatar": "Изменить аватарку",
  "shortcuts.new": "Добавить новую",
  "shortcuts.description": "Введите описание",
  "shortcuts.icloud": "Введите iCloud URL",
- "shortcuts.category": "Выберите категорию"
+ "shortcuts.category": "Выберите категорию",
+ "new.success": "Команда успешно загружена!"
 }
