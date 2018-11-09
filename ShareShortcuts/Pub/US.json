@@ -11,5 +11,6 @@
  "info.api": "The next step will open the page with your API Key. Copy it and click 'Done'!",
  "shortcut.install": "Install Shortcut",
  "shortcut.open": "Open in Safari",
- "account.avatar": "Change Avatar"
+ "account.avatar": "Change Avatar",
+ "shortcuts.new": "Add New"
 }
