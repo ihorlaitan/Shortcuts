@@ -1,8 +1,8 @@
 {
  "lang.code": "US",
- "lang.version": "1.0.0",
+ "lang.version": "1.1",
  "menu.name": "ShareShortcuts Hub",
- "menu.latest": "Latest Shortcuts",
+ "menu.new": "New Shortcuts",
  "menu.search": "Search",
  "menu.settings": "Settings",
  "settings.language": "Language",
@@ -11,12 +11,13 @@
  "settings.feedback": "Feedback",
  "shortcut.install": "Install Shortcut",
  "shortcut.open": "Open in Safari",
- "menu.top": "Top-100 Shortcuts",
- "top.downloads": "By Downloads",
- "top.likes": "By Likes",
- "menu.categories": "All Categories",
+ "menu.top": "Top 100",
+ "top.downloads": "Most Downloaded",
+ "top.likes": "Most Liked",
+ "menu.categories": "Categories",
  "menu.updated": "Recent Updated",
  "search.next": "Next Page",
  "shortcut.version": "Version",
- "shortcut.author": "Author"
+ "shortcut.author": "Author",
+ "menu.newest": "Newest"
 }

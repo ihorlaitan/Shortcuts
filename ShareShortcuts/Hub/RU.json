@@ -1,8 +1,8 @@
 {
  "lang.code": "RU",
- "lang.version": "1.0.0",
+ "lang.version": "1.1",
  "menu.name": "ShareShortcuts Hub",
- "menu.latest": "Новые команды",
+ "menu.new": "Новые команды",
  "menu.search": "Поиск",
  "menu.settings": "Настройки",
  "settings.language": "Язык",
@@ -11,12 +11,13 @@
  "settings.feedback": "Обратная связь",
  "shortcut.install": "Установить команду",
  "shortcut.open": "Открыть в Safari",
- "menu.top": "Топ-100 команд",
- "top.downloads": "По количеству загрузок",
- "top.likes": "По отметкам нравится",
- "menu.categories": "Все категории",
+ "menu.top": "Топ 100",
+ "top.downloads": "Самые загружаемые",
+ "top.likes": "Самые понравившиеся",
+ "menu.categories": "Категории",
  "menu.updated": "Недавно обновленные",
  "search.next": "Следующая страница",
  "shortcut.version": "Версия",
- "shortcut.author": "Автор"
+ "shortcut.author": "Автор",
+ "menu.newest": "Новые"
 }
