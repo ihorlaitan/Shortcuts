@@ -16,5 +16,6 @@
  "shortcuts.description": "Enter a Description",
  "shortcuts.icloud": "Enter an iCloud URL",
  "shortcuts.category": "Select a Category",
+ "shortcuts.language": "Select a Language",
  "new.success": "Shortcut was Successfully Uploaded!"
 }
