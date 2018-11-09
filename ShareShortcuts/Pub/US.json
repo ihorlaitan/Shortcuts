@@ -12,5 +12,8 @@
  "shortcut.install": "Install Shortcut",
  "shortcut.open": "Open in Safari",
  "account.avatar": "Change Avatar",
- "shortcuts.new": "Add New"
+ "shortcuts.new": "Add New",
+ "shortcuts.description": "Enter a Description",
+ "shortcuts.icloud": "Enter an iCloud URL",
+ "shortcuts.category": "Select a Category"
 }

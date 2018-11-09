@@ -12,5 +12,7 @@
  "shortcut.install": "Установить команду",
  "shortcut.open": "Открыть в Safari",
  "account.avatar": "Изменить аватарку",
- "shortcuts.new": "Добавить новую"
+ "shortcuts.new": "Добавить новую",
+ "shortcuts.description": "Введите описание",
+ "shortcuts.icloud": "Введите iCloud URL"
 }
