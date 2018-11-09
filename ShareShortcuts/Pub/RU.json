@@ -14,5 +14,6 @@
  "account.avatar": "Изменить аватарку",
  "shortcuts.new": "Добавить новую",
  "shortcuts.description": "Введите описание",
- "shortcuts.icloud": "Введите iCloud URL"
+ "shortcuts.icloud": "Введите iCloud URL",
+ "shortcuts.category": "Выберите категорию"
 }
