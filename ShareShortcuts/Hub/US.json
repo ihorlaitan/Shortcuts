@@ -1,4 +1,6 @@
 {
+ "lang.code": "US",
+ "lang.version": "1.0.0",
  "menu.name": "ShareShortcuts Hub",
  "menu.latest": "Latest Shortcuts",
  "menu.search": "Search",
