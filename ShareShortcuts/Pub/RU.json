@@ -15,7 +15,7 @@
  "shortcuts.new": "Добавить новую",
  "shortcuts.description": "Введите описание",
  "shortcuts.icloud": "Введите iCloud URL",
- "shortcuts.category": "Выберите категорию",
- "shortcuts.language": "Выберите язык",
+ "shortcuts.Category": "Выберите категорию",
+ "shortcuts.Language": "Выберите язык",
  "new.success": "Команда успешно загружена!"
 }
