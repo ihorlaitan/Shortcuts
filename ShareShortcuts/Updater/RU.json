@@ -13,5 +13,6 @@
  "changelog.changes": "Изменения",
  "changelog.import": "Обновить",
  "settings.credits": "Благодарности",
- "settings.feedback": "Обратная связь"
+ "settings.feedback": "Обратная связь",
+ "menu.available": "Доступные обновления"
 }
