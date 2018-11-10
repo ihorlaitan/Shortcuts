@@ -9,8 +9,6 @@
  "changelog.noupdate": "没有可用更新",
  "changelog.name": "名称",
  "changelog.version": "版本",
- "changelog.current": "现在版本",
- "changelog.new": "新版本",
  "changelog.changes": "更改",
  "settings.credits": "感谢"
 }

@@ -10,9 +10,8 @@
  "changelog.noupdate": "Нет обновлений!",
  "changelog.name": "Название",
  "changelog.version": "Версия",
- "changelog.current": "Текущая версия",
- "changelog.new": "Новая версия",
  "changelog.changes": "Изменения",
+ "changelog.import": "Обновить",
  "settings.credits": "Благодарности",
  "settings.feedback": "Обратная связь"
 }
