@@ -1,4 +1,6 @@
 {
+ "lang.code": "RU",
+ "lang.version": "3.2",
  "name": "Инструменты",
  "menu.qrcode": "Создать QR-код",
  "menu.network": "Инструменты сети",
