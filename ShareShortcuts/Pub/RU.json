@@ -17,5 +17,10 @@
  "shortcuts.icloud": "Введите iCloud URL",
  "shortcuts.Category": "Выберите категорию",
  "shortcuts.Language": "Выберите язык",
- "new.success": "Команда успешно загружена!"
+ "new.success": "Команда успешно загружена!",
+ "shortcut.update": "Загрузить новую версию",
+ "shortcuts.changelog": "Введите изменения",
+ "shortcuts.versiontype": "Выберите тип версии",
+ "versiontype.minor": "Незначительное (пр. 1.1)",
+ "versiontype.major": "Значительное (пр. 2.0)"
 }
