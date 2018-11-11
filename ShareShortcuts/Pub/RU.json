@@ -18,6 +18,7 @@
  "shortcuts.Category": "Выберите категорию",
  "shortcuts.Language": "Выберите язык",
  "new.success": "Команда успешно загружена!",
+ "new.error": "Ошибка! Команда не загружена!",
  "shortcut.update": "Загрузить новую версию",
  "shortcuts.changelog": "Введите изменения",
  "shortcuts.versiontype": "Выберите тип версии",
