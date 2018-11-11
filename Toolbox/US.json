@@ -1,4 +1,6 @@
 {
+ "lang.code": "US",
+ "lang.version": "3.2",
  "name": "Toolbox",
  "menu.qrcode": "Make Qrcode",
  "menu.network": "Network Tools",
