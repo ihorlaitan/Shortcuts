@@ -1,4 +1,6 @@
 {
+ "lang.code": "DE",
+ "lang.version": "3.2",
  "name": "Werkzeugbox",
  "menu.qrcode": "Qr Code erstellen",
  "menu.network": "Netzwerk Einstellungen",
