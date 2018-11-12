@@ -23,5 +23,7 @@
  "shortcuts.changelog": "Enter a Changelog",
  "shortcuts.versiontype": "Select Version Type",
  "versiontype.minor": "Minor (ex. 1.1)",
- "versiontype.major": "Major (ex. 2.0)"
+ "versiontype.major": "Major (ex. 2.0)",
+ "settings.update": "Check Updates",
+ "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it."
 }
