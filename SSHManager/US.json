@@ -1,6 +1,6 @@
 {
  "lang.code": "US",
- "lang.version": "2.2",
+ "lang.version": "2.3",
  "menu.name": "SSH Manager",
  "info": "For the correct work of the Shortcut you should enable 'Remote Login' in 'System Preferences/Sharing' on your MacOS, also you need to specify SSH data on the next step. (You can change it later in Settings)",
  "info.secure": "For security, all data will only be stored on your device, outside the Shortcut.",
