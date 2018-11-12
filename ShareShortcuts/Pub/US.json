@@ -17,7 +17,7 @@
  "shortcuts.icloud": "Enter an iCloud URL",
  "shortcuts.Category": "Select a Category",
  "shortcuts.Language": "Select a Language",
- "new.success": "Shortcut was Successfully Uploaded!",
+ "new.success": "Shortcut '$0' was Successfully Uploaded!",
  "new.error": "Error! Shortcut was not uploaded!",
  "shortcut.update": "Upload New Version",
  "shortcuts.changelog": "Enter a Changelog",
