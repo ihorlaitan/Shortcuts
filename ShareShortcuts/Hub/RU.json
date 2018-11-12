@@ -1,6 +1,6 @@
 {
  "lang.code": "RU",
- "lang.version": "1.4",
+ "lang.version": "1.5",
  "menu.name": "ShareShortcuts Hub",
  "menu.new": "Новые команды",
  "menu.search": "Поиск",
@@ -20,7 +20,5 @@
  "shortcut.version": "Версия",
  "shortcut.author": "Автор",
  "menu.newest": "Новые",
- "shortcut.back": "В главное меню",
- "settings.update": "Проверка обновлений",
- "update.info": "Данная команда поддерживает автоматическую проверку обновлений раз в три дня с помощью собственного 'Shortcuts Updater'. На следующем шаге вам предстоит его установить."
+ "shortcut.back": "В главное меню"
 }
