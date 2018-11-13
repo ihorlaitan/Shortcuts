@@ -1,0 +1,79 @@
+{
+  "Version": "1.2",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇺🇸 English",
+    "DE": "🇩🇪 German"
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+  },
+  "Strings": {
+    "menu.name": {
+      "US": "Parcel Tracker",
+      "RU": "Трекер посылок",
+      "DE": "Paket Verfolger"
+    },
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen"
+    },
+    "settings.language": {
+      "US": "Language",
+      "RU": "Язык",
+      "DE": "Sprache"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Credits"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Feedback"
+    },
+    "track.name": {
+      "US": "Enter Name",
+      "RU": "Введите название",
+      "DE": "Gib bitte den Namen ein"
+    },
+    "track.number": {
+      "US": "Enter Track Number",
+      "RU": "Введите трек-номер",
+      "DE": "Gib bitte deine Paketnummer ein"
+    },
+    "track.track": {
+      "US": "Track Parcel",
+      "RU": "Отследить посылку",
+      "DE": "Verfolge das Paket"
+    },
+    "track.remove": {
+      "US": "Remove Track",
+      "RU": "Удалить трек-номер",
+      "DE": "Lösche die Verfolgung"
+    },
+    "track.changename": {
+      "US": "Change Name",
+      "RU": "Изменить название",
+      "DE": "Namen ändern"
+    },
+    "track.changetrack": {
+      "US": "Change Track",
+      "RU": "Изменить трек-номер",
+      "DE": "Die Paketverfolgung ändern"
+    },
+    "track.add": {
+      "US": "Add Track",
+      "RU": "Добавить трек-номер",
+      "DE": "Eine Verfolgung hinzufügen"
+    }
+  }
+}
