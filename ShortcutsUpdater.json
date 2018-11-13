@@ -1,0 +1,113 @@
+{
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇺🇸 English",
+    "DE": "🇩🇪 German",
+    "CH": "🇨🇳 Chinese S.",
+    "ZH": "🇨🇳 Chinese T.",
+    "DK": "🇩🇰 Danish"
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "Daniel Bahl (Made ShareShortcuts)": "https://twitter.com/danielbahl",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+  },
+  "Strings": {
+    "menu.available": {
+      "RU": "Доступные обновления",
+      "US": "Available Updates",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "Tilgængelige Opdateringer"
+    },
+    "menu.settings": {
+      "RU": "Настройки",
+      "US": "Settings",
+      "DE": "Einstellungen",
+      "CH": "设定",
+      "ZH": "設定",
+      "DK": "Indstillinger"
+    },
+    "settings.language": {
+      "RU": "Язык",
+      "US": "Language",
+      "DE": "Sprache",
+      "CH": "语言",
+      "ZH": "語言",
+      "DK": "Sprog"
+    },
+    "language.help": {
+      "RU": "Помощь в переводе",
+      "US": "Help Us Translate",
+      "DE": "Hilf uns übersetzen",
+      "CH": "帮助翻译",
+      "ZH": "幫助翻譯",
+      "DK": "Hjælp os med at oversætte"
+    },
+    "settings.credits": {
+      "RU": "Благодарности",
+      "US": "Credits",
+      "DE": "",
+      "CH": "感谢",
+      "ZH": "感謝",
+      "DK": "Credits"
+    },
+    "settings.feedback": {
+      "RU": "Обратная связь",
+      "US": "Feedback",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "Feedback"
+    },
+    "changelog.update": {
+      "RU": "Доступно обновление!",
+      "US": "An update is available!",
+      "DE": "Eine neue Version ist verfügbar!",
+      "CH": "有可用更新",
+      "ZH": "有可用更新",
+      "DK": "En opdatering er tilgængelig!"
+    },
+    "changelog.noupdate": {
+      "RU": "Нет обновлений!",
+      "US": "No Updates!",
+      "DE": "Keine neue Version verfügbar!",
+      "CH": "没有可用更新",
+      "ZH": "沒有可用更新",
+      "DK": "Ingen opdateringer!"
+    },
+    "changelog.name": {
+      "RU": "Название",
+      "US": "Name",
+      "DE": "Name",
+      "CH": "名称",
+      "ZH": "名稱",
+      "DK": "Navn"
+    },
+    "changelog.version": {
+      "RU": "Версия",
+      "US": "Version",
+      "DE": "Version",
+      "CH": "版本",
+      "ZH": "版本",
+      "DK": "Version"
+    },
+    "changelog.changes": {
+      "RU": "Изменения",
+      "US": "Changes",
+      "DE": "Änderungen",
+      "CH": "更改",
+      "ZH": "更改",
+      "DK": "Ændringer"
+    },
+    "changelog.import": {
+      "RU": "Обновить",
+      "US": "Update",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "Opdater"
+    }
+  }
+}
