@@ -1,14 +1,14 @@
 {
   "Version": "4.3",
-  "Languages": {
-    "RU": "🇷🇺 Русский",
-    "US": "🇱🇷 English",
-    "DE": "🇩🇪 German"
-  },
   "Credits": {
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "Tyckx (German Language)": "https://github.com/Tyckx",
     "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+  },
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇱🇷 English",
+    "DE": "🇩🇪 German"
   },
   "Strings": {
     "menu.name": {
