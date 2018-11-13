@@ -1,10 +1,10 @@
 {
   "Version": "2.4",
   "Languages": {
-    "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
-    "NL": "🇳🇱 Nederlands",
-    "DE": "🇩🇪 German"
+    "RU": "🇷🇺 Русский",
+    "DE": "🇩🇪 German",
+    "NL": "🇳🇱 Nederlands"
   },
   "Strings": {
     "menu.name": {
