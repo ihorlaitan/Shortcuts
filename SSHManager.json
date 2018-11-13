@@ -1,10 +1,5 @@
 {
   "Version": "2.4",
-  "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
-    "Soheabmalik (Nederlands Language)": "https://www.reddit.com/u/Soheabmalik",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
-  },
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
@@ -252,5 +247,10 @@
       "DE": "Datei übertragen",
       "NL": ""
     }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "Soheabmalik (Nederlands Language)": "https://www.reddit.com/u/Soheabmalik",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
   }
 }
