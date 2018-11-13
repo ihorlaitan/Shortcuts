@@ -1,13 +1,8 @@
 {
   "Version": "4.3",
-  "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
-    "Tyckx (German Language)": "https://github.com/Tyckx",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
-  },
   "Languages": {
-    "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
+    "RU": "🇷🇺 Русский",
     "DE": "🇩🇪 German"
   },
   "Strings": {
@@ -76,5 +71,10 @@
       "RU": "Нет изменений цен!",
       "DE": "Keine Preisveränderungen!"
     }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "Tyckx (German Language)": "https://github.com/Tyckx",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
   }
 }

@@ -1,12 +1,8 @@
 {
   "Version": "1.3",
-  "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
-  },
   "Languages": {
-    "RU": "🇷🇺 Русский",
     "US": "🇺🇸 English",
+    "RU": "🇷🇺 Русский",
     "DE": "🇩🇪 German"
   },
   "Strings": {
@@ -75,5 +71,9 @@
       "RU": "Добавить трек-номер",
       "DE": "Eine Verfolgung hinzufügen"
     }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
   }
 }
