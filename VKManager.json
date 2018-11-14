@@ -1,0 +1,94 @@
+{
+  "Version": "1.0",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇱🇷 English",
+    "DE": "🇩🇪 German"
+  },
+  "Strings": {
+    "menu.name": {
+      "US": "VK Manager",
+      "RU": "Менеджер Вконтакте",
+      "DE": "VK Manager"
+    },
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen"
+    },
+    "settings.language": {
+      "US": "Language",
+      "RU": "Язык",
+      "DE": "Sprache"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Gib uns dein Feedback!"
+    },
+    "menu.message": {
+      "US": "Send Message",
+      "RU": "Отправить сообщение",
+      "DE": "Eine Nachricht senden"
+    },
+    "menu.friends": {
+      "US": "Friends List",
+      "RU": "Список друзей",
+      "DE": "Freundesliste"
+    },
+    "friends.profile": {
+      "US": "Open Profile",
+      "RU": "Открыть профиль",
+      "DE": "Profil öffnen"
+    },
+    "friends.favorites": {
+      "US": "Favorites",
+      "RU": "Избранные",
+      "DE": "Favoriten"
+    },
+    "favorites.add": {
+      "US": "Add to Favorites",
+      "RU": "Добавить в Избранные",
+      "DE": "Zu den Favoriten hinzufügen"
+    },
+    "favorites.remove": {
+      "US": "Remove from Favorites",
+      "RU": "Удалить из Избранных",
+      "DE": "Von den Favoriten entfernen"
+    },
+    "info.token": {
+      "US": "In order for the Shortcut to be able to interact with Vkontakte you need an Access Token. To get it, in the next step, you need to log in to Vkontakte, click allow, then copy the link and return to the Shortcut.",
+      "RU": "Для того, чтобы команда могла взаимодействовать с Вконтакте, необходим токен доступа. Чтобы получить его, на следующем шаге Вам необходимо авторизоваться во Вконтакте, нажать кнопку Разрешить, затем скопировать ссылку и вернуться к команде.",
+      "DE": "Damit der Shortcut mit Vkontakte richtig funktionieren kann, benötigen Sie ein Access Token. Um den Access Token zu erhalten, müssen Sie sich im nächsten Schritt bei Vkontakte anmelden, auf Erlauben klicken, den Link kopieren und zur Verknüpfung zurückkehren."
+    },
+    "info.secure": {
+      "US": "For security, all data will only be stored on your device, outside the Shortcut.",
+      "RU": "Для безопасности, все данные будут храниться только на вашем устройстве, вне команды.",
+      "DE": "Für deine Sicherheit, werden alle deine Daten auf deinem Gerät gespeichert, außerhalb des Kurzbefehls."
+    },
+    "menu.status": {
+      "US": "Change Status",
+      "RU": "Изменить статус",
+      "DE": "Ändere deinen Status"
+    },
+    "menu.profile": {
+      "US": "My Profile",
+      "RU": "Мой профиль",
+      "DE": "Mein Profil"
+    }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+  }
+}
