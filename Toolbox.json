@@ -1,0 +1,443 @@
+{
+  "Version": "3.3",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇺🇸 English",
+    "DE": "🇩🇪 German",
+    "TR": "🇹🇷 Turkish",
+    "CH": "🇨🇳 Chinese S.",
+    "ZH": "🇨🇳 Chinese T."
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "DjPeaceTR (Turkish Language)": "https://www.reddit.com/u/DjPeaceTR",
+    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT"
+  },
+  "Strings": {
+    "menu.name": {
+      "US": "Toolbox",
+      "RU": "Инструменты",
+      "DE": "Werkzeugbox",
+      "TR": "Toolbox",
+      "CH": "工具箱",
+      "ZH": "工具箱"
+    },
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen",
+      "TR": "Ayarlar",
+      "CH": "设定",
+      "ZH": "設定"
+    },
+    "settings.language": {
+      "US": "Language",
+      "RU": "Язык",
+      "DE": "Sprache",
+      "TR": "Dil",
+      "CH": "语言",
+      "ZH": "語言"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen",
+      "TR": "Bize çeviride yardım edin",
+      "CH": "帮助翻译",
+      "ZH": "幫助翻譯"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an",
+      "TR": "Teşekkürler",
+      "CH": "感谢",
+      "ZH": "感謝"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Feedback",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "menu.qrcode": {
+      "US": "Make Qrcode",
+      "RU": "Создать QR-код",
+      "DE": "Qr Code erstellen",
+      "TR": "Qr kod yarat",
+      "CH": "制作二维码",
+      "ZH": "製作二維碼"
+    },
+    "menu.network": {
+      "US": "Network Tools",
+      "RU": "Инструменты сети",
+      "DE": "Netzwerk Einstellungen",
+      "TR": "Ağ Bağlantısı Araçları",
+      "CH": "网路工具",
+      "ZH": "網路工具"
+    },
+    "menu.battery": {
+      "US": "Battery Modes",
+      "RU": "Режимы батареи",
+      "DE": "Batterie Modus",
+      "TR": "Pil Modları",
+      "CH": "电池模式",
+      "ZH": "電池模式"
+    },
+    "menu.other": {
+      "US": "Other Tools",
+      "RU": "Другие инструменты",
+      "DE": "Andere",
+      "TR": "Diğer",
+      "CH": "其他",
+      "ZH": "其他"
+    },
+    "menu.enabled": {
+      "US": "Enabled",
+      "RU": "Включено",
+      "DE": "Aktiviert",
+      "TR": "Aktif",
+      "CH": "已启用",
+      "ZH": "已啟用"
+    },
+    "menu.disabled": {
+      "US": "Disabled",
+      "RU": "Выключено",
+      "DE": "Deaktiviert",
+      "TR": "Devre dışı",
+      "CH": "已停用",
+      "ZH": "已停用"
+    },
+    "menu.backup": {
+      "US": "Backup & Restore",
+      "RU": "Бэкап и восстановление",
+      "DE": "Sichern & wiederherstellen",
+      "TR": "Yedekle & Kurtar",
+      "CH": "备份及还原",
+      "ZH": "備份及還原"
+    },
+    "qrcode.url": {
+      "US": "URL",
+      "RU": "URL-адрес",
+      "DE": "URL",
+      "TR": "URL",
+      "CH": "网路连结",
+      "ZH": "網路連結"
+    },
+    "qrcode.nourl": {
+      "US": "URL not found!",
+      "RU": "URL-адрес не найден!",
+      "DE": "URL nicht gefunden!",
+      "TR": "URL bulunamadı!",
+      "CH": "连结不存在",
+      "ZH": "連結不存在"
+    },
+    "qrcode.image": {
+      "US": "Image",
+      "RU": "Изображение",
+      "DE": "Bild",
+      "TR": "Resim",
+      "CH": "图片",
+      "ZH": "圖片"
+    },
+    "qrcode.wifi": {
+      "US": "Wi-Fi",
+      "RU": "Сеть Wi-Fi",
+      "DE": "Wlan",
+      "TR": "Wi-Fi",
+      "CH": "无线网络",
+      "ZH": "無線網絡"
+    },
+    "qrcode.enter": {
+      "US": "Current Network Password",
+      "RU": "Пароль текущей сети",
+      "DE": "Aktuelles Wlan-Passwort",
+      "TR": "Varsayılan Ağ Parolası",
+      "CH": "现在网路密码",
+      "ZH": "現在網路密碼"
+    },
+    "qrcode.network": {
+      "US": "Network not found!",
+      "RU": "Сеть не найдена!",
+      "DE": "Netzwerk nicht gefunden!",
+      "TR": "Ağ bağlantısı bulunamadı!",
+      "CH": "网路不存在",
+      "ZH": "網路不存在"
+    },
+    "network.speed": {
+      "US": "Network Speed Test",
+      "RU": "Проверка скорости",
+      "DE": "Netzwerk Geschwindigkeitstest",
+      "TR": "Ağ Bağlantısı Hız Testi",
+      "CH": "网络速度测试",
+      "ZH": "網絡速度測試"
+    },
+    "network.switch": {
+      "US": "Auto Switch Network",
+      "RU": "Авто-переключение сети",
+      "DE": "Automatisch Netzwerk wechseln",
+      "TR": "Ağ Bağlantısı Otomatik Seçim",
+      "CH": "自动切换网络",
+      "ZH": "自動切換網絡"
+    },
+    "network.reboot": {
+      "US": "Reboot Network",
+      "RU": "Перезагрузить сеть",
+      "DE": "Netzwerk neustarten",
+      "TR": "Ağ Bağlantısını Yeniden Başlat",
+      "CH": "重启网络",
+      "ZH": "重啟網絡"
+    },
+    "battery.normal": {
+      "US": "Normal",
+      "RU": "Обычный режим",
+      "DE": "Normalansicht",
+      "TR": "Normal",
+      "CH": "正常",
+      "ZH": "正常"
+    },
+    "battery.charging": {
+      "US": "Charging",
+      "RU": "На зарядке",
+      "DE": "Erhebung",
+      "TR": "Şarj oluyor",
+      "CH": "充电中",
+      "ZH": "充電中"
+    },
+    "battery.superlow": {
+      "US": "Super Low Charge",
+      "RU": "Очень низкий заряд",
+      "DE": "sehr Stromsparen",
+      "TR": "Süper Yavaş Şarj",
+      "CH": "电量严重不足",
+      "ZH": "電量嚴重不足"
+    },
+    "backup.save": {
+      "US": "Save Shortcuts",
+      "RU": "Сохранить команды",
+      "DE": "Kurzbefehle speichern",
+      "TR": "Kestirmeleri Kaydet",
+      "CH": "备份捷径",
+      "ZH": "備份捷徑"
+    },
+    "backup.restore": {
+      "US": "Restore Shortcuts",
+      "RU": "Восстановить команды",
+      "DE": "Kurzbefehle wiederherstellen",
+      "TR": "Kestirmeleri Kurtar",
+      "CH": "回复捷径",
+      "ZH": "回復捷徑"
+    },
+    "other.respring": {
+      "US": "Respring Interface",
+      "RU": "Перезагрузка интерфейса",
+      "DE": "Interface neu laden",
+      "TR": "Respring",
+      "CH": "重新载入主介面",
+      "ZH": "重新載入主介面"
+    },
+    "other.age": {
+      "US": "Age Calculator",
+      "RU": "Калькулятор возраста",
+      "DE": "Alter Taschenrechner",
+      "TR": "Yaş Hesaplama",
+      "CH": "年龄计算机",
+      "ZH": "年齡計算機"
+    },
+    "age.age": {
+      "US": "Age",
+      "RU": "Возраст",
+      "DE": "Alter",
+      "TR": "Yaş",
+      "CH": "年龄",
+      "ZH": "年齡"
+    },
+    "age.years": {
+      "US": "years",
+      "RU": "лет",
+      "DE": "Jahre alt",
+      "TR": "yıl",
+      "CH": "年",
+      "ZH": "年"
+    },
+    "settings.pin": {
+      "US": "PIN Code",
+      "RU": "ПИН-код",
+      "DE": "",
+      "TR": "PIN Kodu",
+      "CH": "密码",
+      "ZH": "密碼"
+    },
+    "pin.set": {
+      "US": "Set PIN",
+      "RU": "Установить ПИН-код",
+      "DE": "",
+      "TR": "PIN Ayarla",
+      "CH": "设定密码",
+      "ZH": "設定密碼"
+    },
+    "pin.reset": {
+      "US": "Reset PIN",
+      "RU": "Сбросить ПИН-код",
+      "DE": "",
+      "TR": "PIN Sıfırla",
+      "CH": "重设密码",
+      "ZH": "重設密碼"
+    },
+    "qrcode.text": {
+      "US": "Text",
+      "RU": "Текст",
+      "DE": "",
+      "TR": "Metin",
+      "CH": "文字",
+      "ZH": "文字"
+    },
+    "qrcode.clipboard": {
+      "US": "Clipboard",
+      "RU": "Буфер обмена",
+      "DE": "",
+      "TR": "Pano",
+      "CH": "剪贴板",
+      "ZH": "剪貼板"
+    },
+    "other.timer": {
+      "US": "Set Timer",
+      "RU": "Установить таймер",
+      "DE": "",
+      "TR": "Zamanlayıcıyı Ayarla",
+      "CH": "设定计时器",
+      "ZH": "設定計時器"
+    },
+    "timer.seconds": {
+      "US": "Seconds",
+      "RU": "Секунды",
+      "DE": "",
+      "TR": "Saniye",
+      "CH": "秒",
+      "ZH": "秒"
+    },
+    "timer.minutes": {
+      "US": "Minutes",
+      "RU": "Минуты",
+      "DE": "",
+      "TR": "Dakika",
+      "CH": "分钟",
+      "ZH": "分鐘"
+    },
+    "timer.hours": {
+      "US": "Hours",
+      "RU": "Часы",
+      "DE": "",
+      "TR": "Saat",
+      "CH": "小时",
+      "ZH": "小時"
+    },
+    "other.emoji": {
+      "US": "Emoji by Name",
+      "RU": "Эмодзи по имени",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "emoji.available": {
+      "US": "Available Emoji",
+      "RU": "Доступные эмодзи",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "emoji.notfound": {
+      "US": "Emoji not found!",
+      "RU": "Эмодзи не найдены!",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "other.base64": {
+      "US": "Base64 Encryption",
+      "RU": "Шифрование Base64",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "base64.encode": {
+      "US": "Encode",
+      "RU": "Кодировать",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "base64.decode": {
+      "US": "Decode",
+      "RU": "Декодировать",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "encode.shortcut": {
+      "US": "Shortcut",
+      "RU": "Команда",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "encode.file": {
+      "US": "File",
+      "RU": "Файл",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "encode.audio": {
+      "US": "Recorded Audio",
+      "RU": "Запись голоса",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "notifications.clipboard": {
+      "US": "Copied in Clipboard!",
+      "RU": "Скопировано в буфер!",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "other.regex": {
+      "US": "Regex Text",
+      "RU": "Сопоставление текста",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "regex.between": {
+      "US": "Between Two Strings",
+      "RU": "Между двумя строками",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "regex.commas": {
+      "US": "With Commas End",
+      "RU": "С кавычками на конце",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    }
+  }
+}
