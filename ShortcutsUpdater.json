@@ -1,0 +1,115 @@
+{
+  "Version": "1.3",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇺🇸 English",
+    "DE": "🇩🇪 German",
+    "CH": "🇨🇳 Chinese S.",
+    "ZH": "🇨🇳 Chinese T.",
+    "DK": "🇩🇰 Danish"
+  },
+  "Strings": {
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen",
+      "CH": "设定",
+      "ZH": "設定",
+      "DK": "Indstillinger"
+    },
+    "settings.language": {
+      "US": "Language",
+      "RU": "Язык",
+      "DE": "Sprache",
+      "CH": "语言",
+      "ZH": "語言",
+      "DK": "Sprog"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen",
+      "CH": "帮助翻译",
+      "ZH": "幫助翻譯",
+      "DK": "Hjælp os med at oversætte"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an",
+      "CH": "感谢",
+      "ZH": "感謝",
+      "DK": "Credits"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Feedback",
+      "CH": "",
+      "ZH": "",
+      "DK": "Feedback"
+    },
+    "menu.available": {
+      "US": "Available Updates",
+      "RU": "Доступные обновления",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "Tilgængelige Opdateringer"
+    },
+    "changelog.update": {
+      "US": "An update is available!",
+      "RU": "Доступно обновление!",
+      "DE": "Eine neue Version ist verfügbar!",
+      "CH": "有可用更新",
+      "ZH": "有可用更新",
+      "DK": "En opdatering er tilgængelig!"
+    },
+    "changelog.noupdate": {
+      "US": "No Updates!",
+      "RU": "Нет обновлений!",
+      "DE": "Keine neue Version verfügbar!",
+      "CH": "没有可用更新",
+      "ZH": "沒有可用更新",
+      "DK": "Ingen opdateringer!"
+    },
+    "changelog.name": {
+      "US": "Name",
+      "RU": "Название",
+      "DE": "Name",
+      "CH": "名称",
+      "ZH": "名稱",
+      "DK": "Navn"
+    },
+    "changelog.version": {
+      "US": "Version",
+      "RU": "Версия",
+      "DE": "Version",
+      "CH": "版本",
+      "ZH": "版本",
+      "DK": "Version"
+    },
+    "changelog.changes": {
+      "US": "Changes",
+      "RU": "Изменения",
+      "DE": "Änderungen",
+      "CH": "更改",
+      "ZH": "更改",
+      "DK": "Ændringer"
+    },
+    "changelog.import": {
+      "US": "Update",
+      "RU": "Обновить",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "Opdater"
+    }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "Daniel Bahl (Made ShareShortcuts)": "https://twitter.com/danielbahl",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT"
+  }
+}
