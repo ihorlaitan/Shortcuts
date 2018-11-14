@@ -8,12 +8,6 @@
     "CH": "🇨🇳 Chinese S.",
     "ZH": "🇨🇳 Chinese T."
   },
-  "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
-    "DjPeaceTR (Turkish Language)": "https://www.reddit.com/u/DjPeaceTR",
-    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT"
-  },
   "Strings": {
     "menu.name": {
       "US": "Toolbox",
@@ -439,5 +433,11 @@
       "CH": "",
       "ZH": ""
     }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "DjPeaceTR (Turkish Language)": "https://www.reddit.com/u/DjPeaceTR",
+    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT"
   }
 }
