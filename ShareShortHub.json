@@ -1,0 +1,115 @@
+{
+  "Version": "2.4",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇱🇷 English",
+    "DE": "🇩🇪 German"
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "Daniel Bahl (Made ShareShortcuts)": "https://twitter.com/danielbahl",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+  },
+  "Strings": {
+    "menu.name": {
+      "US": "ShareShortcuts Hub",
+      "RU": "ShareShortcuts Hub",
+      "DE": "ShareShortcuts Hub"
+    },
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen"
+    },
+    "settings.language": {
+      "US": "Language",
+      "RU": "Язык",
+      "DE": "Sprache"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Feedback"
+    },
+    "menu.newest": {
+      "US": "Newest",
+      "RU": "Новые",
+      "DE": ""
+    },
+    "menu.updated": {
+      "US": "Recent Updated",
+      "RU": "Недавно обновленные",
+      "DE": "Wichtige Updates"
+    },
+    "menu.new": {
+      "US": "New Shortcuts",
+      "RU": "Новые команды",
+      "DE": "Letzter Kurzbefehl"
+    },
+    "menu.top": {
+      "US": "Top 100",
+      "RU": "Топ 100",
+      "DE": "Top 100"
+    },
+    "top.downloads": {
+      "US": "Most Downloaded",
+      "RU": "Самые загружаемые",
+      "DE": "von den Downloads her"
+    },
+    "top.likes": {
+      "US": "Most Liked",
+      "RU": "Самые понравившиеся",
+      "DE": "von den Likes her"
+    },
+    "menu.search": {
+      "US": "Search",
+      "RU": "Поиск",
+      "DE": "Suchen"
+    },
+    "shortcut.install": {
+      "US": "Install Shortcut",
+      "RU": "Установить команду",
+      "DE": "Installiere den Kurzbefehl"
+    },
+    "shortcut.open": {
+      "US": "Open in Safari",
+      "RU": "Открыть в Safari",
+      "DE": "Öffne in Safari"
+    },
+    "menu.categories": {
+      "US": "Categories",
+      "RU": "Категории",
+      "DE": "Kategorien"
+    },
+    "search.next": {
+      "US": "Next Page",
+      "RU": "Следующая страница",
+      "DE": "Nächste Seite"
+    },
+    "shortcut.version": {
+      "US": "Version",
+      "RU": "Версия",
+      "DE": "Version"
+    },
+    "shortcut.author": {
+      "US": "Author",
+      "RU": "Автор",
+      "DE": "Entwickler"
+    },
+    "shortcut.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню",
+      "DE": ""
+    }
+  }
+}
