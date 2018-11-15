@@ -1,0 +1,129 @@
+{
+  "Version": "1.0",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇱🇷 English",
+    "DE": "🇩🇪 German"
+  },
+  "Strings": {
+    "menu.name": {
+      "US": "ShareShortcuts Pub",
+      "RU": "ShareShortcuts Pub",
+      "DE": "ShareShortcuts Pub"
+    },
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen"
+    },
+    "settings.language": {
+      "US": "Language",
+      "RU": "Язык",
+      "DE": "Sprache"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Gib uns dein Feedback!"
+    },
+    "menu.shortcuts": {
+      "US": "My Shortcuts",
+      "RU": "Мои команды",
+      "DE": "Meine Kurzbefehle"
+    },
+    "menu.account": {
+      "US": "My Account",
+      "RU": "Мой аккаунт",
+      "DE": "Mein Account"
+    },
+    "shortcut.install": {
+      "US": "Install Shortcut",
+      "RU": "Установить команду",
+      "DE": "Installiere den Kurzbefehl"
+    },
+    "shortcut.open": {
+      "US": "Open in Safari",
+      "RU": "Открыть в Safari",
+      "DE": "Öffne in Safari"
+    },
+    "account.avatar": {
+      "US": "Change Avatar",
+      "RU": "Изменить аватарку",
+      "DE": "Avatar ändern"
+    },
+    "shortcuts.new": {
+      "US": "Add New",
+      "RU": "Добавить новую",
+      "DE": "Einen neuen hinzufügen"
+    },
+    "shortcuts.description": {
+      "US": "Enter a Description",
+      "RU": "Введите описание",
+      "DE": ""
+    },
+    "shortcuts.icloud": {
+      "US": "Enter an iCloud URL",
+      "RU": "Введите iCloud URL",
+      "DE": ""
+    },
+    "shortcuts.Category": {
+      "US": "Select a Category",
+      "RU": "Выберите категорию",
+      "DE": ""
+    },
+    "shortcuts.Language": {
+      "US": "Select a Language",
+      "RU": "Выберите язык",
+      "DE": ""
+    },
+    "new.success": {
+      "US": "Shortcut '$0' was Successfully Uploaded!",
+      "RU": "Команда '$0' успешно загружена!",
+      "DE": ""
+    },
+    "new.error": {
+      "US": "Error! Shortcut was not uploaded!",
+      "RU": "Ошибка! Команда не загружена!",
+      "DE": ""
+    },
+    "shortcut.update": {
+      "US": "Upload New Version",
+      "RU": "Загрузить новую версию",
+      "DE": ""
+    },
+    "shortcuts.changelog": {
+      "US": "Enter a Changelog",
+      "RU": "Введите изменения",
+      "DE": ""
+    },
+    "shortcuts.versiontype": {
+      "US": "Select Version Type",
+      "RU": "Выберите тип версии",
+      "DE": ""
+    },
+    "versiontype.minor": {
+      "US": "Minor (ex. 1.1)",
+      "RU": "Незначительное (пр. 1.1)",
+      "DE": ""
+    },
+    "versiontype.major": {
+      "US": "Major (ex. 2.0)",
+      "RU": "Значительное (пр. 2.0)",
+      "DE": ""
+    }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+  }
+}
