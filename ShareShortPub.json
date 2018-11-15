@@ -130,6 +130,11 @@
       "US": "JSON-files Storage",
       "RU": "Хранилище JSON-файлов",
       "DE": ""
+    },
+    "shortcut.description": {
+      "US": "Change Description",
+      "RU": "Изменить описание",
+      "DE": ""
     }
   },
   "Credits": {
