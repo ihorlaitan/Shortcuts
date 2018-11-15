@@ -127,8 +127,8 @@
       "DE": ""
     },
     "shortcut.json": {
-      "US": "JSON-files",
-      "RU": "JSON-файлы",
+      "US": "JSON-files Storage",
+      "RU": "Хранилище JSON-файлов",
       "DE": ""
     }
   },
