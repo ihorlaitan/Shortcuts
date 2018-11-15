@@ -70,6 +70,21 @@
       "US": "No price changes!",
       "RU": "Нет изменений цен!",
       "DE": "Keine Preisveränderungen!"
+    },
+    "menu.next": {
+      "US": "Next Page",
+      "RU": "Следующая",
+      "DE": ""
+    },
+    "menu.main": {
+      "US": "First Page",
+      "RU": "На главную",
+      "DE": ""
+    },
+    "settings.items": {
+      "US": "Apps Per Page",
+      "RU": "Кол-во приложений",
+      "DE": ""
     }
   },
   "Credits": {
