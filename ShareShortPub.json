@@ -125,6 +125,11 @@
       "US": "Custom (ex. 12.3)",
       "RU": "Другое (пр. 12.3)",
       "DE": ""
+    },
+    "shortcut.json": {
+      "US": "JSON-files",
+      "RU": "JSON-файлы",
+      "DE": ""
     }
   },
   "Credits": {
