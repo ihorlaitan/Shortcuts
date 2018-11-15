@@ -432,6 +432,14 @@
       "TR": "",
       "CH": "",
       "ZH": ""
+    },
+    "menu.file": {
+      "US": "File Management",
+      "RU": "Управление файлами",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
     }
   },
   "Credits": {
