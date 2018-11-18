@@ -441,6 +441,14 @@
       "CH": "",
       "ZH": ""
     },
+    "file.upload": {
+      "US": "Upload File",
+      "RU": "Загрузить файл",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
     "upload.days": {
       "US": "Days",
       "RU": "дня(ей)",
@@ -465,9 +473,9 @@
       "CH": "",
       "ZH": ""
     },
-    "file.upload": {
-      "US": "Upload File",
-      "RU": "Загрузить файл",
+    "upload.duration": {
+      "US": "Duration",
+      "RU": "Продолжительность",
       "DE": "",
       "TR": "",
       "CH": "",
