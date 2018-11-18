@@ -250,7 +250,7 @@
       "ZH": "年齡"
     },
     "age.years": {
-      "US": "years",
+      "US": "Years",
       "RU": "лет",
       "DE": "Jahre alt",
       "TR": "yıl",
@@ -307,7 +307,7 @@
     },
     "timer.seconds": {
       "US": "Seconds",
-      "RU": "Секунды",
+      "RU": "секунд(ы)",
       "DE": "",
       "TR": "Saniye",
       "CH": "秒",
@@ -315,7 +315,7 @@
     },
     "timer.minutes": {
       "US": "Minutes",
-      "RU": "Минуты",
+      "RU": "минут(ы)",
       "DE": "",
       "TR": "Dakika",
       "CH": "分钟",
@@ -323,7 +323,7 @@
     },
     "timer.hours": {
       "US": "Hours",
-      "RU": "Часы",
+      "RU": "час(а)",
       "DE": "",
       "TR": "Saat",
       "CH": "小时",
@@ -436,6 +436,30 @@
     "menu.file": {
       "US": "File Management",
       "RU": "Управление файлами",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "upload.days": {
+      "US": "Days",
+      "RU": "дня(ей)",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "upload.weeks": {
+      "US": "Weeks",
+      "RU": "недель(ли)",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "upload.months": {
+      "US": "Months",
+      "RU": "месяца(ев)",
       "DE": "",
       "TR": "",
       "CH": "",
