@@ -246,6 +246,12 @@
       "RU": "Отправить файл",
       "DE": "Datei übertragen",
       "NL": ""
+    },
+    "volume.current": {
+      "US": "Current Volume",
+      "RU": "Текущая громкость",
+      "DE": "",
+      "NL": ""
     }
   },
   "Credits": {
