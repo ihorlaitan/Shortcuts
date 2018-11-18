@@ -251,7 +251,7 @@
     },
     "age.years": {
       "US": "Years",
-      "RU": "лет",
+      "RU": "лет(год)",
       "DE": "Jahre alt",
       "TR": "yıl",
       "CH": "年",
@@ -460,6 +460,14 @@
     "upload.months": {
       "US": "Months",
       "RU": "месяца(ев)",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "file.upload": {
+      "US": "Upload File",
+      "RU": "Загрузить файл",
       "DE": "",
       "TR": "",
       "CH": "",
