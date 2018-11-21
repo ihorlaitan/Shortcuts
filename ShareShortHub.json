@@ -105,6 +105,16 @@
       "US": "Back to Menu",
       "RU": "В главное меню",
       "DE": ""
+    },
+    "menu.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню",
+      "DE": ""
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": ""
     }
   },
   "Credits": {
