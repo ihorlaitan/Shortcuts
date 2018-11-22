@@ -57,6 +57,14 @@
       "ZH": "",
       "DK": "Tilgængelige Opdateringer"
     },
+    "menu.supported": {
+      "US": "Supported Shortcuts",
+      "RU": "Поддерживаемые команды",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": ""
+    },
     "changelog.update": {
       "US": "An update is available!",
       "RU": "Доступно обновление!",
