@@ -219,11 +219,27 @@
     },
     "backup.share": {
       "US": "Share Backup",
+      "RU": "Поделиться командами",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "share.url": {
+      "US": "Share Backup",
       "RU": "Поделиться бэкапом",
-      "DE": "Kurzbefehle speichern",
-      "TR": "Kestirmeleri Kaydet",
-      "CH": "备份捷径",
-      "ZH": "備份捷徑"
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "share.import": {
+      "US": "Import Backup",
+      "RU": "Импортировать бэкап",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
     },
     "backup.restore": {
       "US": "Restore Shortcuts",
