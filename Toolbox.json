@@ -242,8 +242,8 @@
       "ZH": ""
     },
     "share.error": {
-      "US": "At First, Save Shortcuts!",
-      "RU": "Сначала, сохраните команды!",
+      "US": "At First, Save Shortcuts or Import Backup!",
+      "RU": "Сначала, сохраните команды, или импортируйте бэкап!",
       "DE": "",
       "TR": "",
       "CH": "",
