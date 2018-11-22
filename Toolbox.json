@@ -217,6 +217,14 @@
       "CH": "备份捷径",
       "ZH": "備份捷徑"
     },
+    "backup.share": {
+      "US": "Share Backup",
+      "RU": "Поделиться бэкапом",
+      "DE": "Kurzbefehle speichern",
+      "TR": "Kestirmeleri Kaydet",
+      "CH": "备份捷径",
+      "ZH": "備份捷徑"
+    },
     "backup.restore": {
       "US": "Restore Shortcuts",
       "RU": "Восстановить команды",
