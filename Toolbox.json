@@ -217,8 +217,16 @@
       "CH": "备份捷径",
       "ZH": "備份捷徑"
     },
+    "backup.delete": {
+      "US": "Delete Backup",
+      "RU": "Удалить бэкап",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
     "backup.share": {
-      "US": "Share Backup",
+      "US": "Share Shortcuts",
       "RU": "Поделиться командами",
       "DE": "",
       "TR": "",
