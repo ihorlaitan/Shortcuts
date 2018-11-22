@@ -544,6 +544,62 @@
       "TR": "",
       "CH": "",
       "ZH": ""
+    },
+    "network.ip": {
+      "US": "Lookup IP Information",
+      "RU": "Информация об IP-адресе",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ip.my": {
+      "US": "My IP",
+      "RU": "Мой IP-адрес",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ip.provider": {
+      "US": "Provider",
+      "RU": "Провайдер",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ip.location": {
+      "US": "Location",
+      "RU": "Геолокация",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ip.country": {
+      "US": "Country",
+      "RU": "Страна",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ip.city": {
+      "US": "City",
+      "RU": "Город",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ip.code": {
+      "US": "Country Code",
+      "RU": "Код страны",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
     }
   },
   "Credits": {
