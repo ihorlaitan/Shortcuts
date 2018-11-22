@@ -241,6 +241,14 @@
       "CH": "",
       "ZH": ""
     },
+    "share.error": {
+      "US": "At First, Save Shortcuts!",
+      "RU": "Сначала, сохраните команды!",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
     "backup.restore": {
       "US": "Restore Shortcuts",
       "RU": "Восстановить команды",
