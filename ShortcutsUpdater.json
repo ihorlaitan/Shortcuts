@@ -112,6 +112,14 @@
       "CH": "",
       "ZH": "",
       "DK": "Opdater"
+    },
+    "info.noconnection": {
+      "US": "No Internet Connection!",
+      "RU": "Нет подключения к интернету!",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": ""
     }
   },
   "Credits": {
