@@ -135,6 +135,11 @@
       "US": "Change Description",
       "RU": "Изменить описание",
       "DE": ""
+    },
+    "shortcut.other": {
+      "US": "Other Actions",
+      "RU": "Другие действия",
+      "DE": ""
     }
   },
   "Credits": {
