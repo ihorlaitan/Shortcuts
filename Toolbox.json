@@ -25,9 +25,41 @@
       "CH": "设定",
       "ZH": "設定"
     },
+    "settings.general": {
+      "US": "General",
+      "RU": "Основные",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "settings.start": {
+      "US": "Start Screen",
+      "RU": "Начальный экран",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "start.main": {
+      "US": "Main Menu",
+      "RU": "Главное меню",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "start.selected": {
+      "US": "(selected)",
+      "RU": "(выбрано)",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
     "settings.language": {
-      "US": "Language",
-      "RU": "Язык",
+      "US": "Shortcut Language",
+      "RU": "Язык команды",
       "DE": "Sprache",
       "TR": "Dil",
       "CH": "语言",
@@ -53,6 +85,22 @@
       "US": "Feedback",
       "RU": "Обратная связь",
       "DE": "Feedback",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "menu.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": "",
       "TR": "",
       "CH": "",
       "ZH": ""
@@ -516,22 +564,6 @@
     "upload.duration": {
       "US": "Duration",
       "RU": "Продолжительность",
-      "DE": "",
-      "TR": "",
-      "CH": "",
-      "ZH": ""
-    },
-    "menu.back": {
-      "US": "Back to Menu",
-      "RU": "В главное меню",
-      "DE": "",
-      "TR": "",
-      "CH": "",
-      "ZH": ""
-    },
-    "menu.prev": {
-      "US": "Back",
-      "RU": "Назад",
       "DE": "",
       "TR": "",
       "CH": "",
