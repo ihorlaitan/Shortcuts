@@ -19,6 +19,30 @@
       "DE": "Einstellungen",
       "NL": "Instellingen"
     },
+    "settings.general": {
+      "US": "General",
+      "RU": "Основные",
+      "DE": "",
+      "NL": ""
+    },
+    "settings.start": {
+      "US": "Start Screen",
+      "RU": "Начальный экран",
+      "DE": "",
+      "NL": ""
+    },
+    "start.main": {
+      "US": "Main Menu",
+      "RU": "Главное меню",
+      "DE": "",
+      "NL": ""
+    },
+    "start.selected": {
+      "US": "(selected)",
+      "RU": "(выбрано)",
+      "DE": "",
+      "NL": ""
+    }
     "settings.language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
@@ -41,6 +65,18 @@
       "US": "Feedback",
       "RU": "Обратная связь",
       "DE": "Feedback",
+      "NL": ""
+    },
+    "menu.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню",
+      "DE": "",
+      "NL": ""
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": "",
       "NL": ""
     },
     "info": {
@@ -250,36 +286,6 @@
     "volume.current": {
       "US": "Current Volume",
       "RU": "Текущая громкость",
-      "DE": "",
-      "NL": ""
-    },
-    "menu.back": {
-      "US": "Back to Menu",
-      "RU": "В главное меню",
-      "DE": "",
-      "NL": ""
-    },
-    "menu.prev": {
-      "US": "Back",
-      "RU": "Назад",
-      "DE": "",
-      "NL": ""
-    },
-    "settings.general": {
-      "US": "General",
-      "RU": "Основные",
-      "DE": "",
-      "NL": ""
-    },
-    "settings.start": {
-      "US": "Start Screen",
-      "RU": "Начальный экран",
-      "DE": "",
-      "NL": ""
-    },
-    "start.main": {
-      "US": "Main Menu",
-      "RU": "Главное меню",
       "DE": "",
       "NL": ""
     }
