@@ -258,6 +258,18 @@
       "RU": "В главное меню",
       "DE": "",
       "NL": ""
+    },
+    "settings.start": {
+      "US": "Start Screen",
+      "RU": "Начальный экран",
+      "DE": "",
+      "NL": ""
+    },
+    "start.main": {
+      "US": "Main Menu",
+      "RU": "Главное меню",
+      "DE": "",
+      "NL": ""
     }
   },
   "Credits": {
