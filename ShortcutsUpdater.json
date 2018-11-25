@@ -45,15 +45,15 @@
       "US": "Feedback",
       "RU": "Обратная связь",
       "DE": "Feedback",
-      "CH": "",
-      "ZH": "",
+      "CH": "回报问题",
+      "ZH": "回報問題",
       "DK": "Feedback"
     },
     "menu.available": {
       "US": "Available Updates",
       "RU": "Доступные обновления",
-      "DE": "",
-      "CH": "",
+      "DE": "可用的更新",
+      "CH": "可用的更新",
       "ZH": "",
       "DK": "Tilgængelige Opdateringer"
     },
@@ -61,8 +61,8 @@
       "US": "Supported Shortcuts",
       "RU": "Поддерживаемые команды",
       "DE": "",
-      "CH": "",
-      "ZH": "",
+      "CH": "支持的捷径",
+      "ZH": "支持的捷徑",
       "DK": ""
     },
     "changelog.update": {
@@ -109,16 +109,16 @@
       "US": "Update",
       "RU": "Обновить",
       "DE": "",
-      "CH": "",
-      "ZH": "",
+      "CH": "更新",
+      "ZH": "更新",
       "DK": "Opdater"
     },
     "info.noconnection": {
       "US": "No Internet Connection!",
       "RU": "Нет подключения к интернету!",
       "DE": "",
-      "CH": "",
-      "ZH": "",
+      "CH": "没有网路连接",
+      "ZH": "沒有網路連接",
       "DK": ""
     }
   },
