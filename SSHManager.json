@@ -20,8 +20,8 @@
       "NL": "Instellingen"
     },
     "settings.language": {
-      "US": "Language",
-      "RU": "Язык",
+      "US": "Shortcut Language",
+      "RU": "Язык команды",
       "DE": "Sprache",
       "NL": "Taal"
     },
@@ -256,6 +256,12 @@
     "menu.back": {
       "US": "Back to Menu",
       "RU": "В главное меню",
+      "DE": "",
+      "NL": ""
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
       "DE": "",
       "NL": ""
     },
