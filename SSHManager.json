@@ -259,6 +259,12 @@
       "DE": "",
       "NL": ""
     },
+    "settings.general": {
+      "US": "General",
+      "RU": "Основные",
+      "DE": "",
+      "NL": ""
+    },
     "settings.start": {
       "US": "Start Screen",
       "RU": "Начальный экран",
