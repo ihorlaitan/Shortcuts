@@ -632,6 +632,30 @@
       "TR": "",
       "CH": "",
       "ZH": ""
+    },
+    "network.ping": {
+      "US": "Network Ping Test",
+      "RU": "Проверка пинга",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ping.average": {
+      "US": "Average",
+      "RU": "Средний",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
+    },
+    "ping.ms": {
+      "US": "ms",
+      "RU": "мс",
+      "DE": "",
+      "TR": "",
+      "CH": "",
+      "ZH": ""
     }
   },
   "Credits": {
