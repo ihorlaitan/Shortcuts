@@ -306,6 +306,30 @@
       "RU": "Выключить",
       "DE": "",
       "NL": ""
+    },
+    "actions.apps": {
+      "US": "All Apps",
+      "RU": "Все программы",
+      "DE": "",
+      "NL": ""
+    },
+    "actions.playpause": {
+      "US": "Play/Pause",
+      "RU": "Воспроизвести/пауза",
+      "DE": "",
+      "NL": ""
+    },
+    "actions.nexttrack": {
+      "US": "Next Track",
+      "RU": "Следующая песня",
+      "DE": "",
+      "NL": ""
+    },
+    "actions.prevtrack": {
+      "US": "Previous Track",
+      "RU": "Предыдущая песня",
+      "DE": "",
+      "NL": ""
     }
   },
   "Credits": {
