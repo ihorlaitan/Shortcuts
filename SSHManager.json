@@ -313,6 +313,12 @@
       "DE": "",
       "NL": ""
     },
+    "actions.launched": {
+      "US": "Launched Apps",
+      "RU": "Запущенные программы",
+      "DE": "",
+      "NL": ""
+    },
     "actions.playpause": {
       "US": "Play/Pause",
       "RU": "Воспроизвести/пауза",
