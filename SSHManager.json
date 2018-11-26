@@ -288,6 +288,24 @@
       "RU": "Текущая громкость",
       "DE": "",
       "NL": ""
+    },
+    "power.screensaver": {
+      "US": "Screen Saver",
+      "RU": "Экранная заставка",
+      "DE": "",
+      "NL": ""
+    },
+    "power.enable": {
+      "US": "Enable",
+      "RU": "Включить",
+      "DE": "",
+      "NL": ""
+    },
+    "power.disable": {
+      "US": "Disable",
+      "RU": "Выключить",
+      "DE": "",
+      "NL": ""
     }
   },
   "Credits": {
