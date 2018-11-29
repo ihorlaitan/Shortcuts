@@ -81,6 +81,11 @@
       "RU": "Назад",
       "DE": ""
     },
+    "menu.next": {
+      "US": "Next Page",
+      "RU": "След. страница",
+      "DE": "Nächste Seite"
+    },
     "menu.shortcuts": {
       "US": "My Shortcuts",
       "RU": "Мои команды",
