@@ -16,15 +16,50 @@
       "RU": "Настройки",
       "DE": "Einstellungen"
     },
+    "settings.general": {
+      "US": "General",
+      "RU": "Основные",
+      "DE": ""
+    },
+    "settings.start": {
+      "US": "Start Screen",
+      "RU": "Начальный экран",
+      "DE": ""
+    },
+    "start.main": {
+      "US": "Main Menu",
+      "RU": "Главное меню",
+      "DE": ""
+    },
+    "start.selected": {
+      "US": "(selected)",
+      "RU": "(выбрано)",
+      "DE": ""
+    },
     "settings.language": {
-      "US": "Language",
-      "RU": "Язык",
+      "US": "Shortcut Language",
+      "RU": "Язык команды",
       "DE": "Sprache"
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
       "DE": "Hilf uns übersetzen"
+    },
+    "settings.pin": {
+      "US": "PIN Code",
+      "RU": "ПИН-код",
+      "DE": ""
+    },
+    "pin.set": {
+      "US": "Set PIN",
+      "RU": "Установить ПИН-код",
+      "DE": ""
+    },
+    "pin.reset": {
+      "US": "Reset PIN",
+      "RU": "Сбросить ПИН-код",
+      "DE": ""
     },
     "settings.credits": {
       "US": "Credits",
@@ -34,7 +69,17 @@
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
-      "DE": "Gib uns dein Feedback!"
+      "DE": "Feedback"
+    },
+    "menu.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню",
+      "DE": ""
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": ""
     },
     "menu.shortcuts": {
       "US": "My Shortcuts",
