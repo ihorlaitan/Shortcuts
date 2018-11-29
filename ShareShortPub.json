@@ -190,6 +190,11 @@
       "US": "Other Actions",
       "RU": "Другие действия",
       "DE": ""
+    },
+    "settings.items": {
+      "US": "Apps Per Page",
+      "RU": "Кол-во приложений",
+      "DE": ""
     }
   },
   "Credits": {
