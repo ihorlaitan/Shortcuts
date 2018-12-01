@@ -162,18 +162,23 @@
       "DE": ""
     },
     "versiontype.minor": {
-      "US": "Minor (ex. 1.1)",
-      "RU": "Незначительное (пр. 1.1)",
+      "US": "Minor",
+      "RU": "Незначительное",
       "DE": ""
     },
     "versiontype.major": {
-      "US": "Major (ex. 2.0)",
-      "RU": "Значительное (пр. 2.0)",
+      "US": "Major",
+      "RU": "Значительное",
       "DE": ""
     },
     "versiontype.custom": {
       "US": "Custom (ex. 12.3)",
-      "RU": "Другое (пр. 12.3)",
+      "RU": "Другая (пр. 12.3)",
+      "DE": ""
+    },
+    "versiontype.latest": {
+      "US": "Latest",
+      "RU": "Последняя",
       "DE": ""
     },
     "shortcut.json": {
