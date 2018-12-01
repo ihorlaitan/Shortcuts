@@ -157,18 +157,18 @@
       "DE": ""
     },
     "shortcuts.versiontype": {
-      "US": "Select Version Type",
-      "RU": "Выберите тип версии",
+      "US": "Select Version",
+      "RU": "Выберите версию",
       "DE": ""
     },
     "versiontype.minor": {
       "US": "Minor",
-      "RU": "Незначительное",
+      "RU": "Незначительная",
       "DE": ""
     },
     "versiontype.major": {
       "US": "Major",
-      "RU": "Значительное",
+      "RU": "Значительная",
       "DE": ""
     },
     "versiontype.custom": {
