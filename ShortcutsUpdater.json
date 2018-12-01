@@ -18,8 +18,8 @@
       "DK": "Indstillinger"
     },
     "settings.language": {
-      "US": "Language",
-      "RU": "Язык",
+      "US": "Shortcut Language",
+      "RU": "Язык команды",
       "DE": "Sprache",
       "CH": "语言",
       "ZH": "語言",
@@ -48,6 +48,22 @@
       "CH": "回报问题",
       "ZH": "回報問題",
       "DK": "Feedback"
+    },
+    "menu.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": ""
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": ""
     },
     "menu.available": {
       "US": "Available Updates",
@@ -119,6 +135,14 @@
       "DE": "",
       "CH": "没有网路连接",
       "ZH": "沒有網路連接",
+      "DK": ""
+    },
+    "settings.items": {
+      "US": "Apps Per Page",
+      "RU": "Кол-во приложений",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
       "DK": ""
     }
   },
