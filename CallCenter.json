@@ -65,6 +65,10 @@
       "US": "Back",
       "RU": "Назад"
     },
+    "menu.next": {
+      "US": "Next Page",
+      "RU": "След. страница"
+    },
     "menu.shortcuts": {
       "US": "My Shortcuts",
       "RU": "Мои команды",
@@ -81,6 +85,26 @@
     "menu.favorites": {
       "US": "Favorites",
       "RU": "Избранные"
+    },
+    "actions.call": {
+      "US": "Call",
+      "RU": "Позвонить"
+    },
+    "actions.skype": {
+      "US": "Call by Skype",
+      "RU": "Позвонить по Skype"
+    },
+    "actions.message": {
+      "US": "Send Message",
+      "RU": "Отправить сообщение"
+    },
+    "actions.add": {
+      "US": "Add to Favorites",
+      "RU": "Добавить в избранные"
+    },
+    "actions.remove": {
+      "US": "Remove from Favorites",
+      "RU": "Удалить из избранных"
     }
   },
   "Credits": {
