@@ -105,6 +105,10 @@
     "actions.remove": {
       "US": "Remove from Favorites",
       "RU": "Удалить из избранных"
+    },
+    "settings.items": {
+      "US": "Apps Per Page",
+      "RU": "Кол-во приложений"
     }
   },
   "Credits": {
