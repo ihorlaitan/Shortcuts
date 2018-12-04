@@ -86,6 +86,10 @@
       "US": "Favorites",
       "RU": "Избранные"
     },
+    "menu.search": {
+      "US": "Search",
+      "RU": "Поиск"
+    },
     "actions.call": {
       "US": "Call",
       "RU": "Позвонить"
