@@ -1,5 +1,5 @@
 {
-  "Version": "1.1",
+  "Version": "1.2",
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English"
@@ -85,10 +85,6 @@
     "menu.favorites": {
       "US": "Favorites",
       "RU": "Избранные"
-    },
-    "menu.search": {
-      "US": "Search",
-      "RU": "Поиск"
     },
     "actions.call": {
       "US": "Call",
