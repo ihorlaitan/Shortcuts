@@ -94,6 +94,10 @@
       "US": "Call",
       "RU": "Позвонить"
     },
+    "actions.facetime": {
+      "US": "Call by FaceTime",
+      "RU": "Позвонить по FaceTime"
+    },
     "actions.skype": {
       "US": "Call by Skype",
       "RU": "Позвонить по Skype"
