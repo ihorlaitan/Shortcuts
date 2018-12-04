@@ -117,6 +117,22 @@
     "settings.items": {
       "US": "Contacts Per Page",
       "RU": "Кол-во контактов"
+    },
+    "settings.appearance": {
+      "US": "Appearance",
+      "RU": "Внешний вид"
+    },
+    "appearance.contacts": {
+      "US": "Contacts View",
+      "RU": "Вид контактов"
+    },
+    "contacts.default": {
+      "US": "Default iOS-list",
+      "RU": "Стандартный iOS-список"
+    },
+    "contacts.pages": {
+      "US": "List With Pages",
+      "RU": "Список со страницами"
     }
   },
   "Credits": {
