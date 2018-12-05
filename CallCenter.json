@@ -106,8 +106,8 @@
       "RU": "Адрес"
     },
     "actions.call": {
-      "US": "Call",
-      "RU": "Позвонить"
+      "US": "Call by Phone",
+      "RU": "Позвонить по телефону"
     },
     "actions.facetime": {
       "US": "Call by FaceTime",
@@ -152,6 +152,10 @@
     "appearance.call": {
       "US": "Call Type",
       "RU": "Тип звонка"
+    },
+    "actions.callby": {
+      "US": "Call by ...",
+      "RU": "Позвонить по ..."
     },
     "call.ask": {
       "US": "Always Ask",
