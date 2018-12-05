@@ -71,8 +71,7 @@
     },
     "menu.shortcuts": {
       "US": "My Shortcuts",
-      "RU": "Мои команды",
-      "DE": "Meine Kurzbefehle"
+      "RU": "Мои команды"
     },
     "menu.call": {
       "US": "Dialing Number",
@@ -129,6 +128,14 @@
     "contacts.pages": {
       "US": "List With Pages",
       "RU": "Список со страницами"
+    },
+    "appearance.call": {
+      "US": "Call Type",
+      "RU": "Тип звонка"
+    },
+    "call.ask": {
+      "US": "Always Ask",
+      "RU": "Всегда спрашивать"
     }
   },
   "Credits": {
