@@ -85,6 +85,26 @@
       "US": "Favorites",
       "RU": "Избранные"
     },
+    "actions.info": {
+      "US": "Information",
+      "RU": "Информация"
+    },
+    "info.birthday": {
+      "US": "Birthday",
+      "RU": "День рождения"
+    },
+    "info.number": {
+      "US": "Phone Number",
+      "RU": "Номер телефона"
+    },
+    "info.email": {
+      "US": "Email",
+      "RU": "Эл. почта"
+    },
+    "info.address": {
+      "US": "Address",
+      "RU": "Адрес"
+    },
     "actions.call": {
       "US": "Call",
       "RU": "Позвонить"
