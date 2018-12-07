@@ -25,7 +25,8 @@
       "DE": "Sprache",
       "CH": "语言",
       "ZH": "語言",
-      "DK": "Sprog"
+      "DK": "Sprog",
+      "FR": ""
     },
     "language.help": {
       "US": "Help Us Translate",
@@ -33,7 +34,8 @@
       "DE": "Hilf uns übersetzen",
       "CH": "帮助翻译",
       "ZH": "幫助翻譯",
-      "DK": "Hjælp os med at oversætte"
+      "DK": "Hjælp os med at oversætte",
+      "FR": ""
     },
     "settings.credits": {
       "US": "Credits",
@@ -41,7 +43,8 @@
       "DE": "Danke an",
       "CH": "感谢",
       "ZH": "感謝",
-      "DK": "Credits"
+      "DK": "Credits",
+      "FR": ""
     },
     "settings.feedback": {
       "US": "Feedback",
@@ -49,7 +52,8 @@
       "DE": "Feedback",
       "CH": "回报问题",
       "ZH": "回報問題",
-      "DK": "Feedback"
+      "DK": "Feedback",
+      "FR": ""
     },
     "menu.back": {
       "US": "Back to Menu",
@@ -57,7 +61,8 @@
       "DE": "",
       "CH": "",
       "ZH": "",
-      "DK": ""
+      "DK": "",
+      "FR": ""
     },
     "menu.prev": {
       "US": "Back",
@@ -65,7 +70,8 @@
       "DE": "",
       "CH": "",
       "ZH": "",
-      "DK": ""
+      "DK": "",
+      "FR": ""
     },
     "menu.next": {
       "US": "Next Page",
@@ -73,7 +79,8 @@
       "DE": "Nächste Seite",
       "CH": "",
       "ZH": "",
-      "DK": ""
+      "DK": "",
+      "FR": ""
     },
     "menu.available": {
       "US": "Available Updates",
@@ -81,7 +88,8 @@
       "DE": "",
       "CH": "可用的更新",
       "ZH": "可用的更新",
-      "DK": "Tilgængelige Opdateringer"
+      "DK": "Tilgængelige Opdateringer",
+      "FR": ""
     },
     "menu.supported": {
       "US": "Supported Shortcuts",
@@ -89,7 +97,8 @@
       "DE": "",
       "CH": "支持的捷径",
       "ZH": "支持的捷徑",
-      "DK": ""
+      "DK": "",
+      "FR": ""
     },
     "changelog.update": {
       "US": "An update is available!",
@@ -97,7 +106,8 @@
       "DE": "Eine neue Version ist verfügbar!",
       "CH": "有可用更新",
       "ZH": "有可用更新",
-      "DK": "En opdatering er tilgængelig!"
+      "DK": "En opdatering er tilgængelig!",
+      "FR": ""
     },
     "changelog.noupdate": {
       "US": "No Updates!",
@@ -105,7 +115,8 @@
       "DE": "Keine neue Version verfügbar!",
       "CH": "没有可用更新",
       "ZH": "沒有可用更新",
-      "DK": "Ingen opdateringer!"
+      "DK": "Ingen opdateringer!",
+      "FR": ""
     },
     "changelog.name": {
       "US": "Name",
@@ -113,7 +124,8 @@
       "DE": "Name",
       "CH": "名称",
       "ZH": "名稱",
-      "DK": "Navn"
+      "DK": "Navn",
+      "FR": ""
     },
     "changelog.version": {
       "US": "Version",
@@ -121,7 +133,8 @@
       "DE": "Version",
       "CH": "版本",
       "ZH": "版本",
-      "DK": "Version"
+      "DK": "Version",
+      "FR": ""
     },
     "changelog.changes": {
       "US": "Changes",
@@ -129,7 +142,8 @@
       "DE": "Änderungen",
       "CH": "更改",
       "ZH": "更改",
-      "DK": "Ændringer"
+      "DK": "Ændringer",
+      "FR": ""
     },
     "changelog.import": {
       "US": "Update",
@@ -137,7 +151,8 @@
       "DE": "",
       "CH": "更新",
       "ZH": "更新",
-      "DK": "Opdater"
+      "DK": "Opdater",
+      "FR": ""
     },
     "info.noconnection": {
       "US": "No Internet Connection!",
@@ -145,7 +160,8 @@
       "DE": "",
       "CH": "没有网路连接",
       "ZH": "沒有網路連接",
-      "DK": ""
+      "DK": "",
+      "FR": ""
     },
     "settings.items": {
       "US": "Apps Per Page",
@@ -153,7 +169,8 @@
       "DE": "",
       "CH": "",
       "ZH": "",
-      "DK": ""
+      "DK": "",
+      "FR": ""
     }
   },
   "Credits": {
