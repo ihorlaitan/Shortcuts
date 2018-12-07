@@ -383,14 +383,14 @@
       "US": "Next Track",
       "RU": "Следующая песня",
       "DE": "",
-      "NL": """,
+      "NL": "",
       "FR": "Piste Suivante"
     },
     "actions.prevtrack": {
       "US": "Previous Track",
       "RU": "Предыдущая песня",
       "DE": "",
-      "NL": """,
+      "NL": "",
       "FR": "Piste Précédente"
     }
   },
