@@ -3,93 +3,111 @@
   "Languages": {
     "US": "🇱🇷 English",
     "RU": "🇷🇺 Русский",
-    "DE": "🇩🇪 German"
+    "DE": "🇩🇪 German",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.name": {
       "US": "App Wishlist",
       "RU": "Список приложений",
-      "DE": "App Wunschliste"
+      "DE": "App Wunschliste",
+      "FR": "Liste de souhaits de l’application"
     },
     "menu.settings": {
       "US": "Settings",
       "RU": "Настройки",
-      "DE": "Einstellungen"
+      "DE": "Einstellungen",
+      "FR": "Options"
     },
     "settings.language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
-      "DE": "Sprache"
+      "DE": "Sprache",
+      "FR": "Langage"
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
-      "DE": "Hilf uns übersetzen"
+      "DE": "Hilf uns übersetzen",
+      "FR": "Aidez-nous à traduire !"
     },
     "settings.credits": {
       "US": "Credits",
       "RU": "Благодарности",
-      "DE": "Danke an"
+      "DE": "Danke an",
+      "FR": "Merci !"
     },
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
-      "DE": "Feedback"
+      "DE": "Feedback",
+      "FR": "Commentaires"
     },
     "app.added": {
       "US": "Application was added to list!",
       "RU": "Приложение добавлено в список!",
-      "DE": "App wurde der Wunschliste hinzugefügt!"
+      "DE": "App wurde der Wunschliste hinzugefügt!",
+      "FR": "L’application a été ajoutée à la liste !"
     },
     "app.already": {
       "US": "Application already in list!",
       "RU": "Приложение уже в списке!",
-      "DE": "App ist bereits in der Wunschliste!"
+      "DE": "App ist bereits in der Wunschliste!",
+      "FR": "L’aplication est déjà dans la liste !"
     },
     "app.open": {
       "US": "Open in App Store",
       "RU": "Открыть в App Store",
-      "DE": "Öffnen im App Store"
+      "DE": "Öffnen im App Store",
+      "FR": "Ouvrir dans l’App Store"
     },
     "app.description": {
       "US": "Application Description",
       "RU": "Описание приложения",
-      "DE": "App-Beschreibung"
+      "DE": "App-Beschreibung",
+      "FR": "Description de l’application"
     },
     "app.remove": {
       "US": "Remove from Wishlist",
       "RU": "Удалить из списка",
-      "DE": "Aus Wunschliste entfernen"
+      "DE": "Aus Wunschliste entfernen",
+      "FR": "Retirer de la liste de souhaits"
     },
     "menu.price": {
       "US": "Price Drop",
       "RU": "Снижение цен",
-      "DE": "Preissturz"
+      "DE": "Preissturz",
+      "FR": "Chute des prix"
     },
     "price.nodrop": {
       "US": "No price changes!",
       "RU": "Нет изменений цен!",
-      "DE": "Keine Preisveränderungen!"
+      "DE": "Keine Preisveränderungen!",
+      "FR": "Aucun prix n’a changé"
     },
     "menu.next": {
       "US": "Next Page",
       "RU": "Следующая",
-      "DE": ""
+      "DE": "",
+      "FR": "Page suivante"
     },
     "menu.main": {
       "US": "First Page",
       "RU": "На главную",
-      "DE": ""
+      "DE": "",
+      "FR": "Première page"
     },
     "settings.items": {
       "US": "Apps Per Page",
       "RU": "Кол-во приложений",
-      "DE": ""
+      "DE": "",
+      "FR": "Application par page"
     }
   },
   "Credits": {
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "Tyckx (German Language)": "https://github.com/Tyckx",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }

@@ -4,343 +4,400 @@
     "US": "🇱🇷 English",
     "RU": "🇷🇺 Русский",
     "DE": "🇩🇪 German",
-    "NL": "🇳🇱 Nederlands"
+    "NL": "🇳🇱 Nederlands",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.name": {
       "US": "SSH Manager",
       "RU": "Менеджер SSH",
       "DE": "SSH Manager",
-      "NL": "SSH Manager"
+      "NL": "SSH Manager",
+      "FR": "Gestionnaire SSH"
     },
     "menu.settings": {
       "US": "Settings",
       "RU": "Настройки",
       "DE": "Einstellungen",
-      "NL": "Instellingen"
+      "NL": "Instellingen",
+      "FR": "Options"
     },
     "settings.general": {
       "US": "General",
       "RU": "Основные",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Général"
     },
     "settings.start": {
       "US": "Start Screen",
       "RU": "Начальный экран",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Lancer l’écran"
     },
     "start.main": {
       "US": "Main Menu",
       "RU": "Главное меню",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Menu Principal"
     },
     "start.selected": {
       "US": "(selected)",
       "RU": "(выбрано)",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "(sélectionné)"
     },
     "settings.language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
-      "NL": "Taal"
+      "NL": "Taal",
+      "FR": "Langue des raccourcis"
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
       "DE": "Hilf uns übersetzen",
-      "NL": "Help Ons Vertalen"
+      "NL": "Help Ons Vertalen",
+      "FR": "Aidez-nous à traduire"
     },
     "settings.credits": {
       "US": "Credits",
       "RU": "Благодарности",
       "DE": "Danke an",
-      "NL": ""
+      "NL": "",
+      "FR": "Merci !"
     },
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
       "DE": "Feedback",
-      "NL": ""
+      "NL": "",
+      "FR": "Commentaires"
     },
     "menu.back": {
       "US": "Back to Menu",
       "RU": "В главное меню",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Retour au menu"
     },
     "menu.prev": {
       "US": "Back",
       "RU": "Назад",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Retour"
     },
     "info": {
       "US": "For the correct work of the Shortcut you should enable 'Remote Login' in 'System Preferences/Sharing' on your MacOS, also you need to specify SSH data on the next step. (You can change it later in Settings)",
       "RU": "Для корректной работы команды необходимо включить 'Удаленный доступ' на MacOS в 'Системные настройки/Общий доступ', а также необходимо указать данные SSH на следующим шаге. (вы сможете изменить их в будущем в 'Настройки')",
       "DE": "Für die korrekte Ausführung des Kurzbefehls solltest du auf deinem Mac unter Systemeinstellungen/Freigaben die Entfernte Anmeldung aktivieren und du musst auch die SSH Daten spezifizieren im nächsten Schritt. (können im Nachhinein in den Einstellungen geändert werden)",
-      "NL": "Om deze Snelkoppeling goed te laten werken moet u 'Remote Login' inschakelen in 'Systeemvoorkeuren/Delen' op uw MacOS, ook moet u in de volgende stap de SSH-gegevens opgeven. (U kunt dit later in Instellingen wijzigen)"
+      "NL": "Om deze Snelkoppeling goed te laten werken moet u 'Remote Login' inschakelen in 'Systeemvoorkeuren/Delen' op uw MacOS, ook moet u in de volgende stap de SSH-gegevens opgeven. (U kunt dit later in Instellingen wijzigen)",
+      "FR": "Pour que le raccourci fonctionne correctement, vous devez activer la 'Connexion à distance' dans 'Préférences système / Partage' sur votre MacOS, vous devez également spécifier les données SSH à l'étape suivante. (Vous pouvez le modifier ultérieurement dans Paramètres)"
     },
     "info.secure": {
       "US": "For security, all data will only be stored on your device, outside the Shortcut.",
       "RU": "Для безопасности, все данные будут храниться только на вашем устройстве, вне команды.",
       "DE": "Für deine Sicherheit, werden alle deine Daten auf deinem Gerät gespeichert, außerhalb des Kurzbefehls.",
-      "NL": "Om veiligheidsredenen worden alle gegevens alleen op uw apparaat opgeslagen, buiten de snelkoppeling om."
+      "NL": "Om veiligheidsredenen worden alle gegevens alleen op uw apparaat opgeslagen, buiten de snelkoppeling om.",
+      "FR": "Pour des raisons de sécurité, toutes les données seront stockées uniquement sur votre appareil."
     },
     "info.host": {
       "US": "Host (ex.: my-macbook.local)",
       "RU": "Хост (пр.: my-macbook.local)",
       "DE": "Host (ex.: my-macbook.local)",
-      "NL": "Host (bijv.: mijn-macbook.local)"
+      "NL": "Host (bijv.: mijn-macbook.local)",
+      "FR": "Hôte (ex : mon-macbook.local)"
     },
     "info.username": {
       "US": "Username (ex.: admin)",
       "RU": "Логин (пр.: admin)",
       "DE": "Benutzername (ex.: admin)",
-      "NL": "Username (bijv.: admin)"
+      "NL": "Username (bijv.: admin)",
+      "FR": "Utilisateur (ex : admin)"
     },
     "info.password": {
       "US": "Password (ex.: password)",
       "RU": "Пароль (пр.: password)",
       "DE": "Passwort (ex.: password)",
-      "NL": "Wachtwoord (bijv.: password)"
+      "NL": "Wachtwoord (bijv.: password)",
+      "FR": "Mot de passe (ex : password)"
     },
     "menu.run": {
       "US": "Run Command",
       "RU": "Выполнить команду",
       "DE": "Führe den Befehl aus",
-      "NL": "Voer opdracht uit"
+      "NL": "Voer opdracht uit",
+      "FR": "Lancer une commande"
     },
     "menu.say": {
       "US": "Say Message",
       "RU": "Произнести текст",
       "DE": "Sage eine Nachricht",
-      "NL": "Zeg bericht"
+      "NL": "Zeg bericht",
+      "FR": "Dire le message" // à revoir
     },
     "menu.sleep": {
       "US": "Sleep & Unlock",
       "RU": "Сон и разблокировка",
       "DE": "Ruhemodus & Entsperren",
-      "NL": "Slaap & Ontgrendel"
+      "NL": "Slaap & Ontgrendel",
+      "FR": "Mode veille & déverrouillage"
     },
     "menu.volume": {
       "US": "Set Volume",
       "RU": "Задать громкость",
       "DE": "Lautstärke einstellen",
-      "NL": "Volume instellen"
+      "NL": "Volume instellen",
+      "FR": "Régler le volume"
     },
     "menu.open": {
       "US": "Open Application",
       "RU": "Открыть приложение",
       "DE": "Öffne das Programm",
-      "NL": "Open Applicatie"
+      "NL": "Open Applicatie",
+      "FR": "Ouvrir l’application"
     },
     "menu.other": {
       "US": "Other",
       "RU": "Другое",
       "DE": "Anderes",
-      "NL": "Anders"
+      "NL": "Anders",
+      "FR": "Autre"
     },
     "settings.ssh": {
       "US": "SSH Data",
       "RU": "Данные SSH",
       "DE": "SSH Daten",
-      "NL": "SSH Gegevens"
+      "NL": "SSH Gegevens",
+      "FR": "Donnée SSH"
     },
     "ssh.host": {
       "US": "Change Host",
       "RU": "Изменить хост",
       "DE": "Host ändern",
-      "NL": "Verander Host"
+      "NL": "Verander Host",
+      "FR": "Changer d’hôte"
     },
     "ssh.username": {
       "US": "Change Username",
       "RU": "Изменить логин",
       "DE": "Benutzername ändern",
-      "NL": "Verander Gebruikersnaam"
+      "NL": "Verander Gebruikersnaam",
+      "FR": "Changer d’utilisateur"
     },
     "ssh.password": {
       "US": "Change Password",
       "RU": "Изменить пароль",
       "DE": "Passwort ändern",
-      "NL": "Verander Wachtwoord"
+      "NL": "Verander Wachtwoord",
+      "FR": "Changer de mot passe"
     },
     "ssh.clear": {
       "US": "Clear Data",
       "RU": "Стереть данные",
       "DE": "Daten löschen",
-      "NL": "Verwijder Gegevens"
+      "NL": "Verwijder Gegevens",
+      "FR": "Nettoyer les données"
     },
     "sleep.lock": {
       "US": "Lock",
       "RU": "Заблокировать",
       "DE": "Sperren",
-      "NL": "Slot"
+      "NL": "Slot",
+      "FR": "Verrouiller"
     },
     "sleep.unlock": {
       "US": "Unlock",
       "RU": "Разблокировать",
       "DE": "Entsperren",
-      "NL": "Ontgrendel"
+      "NL": "Ontgrendel",
+      "FR": "Déverrouiller"
     },
     "menu.power": {
       "US": "Power Management",
       "RU": "Управление питанием",
       "DE": "Energie Management",
-      "NL": "Power Management"
+      "NL": "Power Management",
+      "FR": "Gestion de l’alimentation"
     },
     "power.sleep": {
       "US": "Sleep Mode",
       "RU": "Режим сна",
       "DE": "Ruhemodus",
-      "NL": "Slaapstand"
+      "NL": "Slaapstand",
+      "FR": "Mode Veille"
     },
     "power.restart": {
       "US": "Restart",
       "RU": "Перезагрузить",
       "DE": "Neu starten",
-      "NL": ""
+      "NL": "",
+      "FR": "Redémarrer"
     },
     "menu.preferences": {
       "US": "Change Preferences",
       "RU": "Изменить параметры",
       "DE": "Ändere die Priorität",
-      "NL": ""
+      "NL": "",
+      "FR": "Changer les préférences"
     },
     "menu.actions": {
       "US": "Application Actions",
       "RU": "Действия приложений",
       "DE": "Application Actions",
-      "NL": ""
+      "NL": "",
+      "FR": "Actions de l’application"
     },
     "actions.open": {
       "US": "Open",
       "RU": "Открыть",
       "DE": "Öffne",
-      "NL": ""
+      "NL": "",
+      "FR": "Ouvrir"
     },
     "actions.close": {
       "US": "Close",
       "RU": "Закрыть",
       "DE": "Schliesse",
-      "NL": ""
+      "NL": "",
+      "FR": "Fermer"
     },
     "actions.url": {
       "US": "Open URL",
       "RU": "Открыть URL",
       "DE": "Link öffnen",
-      "NL": ""
+      "NL": "",
+      "FR": "Ouvrir l’URL"
     },
     "url.clipboard": {
       "US": "Clipboard",
       "RU": "буфер",
       "DE": "Zwischenablage",
-      "NL": ""
+      "NL": "",
+      "FR": "Presse-papier"
     },
     "settings.pin": {
       "US": "PIN Code",
       "RU": "ПИН-код",
       "DE": "PIN Code",
-      "NL": ""
+      "NL": "",
+      "FR": "Code PIN"
     },
     "pin.set": {
       "US": "Set PIN",
       "RU": "Установить ПИН-код",
       "DE": "PIN einstellen",
-      "NL": ""
+      "NL": "",
+      "FR": "Définir un code PIN"
     },
     "pin.reset": {
       "US": "Reset PIN",
       "RU": "Сбросить ПИН-код",
       "DE": "PIN zurücksetzen",
-      "NL": ""
+      "NL": "",
+      "FR": "Réinitialiser le code PIN"
     },
     "power.shutdown": {
       "US": "Shutdown",
       "RU": "Выключить",
       "DE": "Ausschalten",
-      "NL": ""
+      "NL": "",
+      "FR": "Arrêt de l’appareil"
     },
     "shutdown.yes": {
       "US": "Yes",
       "RU": "Да",
       "DE": "Ja",
-      "NL": ""
+      "NL": "",
+      "FR": "Oui"
     },
     "shutdown.no": {
       "US": "No",
       "RU": "Нет",
       "DE": "Nein",
-      "NL": ""
+      "NL": "",
+      "FR": "Non"
     },
     "menu.transfer": {
       "US": "Transfer File",
       "RU": "Отправить файл",
       "DE": "Datei übertragen",
-      "NL": ""
+      "NL": "",
+      "FR": "Transférer un fichier"
     },
     "volume.current": {
       "US": "Current Volume",
       "RU": "Текущая громкость",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Volument acutel"
     },
     "power.screensaver": {
       "US": "Screen Saver",
       "RU": "Экранная заставка",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Économiseur d’écran"
     },
     "power.enable": {
       "US": "Enable",
       "RU": "Включить",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Activer"
     },
     "power.disable": {
       "US": "Disable",
       "RU": "Выключить",
       "DE": "",
-      "NL": ""
+      "NL": """,
+      "FR": "Désactiver"
     },
     "actions.apps": {
       "US": "All Apps",
       "RU": "Все программы",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Toutes les applications"
     },
     "actions.launched": {
       "US": "Launched Apps",
       "RU": "Запущенные программы",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Lancement d’applications"
     },
     "actions.playpause": {
       "US": "Play/Pause",
       "RU": "Воспроизвести/пауза",
       "DE": "",
-      "NL": ""
+      "NL": "",
+      "FR": "Jouer / Pause"
     },
     "actions.nexttrack": {
       "US": "Next Track",
       "RU": "Следующая песня",
       "DE": "",
-      "NL": ""
+      "NL": """,
+      "FR": "Piste Suivante"
     },
     "actions.prevtrack": {
       "US": "Previous Track",
       "RU": "Предыдущая песня",
       "DE": "",
-      "NL": ""
+      "NL": """,
+      "FR": "Piste Précédente"
     }
   },
   "Credits": {
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "Soheabmalik (Nederlands Language)": "https://www.reddit.com/u/Soheabmalik",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }

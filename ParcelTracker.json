@@ -3,92 +3,110 @@
   "Languages": {
     "US": "🇺🇸 English",
     "RU": "🇷🇺 Русский",
-    "DE": "🇩🇪 German"
+    "DE": "🇩🇪 German",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.name": {
       "US": "Parcel Tracker",
       "RU": "Трекер посылок",
-      "DE": "Paket Verfolger"
+      "DE": "Paket Verfolger",
+      "FR": "Suivi des colis"
     },
     "menu.settings": {
       "US": "Settings",
       "RU": "Настройки",
-      "DE": "Einstellungen"
+      "DE": "Einstellungen",
+      "FR": "Options"
     },
     "settings.language": {
       "US": "Language",
       "RU": "Язык",
-      "DE": "Sprache"
+      "DE": "Sprache",
+      "FR": "Langue"
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
-      "DE": "Hilf uns übersetzen"
+      "DE": "Hilf uns übersetzen",
+      "FR": "Aidez-nous à traduire !"
     },
     "settings.credits": {
       "US": "Credits",
       "RU": "Благодарности",
-      "DE": "Danke an"
+      "DE": "Danke an",
+      "FR": "Merci !"
     },
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
-      "DE": "Feedback"
+      "DE": "Feedback",
+      "FR": "Commentaires"
     },
     "track.name": {
       "US": "Enter Name",
       "RU": "Введите название",
-      "DE": "Gib bitte den Namen ein"
+      "DE": "Gib bitte den Namen ein",
+      "FR": "Entrer un nom"
     },
     "track.number": {
       "US": "Enter Track Number",
       "RU": "Введите трек-номер",
-      "DE": "Gib bitte deine Paketnummer ein"
+      "DE": "Gib bitte deine Paketnummer ein",
+      "FR": "Entrer un numéro de suivi"
     },
     "track.track": {
       "US": "Track Parcel",
       "RU": "Отследить посылку",
-      "DE": "Verfolge das Paket"
+      "DE": "Verfolge das Paket",
+      "FR": "Suivre le colis"
     },
     "track.remove": {
       "US": "Remove Track",
       "RU": "Удалить трек-номер",
-      "DE": "Lösche die Verfolgung"
+      "DE": "Lösche die Verfolgung",
+      "FR": "Supprimer le suivi"
     },
     "track.changename": {
       "US": "Change Name",
       "RU": "Изменить название",
-      "DE": "Namen ändern"
+      "DE": "Namen ändern",
+      "FR": "Changer le nom"
     },
     "track.changetrack": {
       "US": "Change Track",
       "RU": "Изменить трек-номер",
-      "DE": "Die Paketverfolgung ändern"
+      "DE": "Die Paketverfolgung ändern",
+      "FR": "Changer le suivi"
     },
     "track.add": {
       "US": "Add Track",
       "RU": "Добавить трек-номер",
-      "DE": "Eine Verfolgung hinzufügen"
+      "DE": "Eine Verfolgung hinzufügen",
+      "FR": "Ajouter un suivi"
     },
     "menu.next": {
       "US": "Next Page",
       "RU": "Следующая",
-      "DE": ""
+      "DE": "",
+      "FR": "Page suivante"
     },
     "menu.main": {
       "US": "First Page",
       "RU": "На главную",
-      "DE": ""
+      "DE": "",
+      "FR": "Première page"
     },
     "settings.items": {
       "US": "Apps Per Page",
       "RU": "Кол-во приложений",
-      "DE": ""
+      "DE": "",
+      "FR": "Applications par page"
     }
   },
   "Credits": {
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }

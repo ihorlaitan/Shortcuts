@@ -3,13 +3,15 @@
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
-    "DE": "🇩🇪 German"
+    "DE": "🇩🇪 German",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.name": {
       "US": "ShareShortcuts Pub",
       "RU": "ShareShortcuts Pub",
-      "DE": "ShareShortcuts Pub"
+      "DE": "ShareShortcuts Pub",
+      "FR": ""
     },
     "menu.settings": {
       "US": "Settings",
@@ -204,6 +206,7 @@
   },
   "Credits": {
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
-    "hEv@Der (German Language)": "https://twitter.com/hEvDer1"
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }

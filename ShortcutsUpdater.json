@@ -6,7 +6,8 @@
     "DE": "🇩🇪 German",
     "CH": "🇨🇳 Chinese S.",
     "ZH": "🇨🇳 Chinese T.",
-    "DK": "🇩🇰 Danish"
+    "DK": "🇩🇰 Danish",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.settings": {
@@ -15,7 +16,8 @@
       "DE": "Einstellungen",
       "CH": "设定",
       "ZH": "設定",
-      "DK": "Indstillinger"
+      "DK": "Indstillinger",
+      "FR": ""
     },
     "settings.language": {
       "US": "Shortcut Language",
@@ -158,6 +160,7 @@
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "Daniel Bahl (Made ShareShortcuts)": "https://twitter.com/danielbahl",
     "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
-    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT"
+    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }

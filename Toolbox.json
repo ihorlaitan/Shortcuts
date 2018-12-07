@@ -6,7 +6,8 @@
     "DE": "🇩🇪 German",
     "TR": "🇹🇷 Turkish",
     "CH": "🇨🇳 Chinese S.",
-    "ZH": "🇨🇳 Chinese T."
+    "ZH": "🇨🇳 Chinese T.",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.name": {
@@ -15,7 +16,8 @@
       "DE": "Werkzeugbox",
       "TR": "Toolbox",
       "CH": "工具箱",
-      "ZH": "工具箱"
+      "ZH": "工具箱",
+      "FR": ""
     },
     "menu.settings": {
       "US": "Settings",
@@ -662,6 +664,7 @@
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
     "DjPeaceTR (Turkish Language)": "https://www.reddit.com/u/DjPeaceTR",
-    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT"
+    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }

@@ -2,167 +2,169 @@
   "Version": "1.3",
   "Languages": {
     "RU": "🇷🇺 Русский",
-    "US": "🇱🇷 English"
+    "US": "🇱🇷 English",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.name": {
       "US": "Call Center",
-      "RU": "Центр звонков"
+      "RU": "Центр звонков",
+      "FR": "Centre d’appel"
     },
     "menu.settings": {
       "US": "Settings",
-      "RU": "Настройки"
+      "RU": "Настройки",
+      "FR": "Options"
     },
     "settings.general": {
       "US": "General",
-      "RU": "Основные"
+      "RU": "Основные",
+      "FR": "Général"
     },
     "settings.start": {
       "US": "Start Screen",
-      "RU": "Начальный экран"
+      "RU": "Начальный экран",
+      "FR": "Écran de démarrage"
     },
     "start.main": {
       "US": "Main Menu",
-      "RU": "Главное меню"
+      "RU": "Главное меню",
+      "FR": "Menu Prinicpal"
     },
     "start.selected": {
       "US": "(selected)",
-      "RU": "(выбрано)"
+      "RU": "(выбрано)",
+      "FR": "(sélectionné)"
     },
     "settings.language": {
       "US": "Shortcut Language",
-      "RU": "Язык команды"
+      "RU": "Язык команды",
+      "FR": "Langue du raccourci"
     },
     "language.help": {
       "US": "Help Us Translate",
-      "RU": "Помощь в переводе"
+      "RU": "Помощь в переводе",
+      "FR": "Aidez-nous à traduire !"
     },
     "settings.pin": {
       "US": "PIN Code",
-      "RU": "ПИН-код"
+      "RU": "ПИН-код",
+      "FR": "Code PIN"
     },
     "pin.set": {
       "US": "Set PIN",
-      "RU": "Установить ПИН-код"
+      "RU": "Установить ПИН-код",
+      "FR": "Définir un code PIN"
     },
     "pin.reset": {
       "US": "Reset PIN",
-      "RU": "Сбросить ПИН-код"
+      "RU": "Сбросить ПИН-код",
+      "FR": "Réinitialiser le code PIN"
     },
     "settings.credits": {
       "US": "Credits",
-      "RU": "Благодарности"
+      "RU": "Благодарности",
+      "FR": "Merci !"
     },
     "settings.feedback": {
       "US": "Feedback",
-      "RU": "Обратная связь"
+      "RU": "Обратная связь",
+      "FR": "Commentaires"
     },
     "menu.back": {
       "US": "Back to Menu",
-      "RU": "В главное меню"
+      "RU": "В главное меню",
+      "FR": "Retour vers le menu"
     },
     "menu.prev": {
       "US": "Back",
-      "RU": "Назад"
+      "RU": "Назад",
+      "FR": "Retour"
     },
     "menu.next": {
       "US": "Next Page",
-      "RU": "След. страница"
+      "RU": "След. страница",
+      "FR": "Page Suivante"
     },
     "menu.shortcuts": {
       "US": "My Shortcuts",
-      "RU": "Мои команды"
+      "RU": "Мои команды",
+      "DE": "Meine Kurzbefehle",
+      "FR": "Mes Raccourcis"
     },
     "menu.call": {
       "US": "Dialing Number",
-      "RU": "Набор номера"
+      "RU": "Набор номера",
+      "FR": "Numéro d’appel"
     },
     "menu.contacts": {
       "US": "My Contacts",
-      "RU": "Мои контакты"
+      "RU": "Мои контакты",
+      "FR": "Mes Contacts"
     },
     "menu.favorites": {
       "US": "Favorites",
-      "RU": "Избранные"
-    },
-    "actions.info": {
-      "US": "Information",
-      "RU": "Информация"
-    },
-    "info.birthday": {
-      "US": "Birthday",
-      "RU": "День рождения"
-    },
-    "info.number": {
-      "US": "Phone Number",
-      "RU": "Номер телефона"
-    },
-    "info.email": {
-      "US": "Email",
-      "RU": "Эл. почта"
-    },
-    "info.address": {
-      "US": "Address",
-      "RU": "Адрес"
+      "RU": "Избранные",
+      "FR": "Favoris"
     },
     "actions.call": {
-      "US": "Call by Phone",
-      "RU": "Позвонить по телефону"
+      "US": "Call",
+      "RU": "Позвонить",
+      "FR": "Appel"
     },
     "actions.facetime": {
       "US": "Call by FaceTime",
-      "RU": "Позвонить по FaceTime"
+      "RU": "Позвонить по FaceTime",
+      "FR": "Appel via FaceTime"
     },
     "actions.skype": {
       "US": "Call by Skype",
-      "RU": "Позвонить по Skype"
+      "RU": "Позвонить по Skype",
+      "FR": "Appel via Skype"
     },
     "actions.message": {
       "US": "Send Message",
-      "RU": "Отправить сообщение"
+      "RU": "Отправить сообщение",
+      "FR": "Envoyer un message"
     },
     "actions.add": {
       "US": "Add to Favorites",
-      "RU": "Добавить в избранные"
+      "RU": "Добавить в избранные",
+      "FR": "Ajouter aux favoris"
     },
     "actions.remove": {
       "US": "Remove from Favorites",
-      "RU": "Удалить из избранных"
+      "RU": "Удалить из избранных",
+      "FR": "Retirer des favoris"
     },
     "settings.items": {
       "US": "Contacts Per Page",
-      "RU": "Кол-во контактов"
+      "RU": "Кол-во контактов",
+      "FR": "Conatct par page"
     },
     "settings.appearance": {
       "US": "Appearance",
-      "RU": "Внешний вид"
+      "RU": "Внешний вид",
+      "FR": "Apparence"
     },
     "appearance.contacts": {
       "US": "Contacts View",
-      "RU": "Вид контактов"
+      "RU": "Вид контактов",
+      "FR": "Afficher les contacts"
     },
     "contacts.default": {
       "US": "Default iOS-list",
-      "RU": "Стандартный iOS-список"
+      "RU": "Стандартный iOS-список",
+      "FR": "Liste iOS par défaut"
     },
     "contacts.pages": {
       "US": "List With Pages",
-      "RU": "Список со страницами"
-    },
-    "appearance.call": {
-      "US": "Call Type",
-      "RU": "Тип звонка"
-    },
-    "actions.callby": {
-      "US": "Call by ...",
-      "RU": "Позвонить по ..."
-    },
-    "call.ask": {
-      "US": "Always Ask",
-      "RU": "Всегда спрашивать"
+      "RU": "Список со страницами",
+      "FR": "Liste avec pages"
     }
   },
   "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy"
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }
