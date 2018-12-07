@@ -103,23 +103,28 @@
     },
     "actions.info": {
       "US": "Information",
-      "RU": "Информация"
+      "RU": "Информация",
+      "FR": ""
     },
     "info.birthday": {
       "US": "Birthday",
-      "RU": "День рождения"
+      "RU": "День рождения",
+      "FR": ""
     },
     "info.number": {
       "US": "Phone Number",
-      "RU": "Номер телефона"
+      "RU": "Номер телефона",
+      "FR": ""
     },
     "info.email": {
       "US": "Email",
-      "RU": "Эл. почта"
+      "RU": "Эл. почта",
+      "FR": ""
     },
     "info.address": {
       "US": "Address",
-      "RU": "Адрес"
+      "RU": "Адрес",
+      "FR": ""
     },
     "actions.call": {
       "US": "Call by Phone",
@@ -178,15 +183,18 @@
     },
     "appearance.call": {
       "US": "Call Type",
-      "RU": "Тип звонка"
+      "RU": "Тип звонка",
+      "FR": ""
     },
     "actions.callby": {
       "US": "Call by ...",
-      "RU": "Позвонить по ..."
+      "RU": "Позвонить по ...",
+      "FR": ""
     },
     "call.ask": {
       "US": "Always Ask",
-      "RU": "Всегда спрашивать"
+      "RU": "Всегда спрашивать",
+      "FR": ""
     }
   },
   "Credits": {
