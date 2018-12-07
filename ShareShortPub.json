@@ -16,192 +16,230 @@
     "menu.settings": {
       "US": "Settings",
       "RU": "Настройки",
-      "DE": "Einstellungen"
+      "DE": "Einstellungen",
+      "FR": ""
     },
     "settings.general": {
       "US": "General",
       "RU": "Основные",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "settings.start": {
       "US": "Start Screen",
       "RU": "Начальный экран",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "start.main": {
       "US": "Main Menu",
       "RU": "Главное меню",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "start.selected": {
       "US": "(selected)",
       "RU": "(выбрано)",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "settings.language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
-      "DE": "Sprache"
+      "DE": "Sprache",
+      "FR": ""
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
-      "DE": "Hilf uns übersetzen"
+      "DE": "Hilf uns übersetzen",
+      "FR": ""
     },
     "settings.pin": {
       "US": "PIN Code",
       "RU": "ПИН-код",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "pin.set": {
       "US": "Set PIN",
       "RU": "Установить ПИН-код",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "pin.reset": {
       "US": "Reset PIN",
       "RU": "Сбросить ПИН-код",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "settings.credits": {
       "US": "Credits",
       "RU": "Благодарности",
-      "DE": "Danke an"
+      "DE": "Danke an",
+      "FR": ""
     },
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
-      "DE": "Feedback"
+      "DE": "Feedback",
+      "FR": ""
     },
     "menu.back": {
       "US": "Back to Menu",
       "RU": "В главное меню",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "menu.prev": {
       "US": "Back",
       "RU": "Назад",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "menu.next": {
       "US": "Next Page",
       "RU": "След. страница",
-      "DE": "Nächste Seite"
+      "DE": "Nächste Seite",
+      "FR": ""
     },
     "menu.shortcuts": {
       "US": "My Shortcuts",
       "RU": "Мои команды",
-      "DE": "Meine Kurzbefehle"
+      "DE": "Meine Kurzbefehle",
+      "FR": ""
     },
     "menu.account": {
       "US": "My Account",
       "RU": "Мой аккаунт",
-      "DE": "Mein Account"
+      "DE": "Mein Account",
+      "FR": ""
     },
     "shortcut.install": {
       "US": "Install Shortcut",
       "RU": "Установить команду",
-      "DE": "Installiere den Kurzbefehl"
+      "DE": "Installiere den Kurzbefehl",
+      "FR": ""
     },
     "shortcut.open": {
       "US": "Open in Safari",
       "RU": "Открыть в Safari",
-      "DE": "Öffne in Safari"
+      "DE": "Öffne in Safari",
+      "FR": ""
     },
     "account.avatar": {
       "US": "Change Avatar",
       "RU": "Изменить аватарку",
-      "DE": "Avatar ändern"
+      "DE": "Avatar ändern",
+      "FR": ""
     },
     "shortcuts.new": {
       "US": "Add New",
       "RU": "Добавить новую",
-      "DE": "Einen neuen hinzufügen"
+      "DE": "Einen neuen hinzufügen",
+      "FR": ""
     },
     "shortcuts.description": {
       "US": "Enter a Description",
       "RU": "Введите описание",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcuts.icloud": {
       "US": "Enter an iCloud URL",
       "RU": "Введите iCloud URL",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcuts.Category": {
       "US": "Select a Category",
       "RU": "Выберите категорию",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcuts.Language": {
       "US": "Select a Language",
       "RU": "Выберите язык",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "new.success": {
       "US": "Shortcut '$0' was Successfully Uploaded!",
       "RU": "Команда '$0' успешно загружена!",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "new.error": {
       "US": "Error! Shortcut was not uploaded!",
       "RU": "Ошибка! Команда не загружена!",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcut.update": {
       "US": "Upload New Version",
       "RU": "Загрузить новую версию",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcuts.changelog": {
       "US": "Enter a Changelog",
       "RU": "Введите изменения",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcuts.versiontype": {
       "US": "Select Version",
       "RU": "Выберите версию",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "versiontype.minor": {
       "US": "Minor",
       "RU": "Незначительная",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "versiontype.major": {
       "US": "Major",
       "RU": "Значительная",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "versiontype.custom": {
       "US": "Custom (ex. 12.3)",
       "RU": "Другая (пр. 12.3)",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "versiontype.latest": {
       "US": "Latest",
       "RU": "Последняя",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcut.json": {
       "US": "JSON-files Storage",
       "RU": "Хранилище JSON-файлов",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcut.description": {
       "US": "Change Description",
       "RU": "Изменить описание",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "shortcut.other": {
       "US": "Other Actions",
       "RU": "Другие действия",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     },
     "settings.items": {
       "US": "Apps Per Page",
       "RU": "Кол-во приложений",
-      "DE": ""
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
