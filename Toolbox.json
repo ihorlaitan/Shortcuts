@@ -25,7 +25,8 @@
       "DE": "Einstellungen",
       "TR": "Ayarlar",
       "CH": "设定",
-      "ZH": "設定"
+      "ZH": "設定",
+      "FR": ""
     },
     "settings.general": {
       "US": "General",
@@ -33,7 +34,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "settings.start": {
       "US": "Start Screen",
@@ -41,7 +43,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "start.main": {
       "US": "Main Menu",
@@ -49,7 +52,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "start.selected": {
       "US": "(selected)",
@@ -57,7 +61,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "settings.language": {
       "US": "Shortcut Language",
@@ -65,7 +70,8 @@
       "DE": "Sprache",
       "TR": "Dil",
       "CH": "语言",
-      "ZH": "語言"
+      "ZH": "語言",
+      "FR": ""
     },
     "language.help": {
       "US": "Help Us Translate",
@@ -73,7 +79,8 @@
       "DE": "Hilf uns übersetzen",
       "TR": "Bize çeviride yardım edin",
       "CH": "帮助翻译",
-      "ZH": "幫助翻譯"
+      "ZH": "幫助翻譯",
+      "FR": ""
     },
     "settings.credits": {
       "US": "Credits",
@@ -81,7 +88,8 @@
       "DE": "Danke an",
       "TR": "Teşekkürler",
       "CH": "感谢",
-      "ZH": "感謝"
+      "ZH": "感謝",
+      "FR": ""
     },
     "settings.feedback": {
       "US": "Feedback",
@@ -89,7 +97,8 @@
       "DE": "Feedback",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "menu.back": {
       "US": "Back to Menu",
@@ -97,7 +106,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "menu.prev": {
       "US": "Back",
@@ -105,7 +115,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "menu.qrcode": {
       "US": "Make Qrcode",
@@ -113,7 +124,8 @@
       "DE": "Qr Code erstellen",
       "TR": "Qr kod yarat",
       "CH": "制作二维码",
-      "ZH": "製作二維碼"
+      "ZH": "製作二維碼",
+      "FR": ""
     },
     "menu.network": {
       "US": "Network Tools",
@@ -121,7 +133,8 @@
       "DE": "Netzwerk Einstellungen",
       "TR": "Ağ Bağlantısı Araçları",
       "CH": "网路工具",
-      "ZH": "網路工具"
+      "ZH": "網路工具",
+      "FR": ""
     },
     "menu.battery": {
       "US": "Battery Modes",
@@ -129,7 +142,8 @@
       "DE": "Batterie Modus",
       "TR": "Pil Modları",
       "CH": "电池模式",
-      "ZH": "電池模式"
+      "ZH": "電池模式",
+      "FR": ""
     },
     "menu.other": {
       "US": "Other",
@@ -137,7 +151,8 @@
       "DE": "Andere",
       "TR": "Diğer",
       "CH": "其他",
-      "ZH": "其他"
+      "ZH": "其他",
+      "FR": ""
     },
     "menu.enabled": {
       "US": "Enabled",
@@ -145,7 +160,8 @@
       "DE": "Aktiviert",
       "TR": "Aktif",
       "CH": "已启用",
-      "ZH": "已啟用"
+      "ZH": "已啟用",
+      "FR": ""
     },
     "menu.disabled": {
       "US": "Disabled",
@@ -153,7 +169,8 @@
       "DE": "Deaktiviert",
       "TR": "Devre dışı",
       "CH": "已停用",
-      "ZH": "已停用"
+      "ZH": "已停用",
+      "FR": ""
     },
     "menu.backup": {
       "US": "Backup & Restore",
@@ -161,7 +178,8 @@
       "DE": "Sichern & wiederherstellen",
       "TR": "Yedekle & Kurtar",
       "CH": "备份及还原",
-      "ZH": "備份及還原"
+      "ZH": "備份及還原",
+      "FR": ""
     },
     "qrcode.url": {
       "US": "URL",
@@ -169,7 +187,8 @@
       "DE": "URL",
       "TR": "URL",
       "CH": "网路连结",
-      "ZH": "網路連結"
+      "ZH": "網路連結",
+      "FR": ""
     },
     "qrcode.nourl": {
       "US": "URL not found!",
@@ -177,7 +196,8 @@
       "DE": "URL nicht gefunden!",
       "TR": "URL bulunamadı!",
       "CH": "连结不存在",
-      "ZH": "連結不存在"
+      "ZH": "連結不存在",
+      "FR": ""
     },
     "qrcode.image": {
       "US": "Image",
@@ -185,7 +205,8 @@
       "DE": "Bild",
       "TR": "Resim",
       "CH": "图片",
-      "ZH": "圖片"
+      "ZH": "圖片",
+      "FR": ""
     },
     "qrcode.wifi": {
       "US": "Wi-Fi",
@@ -193,7 +214,8 @@
       "DE": "Wlan",
       "TR": "Wi-Fi",
       "CH": "无线网络",
-      "ZH": "無線網絡"
+      "ZH": "無線網絡",
+      "FR": ""
     },
     "qrcode.enter": {
       "US": "Current Network Password",
@@ -201,7 +223,8 @@
       "DE": "Aktuelles Wlan-Passwort",
       "TR": "Varsayılan Ağ Parolası",
       "CH": "现在网路密码",
-      "ZH": "現在網路密碼"
+      "ZH": "現在網路密碼",
+      "FR": ""
     },
     "qrcode.network": {
       "US": "Network not found!",
@@ -209,7 +232,8 @@
       "DE": "Netzwerk nicht gefunden!",
       "TR": "Ağ bağlantısı bulunamadı!",
       "CH": "网路不存在",
-      "ZH": "網路不存在"
+      "ZH": "網路不存在",
+      "FR": ""
     },
     "network.speed": {
       "US": "Network Speed Test",
@@ -217,7 +241,8 @@
       "DE": "Netzwerk Geschwindigkeitstest",
       "TR": "Ağ Bağlantısı Hız Testi",
       "CH": "网络速度测试",
-      "ZH": "網絡速度測試"
+      "ZH": "網絡速度測試",
+      "FR": ""
     },
     "network.switch": {
       "US": "Auto Switch Network",
@@ -225,7 +250,8 @@
       "DE": "Automatisch Netzwerk wechseln",
       "TR": "Ağ Bağlantısı Otomatik Seçim",
       "CH": "自动切换网络",
-      "ZH": "自動切換網絡"
+      "ZH": "自動切換網絡",
+      "FR": ""
     },
     "network.reboot": {
       "US": "Reboot Network",
@@ -233,7 +259,8 @@
       "DE": "Netzwerk neustarten",
       "TR": "Ağ Bağlantısını Yeniden Başlat",
       "CH": "重启网络",
-      "ZH": "重啟網絡"
+      "ZH": "重啟網絡",
+      "FR": ""
     },
     "battery.normal": {
       "US": "Normal",
@@ -241,7 +268,8 @@
       "DE": "Normalansicht",
       "TR": "Normal",
       "CH": "正常",
-      "ZH": "正常"
+      "ZH": "正常",
+      "FR": ""
     },
     "battery.charging": {
       "US": "Charging",
@@ -249,7 +277,8 @@
       "DE": "Erhebung",
       "TR": "Şarj oluyor",
       "CH": "充电中",
-      "ZH": "充電中"
+      "ZH": "充電中",
+      "FR": ""
     },
     "battery.superlow": {
       "US": "Super Low Charge",
@@ -257,7 +286,8 @@
       "DE": "sehr Stromsparen",
       "TR": "Süper Yavaş Şarj",
       "CH": "电量严重不足",
-      "ZH": "電量嚴重不足"
+      "ZH": "電量嚴重不足",
+      "FR": ""
     },
     "backup.save": {
       "US": "Save Shortcuts",
@@ -265,7 +295,8 @@
       "DE": "Kurzbefehle speichern",
       "TR": "Kestirmeleri Kaydet",
       "CH": "备份捷径",
-      "ZH": "備份捷徑"
+      "ZH": "備份捷徑",
+      "FR": ""
     },
     "backup.delete": {
       "US": "Delete Backup",
@@ -273,7 +304,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "backup.share": {
       "US": "Share Shortcuts",
@@ -281,7 +313,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "share.url": {
       "US": "Share Backup",
@@ -289,7 +322,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "share.import": {
       "US": "Import Backup",
@@ -297,7 +331,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "share.error": {
       "US": "At First, Save Shortcuts or Import Backup!",
@@ -305,7 +340,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "backup.restore": {
       "US": "Restore Shortcuts",
@@ -313,7 +349,8 @@
       "DE": "Kurzbefehle wiederherstellen",
       "TR": "Kestirmeleri Kurtar",
       "CH": "回复捷径",
-      "ZH": "回復捷徑"
+      "ZH": "回復捷徑",
+      "FR": ""
     },
     "other.respring": {
       "US": "Respring Interface",
@@ -321,7 +358,8 @@
       "DE": "Interface neu laden",
       "TR": "Respring",
       "CH": "重新载入主介面",
-      "ZH": "重新載入主介面"
+      "ZH": "重新載入主介面",
+      "FR": ""
     },
     "other.age": {
       "US": "Age Calculator",
@@ -329,7 +367,8 @@
       "DE": "Alter Taschenrechner",
       "TR": "Yaş Hesaplama",
       "CH": "年龄计算机",
-      "ZH": "年齡計算機"
+      "ZH": "年齡計算機",
+      "FR": ""
     },
     "age.age": {
       "US": "Age",
@@ -337,7 +376,8 @@
       "DE": "Alter",
       "TR": "Yaş",
       "CH": "年龄",
-      "ZH": "年齡"
+      "ZH": "年齡",
+      "FR": ""
     },
     "age.years": {
       "US": "Years",
@@ -345,7 +385,8 @@
       "DE": "Jahre alt",
       "TR": "yıl",
       "CH": "年",
-      "ZH": "年"
+      "ZH": "年",
+      "FR": ""
     },
     "settings.pin": {
       "US": "PIN Code",
@@ -353,7 +394,8 @@
       "DE": "",
       "TR": "PIN Kodu",
       "CH": "密码",
-      "ZH": "密碼"
+      "ZH": "密碼",
+      "FR": ""
     },
     "pin.set": {
       "US": "Set PIN",
@@ -361,7 +403,8 @@
       "DE": "",
       "TR": "PIN Ayarla",
       "CH": "设定密码",
-      "ZH": "設定密碼"
+      "ZH": "設定密碼",
+      "FR": ""
     },
     "pin.reset": {
       "US": "Reset PIN",
@@ -369,7 +412,8 @@
       "DE": "",
       "TR": "PIN Sıfırla",
       "CH": "重设密码",
-      "ZH": "重設密碼"
+      "ZH": "重設密碼",
+      "FR": ""
     },
     "qrcode.text": {
       "US": "Text",
@@ -377,7 +421,8 @@
       "DE": "",
       "TR": "Metin",
       "CH": "文字",
-      "ZH": "文字"
+      "ZH": "文字",
+      "FR": ""
     },
     "qrcode.clipboard": {
       "US": "Clipboard",
@@ -385,7 +430,8 @@
       "DE": "",
       "TR": "Pano",
       "CH": "剪贴板",
-      "ZH": "剪貼板"
+      "ZH": "剪貼板",
+      "FR": ""
     },
     "other.timer": {
       "US": "Set Timer",
@@ -393,7 +439,8 @@
       "DE": "",
       "TR": "Zamanlayıcıyı Ayarla",
       "CH": "设定计时器",
-      "ZH": "設定計時器"
+      "ZH": "設定計時器",
+      "FR": ""
     },
     "timer.seconds": {
       "US": "Seconds",
@@ -401,7 +448,8 @@
       "DE": "",
       "TR": "Saniye",
       "CH": "秒",
-      "ZH": "秒"
+      "ZH": "秒",
+      "FR": ""
     },
     "timer.minutes": {
       "US": "Minutes",
@@ -409,7 +457,8 @@
       "DE": "",
       "TR": "Dakika",
       "CH": "分钟",
-      "ZH": "分鐘"
+      "ZH": "分鐘",
+      "FR": ""
     },
     "timer.hours": {
       "US": "Hours",
@@ -417,7 +466,8 @@
       "DE": "",
       "TR": "Saat",
       "CH": "小时",
-      "ZH": "小時"
+      "ZH": "小時",
+      "FR": ""
     },
     "other.emoji": {
       "US": "Emoji by Name",
@@ -425,7 +475,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "emoji.available": {
       "US": "Available Emoji",
@@ -433,7 +484,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "emoji.notfound": {
       "US": "Emoji not found!",
@@ -441,7 +493,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "other.base64": {
       "US": "Base64 Encryption",
@@ -449,7 +502,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "base64.encode": {
       "US": "Encode",
@@ -457,7 +511,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "base64.decode": {
       "US": "Decode",
@@ -465,7 +520,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "encode.shortcut": {
       "US": "Shortcut",
@@ -473,7 +529,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "encode.file": {
       "US": "File",
@@ -481,7 +538,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "encode.audio": {
       "US": "Recorded Audio",
@@ -489,7 +547,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "notifications.clipboard": {
       "US": "Copied in Clipboard!",
@@ -497,7 +556,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "other.regex": {
       "US": "Regex Text",
@@ -505,7 +565,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "regex.between": {
       "US": "Between Two Strings",
@@ -513,7 +574,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "regex.commas": {
       "US": "With Commas End",
@@ -521,7 +583,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "menu.file": {
       "US": "File Management",
@@ -529,7 +592,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "file.upload": {
       "US": "Upload File",
@@ -537,7 +601,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "upload.days": {
       "US": "Days",
@@ -545,7 +610,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "upload.weeks": {
       "US": "Weeks",
@@ -553,7 +619,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "upload.months": {
       "US": "Months",
@@ -561,7 +628,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "upload.duration": {
       "US": "Duration",
@@ -569,7 +637,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "file.google": {
       "US": "Google Image Search",
@@ -577,7 +646,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "network.ip": {
       "US": "Lookup IP Information",
@@ -585,7 +655,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ip.my": {
       "US": "My IP",
@@ -593,7 +664,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ip.provider": {
       "US": "Provider",
@@ -601,7 +673,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ip.location": {
       "US": "Location",
@@ -609,7 +682,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ip.country": {
       "US": "Country",
@@ -617,7 +691,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ip.city": {
       "US": "City",
@@ -625,7 +700,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ip.code": {
       "US": "Country Code",
@@ -633,7 +709,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "network.ping": {
       "US": "Network Ping Test",
@@ -641,7 +718,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ping.average": {
       "US": "Average",
@@ -649,7 +727,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     },
     "ping.ms": {
       "US": "ms",
@@ -657,7 +736,8 @@
       "DE": "",
       "TR": "",
       "CH": "",
-      "ZH": ""
+      "ZH": "",
+      "FR": ""
     }
   },
   "Credits": {
