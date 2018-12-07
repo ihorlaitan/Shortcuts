@@ -86,12 +86,6 @@
       "RU": "След. страница",
       "FR": "Page Suivante"
     },
-    "menu.shortcuts": {
-      "US": "My Shortcuts",
-      "RU": "Мои команды",
-      "DE": "Meine Kurzbefehle",
-      "FR": "Mes Raccourcis"
-    },
     "menu.call": {
       "US": "Dialing Number",
       "RU": "Набор номера",
@@ -107,10 +101,30 @@
       "RU": "Избранные",
       "FR": "Favoris"
     },
+    "actions.info": {
+      "US": "Information",
+      "RU": "Информация"
+    },
+    "info.birthday": {
+      "US": "Birthday",
+      "RU": "День рождения"
+    },
+    "info.number": {
+      "US": "Phone Number",
+      "RU": "Номер телефона"
+    },
+    "info.email": {
+      "US": "Email",
+      "RU": "Эл. почта"
+    },
+    "info.address": {
+      "US": "Address",
+      "RU": "Адрес"
+    },
     "actions.call": {
-      "US": "Call",
-      "RU": "Позвонить",
-      "FR": "Appel"
+      "US": "Call by Phone",
+      "RU": "Позвонить по телефону",
+      "FR": "Appel via Phone"
     },
     "actions.facetime": {
       "US": "Call by FaceTime",
@@ -161,6 +175,18 @@
       "US": "List With Pages",
       "RU": "Список со страницами",
       "FR": "Liste avec pages"
+    },
+    "appearance.call": {
+      "US": "Call Type",
+      "RU": "Тип звонка"
+    },
+    "actions.callby": {
+      "US": "Call by ...",
+      "RU": "Позвонить по ..."
+    },
+    "call.ask": {
+      "US": "Always Ask",
+      "RU": "Всегда спрашивать"
     }
   },
   "Credits": {
