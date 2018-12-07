@@ -139,7 +139,7 @@
       "RU": "Произнести текст",
       "DE": "Sage eine Nachricht",
       "NL": "Zeg bericht",
-      "FR": "Dire le message" // à revoir
+      "FR": "Dire le message"
     },
     "menu.sleep": {
       "US": "Sleep & Unlock",
@@ -355,7 +355,7 @@
       "US": "Disable",
       "RU": "Выключить",
       "DE": "",
-      "NL": """,
+      "NL": "",
       "FR": "Désactiver"
     },
     "actions.apps": {
