@@ -1,0 +1,47 @@
+{
+  "Version": "1.2",
+  "Languages": {
+    "US": "🇱🇷 English",
+    "RU": "🇷🇺 Русский",
+    "DE": "🇩🇪 German",
+    "FR": "🇫🇷 Français"
+  },
+  "Strings": {
+    "menu.name": {
+      "US": "Shortcuts Utilities"
+    },
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen",
+      "FR": "Options"
+    },
+    "settings.language": {
+      "US": "Shortcut Language",
+      "RU": "Язык команды",
+      "DE": "Sprache",
+      "FR": "Langage"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen",
+      "FR": "Aidez-nous à traduire !"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an",
+      "FR": "Merci !"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Feedback",
+      "FR": "Commentaires"
+    }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy"
+  }
+}
