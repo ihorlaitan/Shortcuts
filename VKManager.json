@@ -157,6 +157,12 @@
       "DE": "",
       "FR": "Envoyer un message"
     },
+    "actions.countdown": {
+      "US": "Message Countdown",
+      "RU": "Обратный отсчет",
+      "DE": "",
+      "FR": ""
+    },
     "actions.add": {
       "US": "Add to Favorites",
       "RU": "Добавить в избранные",
