@@ -4,110 +4,128 @@
     "US": "🇱🇷 English",
     "RU": "🇷🇺 Русский",
     "DE": "🇩🇪 German",
-    "FR": "🇫🇷 Français"
+    "FR": "🇫🇷 Français",
+    "IT": " Italiano"
   },
   "Strings": {
     "menu.name": {
       "US": "App Wishlist",
       "RU": "Список приложений",
       "DE": "App Wunschliste",
-      "FR": "Liste de souhaits de l’application"
+      "FR": "Liste de souhaits de l’application",
+      "IT": "Lista dei desideri delle applicazioni"
     },
     "menu.settings": {
       "US": "Settings",
       "RU": "Настройки",
       "DE": "Einstellungen",
-      "FR": "Options"
+      "FR": "Options",
+      "IT": "Opzioni"
     },
     "settings.language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
-      "FR": "Langage"
+      "FR": "Langage",
+      "IT": "Lingua"
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
       "DE": "Hilf uns übersetzen",
-      "FR": "Aidez-nous à traduire !"
+      "FR": "Aidez-nous à traduire !",
+      "IT": "Aiutaci a tradurre!"
     },
     "settings.credits": {
       "US": "Credits",
       "RU": "Благодарности",
       "DE": "Danke an",
-      "FR": "Merci !"
+      "FR": "Merci !",
+      "IT": "Grazie"
     },
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
       "DE": "Feedback",
-      "FR": "Commentaires"
+      "FR": "Commentaires",
+      "IT": "Commenta"
     },
     "app.added": {
       "US": "Application was added to list!",
       "RU": "Приложение добавлено в список!",
       "DE": "App wurde der Wunschliste hinzugefügt!",
-      "FR": "L’application a été ajoutée à la liste !"
+      "FR": "L’application a été ajoutée à la liste !",
+      "IT": "L'applicazione è stata aggiunta alla lista!"
     },
     "app.already": {
       "US": "Application already in list!",
       "RU": "Приложение уже в списке!",
       "DE": "App ist bereits in der Wunschliste!",
-      "FR": "L’aplication est déjà dans la liste !"
+      "FR": "L’aplication est déjà dans la liste !",
+      "IT": "L'applicazione è già presente nella lista!"
     },
     "app.open": {
       "US": "Open in App Store",
       "RU": "Открыть в App Store",
       "DE": "Öffnen im App Store",
-      "FR": "Ouvrir dans l’App Store"
+      "FR": "Ouvrir dans l’App Store",
+      "IT": "Apri nell'App Store"
     },
     "app.description": {
       "US": "Application Description",
       "RU": "Описание приложения",
       "DE": "App-Beschreibung",
-      "FR": "Description de l’application"
+      "FR": "Description de l’application",
+      "IT": "Descrizione dell'applicazione"
     },
     "app.remove": {
       "US": "Remove from Wishlist",
       "RU": "Удалить из списка",
       "DE": "Aus Wunschliste entfernen",
-      "FR": "Retirer de la liste de souhaits"
+      "FR": "Retirer de la liste de souhaits",
+      "IT": "Rimuovi dalla lista dei desideri"
     },
     "menu.price": {
       "US": "Price Drop",
       "RU": "Снижение цен",
       "DE": "Preissturz",
-      "FR": "Chute des prix"
+      "FR": "Chute des prix",
+      "IT": "I prezzi sono cambiati!"
     },
     "price.nodrop": {
       "US": "No price changes!",
       "RU": "Нет изменений цен!",
       "DE": "Keine Preisveränderungen!",
-      "FR": "Aucun prix n’a changé"
+      "FR": "Aucun prix n’a changé",
+      "IT": "Nessun cambio di prezzo"
     },
     "menu.next": {
       "US": "Next Page",
       "RU": "Следующая",
       "DE": "",
-      "FR": "Page suivante"
+      "FR": "Page suivante",
+      "IT": "Prossima pagina"
     },
     "menu.main": {
       "US": "First Page",
       "RU": "На главную",
       "DE": "",
-      "FR": "Première page"
+      "FR": "Première page",
+      "IT": "Prima pagina"
     },
     "settings.items": {
       "US": "Apps Per Page",
       "RU": "Кол-во приложений",
       "DE": "",
-      "FR": "Application par page"
+      "FR": "Application par page",
+      "IT": "Applicazioni per pagina"
     }
   },
   "Credits": {
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "Tyckx (German Language)": "https://github.com/Tyckx",
     "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
-    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale",
+    "ilPortammare (Italian Language)": "???"
   }
 }
