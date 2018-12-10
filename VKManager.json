@@ -121,17 +121,17 @@
       "DE": "Favoriten",
       "FR": "Favoris"
     },
-    "info.token": {
-      "US": "In order for the Shortcut to be able to interact with Vkontakte you need an Access Token. To get it, in the next step, you need to log in to Vkontakte, click allow, then copy the link and return to the Shortcut.",
-      "RU": "Для того, чтобы команда могла взаимодействовать с Вконтакте, необходим токен доступа. Чтобы получить его, на следующем шаге Вам необходимо авторизоваться во Вконтакте, нажать кнопку Разрешить, затем скопировать ссылку и вернуться к команде.",
-      "DE": "Damit der Shortcut mit Vkontakte richtig funktionieren kann, benötigen Sie ein Access Token. Um den Access Token zu erhalten, müssen Sie sich im nächsten Schritt bei Vkontakte anmelden, auf Erlauben klicken, den Link kopieren und zur Verknüpfung zurückkehren.",
-      "FR": "Pour que le raccourci puisse interagir avec Vkontakte, vous avez besoin d’un Access Token. Pour l’obtenir, à l’étape suivante, vous devez vous connecter à Vkontakte, cliquer sur Autoriser, copier le lien et retourner sur le raccourci."
+    "info.name": {
+      "US": "Access Token",
+      "RU": "Ключ доступа",
+      "DE": "Access Token",
+      "FR": "Access Token"
     },
-    "info.secure": {
-      "US": "For security, all data will only be stored on your device, outside the Shortcut.",
-      "RU": "Для безопасности, все данные будут храниться только на вашем устройстве, вне команды.",
-      "DE": "Für deine Sicherheit, werden alle deine Daten auf deinem Gerät gespeichert, außerhalb des Kurzbefehls.",
-      "FR": "Pour des raisons de sécurité, toutes les données sont stockées uniquement sur votre appareil, en dehors du raccourci."
+    "info.main": {
+      "US": "After clicking on the 'Ok' button:\n- The site will open\n- While on the site, run the Shortcut, through 'share'",
+      "RU": "После нажатия на кнопку 'Ок':\n- Откроется сайт\n- Находясь на сайте, запустите команду, через 'поделиться'",
+      "DE": "After clicking on the 'Ok' button:\n- The site will open\n- While on the site, run the Shortcut, through 'share'",
+      "FR": "After clicking on the 'Ok' button:\n- The site will open\n- While on the site, run the Shortcut, through 'share'"
     },
     "menu.status": {
       "US": "Change Status",
