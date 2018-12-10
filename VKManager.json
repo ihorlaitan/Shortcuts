@@ -11,97 +11,97 @@
       "US": "VK Manager",
       "RU": "Менеджер Вконтакте",
       "DE": "VK Manager",
-      "FR": ""
+      "FR": "VK Manager"
     },
     "menu.settings": {
       "US": "Settings",
       "RU": "Настройки",
       "DE": "Einstellungen",
-      "FR": ""
+      "FR": "Options"
     },
     "settings.language": {
       "US": "Language",
       "RU": "Язык",
       "DE": "Sprache",
-      "FR": ""
+      "FR": "Langues"
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
       "DE": "Hilf uns übersetzen",
-      "FR": ""
+      "FR": "Aidez-nous à traduire !"
     },
     "settings.credits": {
       "US": "Credits",
       "RU": "Благодарности",
       "DE": "Danke an",
-      "FR": ""
+      "FR": "Merci !"
     },
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
       "DE": "Gib uns dein Feedback!",
-      "FR": ""
+      "FR": "Commentaires"
     },
     "menu.message": {
       "US": "Send Message",
       "RU": "Отправить сообщение",
       "DE": "Eine Nachricht senden",
-      "FR": ""
+      "FR": "Envoyer un message"
     },
     "menu.friends": {
       "US": "Friends List",
       "RU": "Список друзей",
       "DE": "Freundesliste",
-      "FR": ""
+      "FR": "Liste d’amis"
     },
     "friends.profile": {
       "US": "Open Profile",
       "RU": "Открыть профиль",
       "DE": "Profil öffnen",
-      "FR": ""
+      "FR": "Ouvrir le profile"
     },
     "friends.favorites": {
       "US": "Favorites",
       "RU": "Избранные",
       "DE": "Favoriten",
-      "FR": ""
+      "FR": "Favoris"
     },
     "favorites.add": {
       "US": "Add to Favorites",
       "RU": "Добавить в Избранные",
       "DE": "Zu den Favoriten hinzufügen",
-      "FR": ""
+      "FR": "Ajouter aux favoris"
     },
     "favorites.remove": {
       "US": "Remove from Favorites",
       "RU": "Удалить из Избранных",
       "DE": "Von den Favoriten entfernen",
-      "FR": ""
+      "FR": "Retirer des favoris"
     },
     "info.token": {
       "US": "In order for the Shortcut to be able to interact with Vkontakte you need an Access Token. To get it, in the next step, you need to log in to Vkontakte, click allow, then copy the link and return to the Shortcut.",
       "RU": "Для того, чтобы команда могла взаимодействовать с Вконтакте, необходим токен доступа. Чтобы получить его, на следующем шаге Вам необходимо авторизоваться во Вконтакте, нажать кнопку Разрешить, затем скопировать ссылку и вернуться к команде.",
       "DE": "Damit der Shortcut mit Vkontakte richtig funktionieren kann, benötigen Sie ein Access Token. Um den Access Token zu erhalten, müssen Sie sich im nächsten Schritt bei Vkontakte anmelden, auf Erlauben klicken, den Link kopieren und zur Verknüpfung zurückkehren.",
-      "FR": ""
+      "FR": "Pour que le raccourci puisse interagir avec Vkontakte, vous avez besoin d’un Access Token. Pour l’obtenir, à l’étape suivante, vous devez vous connecter à Vkontakte, cliquer sur Autoriser, copier le lien et retourner sur le raccourci."
     },
     "info.secure": {
       "US": "For security, all data will only be stored on your device, outside the Shortcut.",
       "RU": "Для безопасности, все данные будут храниться только на вашем устройстве, вне команды.",
       "DE": "Für deine Sicherheit, werden alle deine Daten auf deinem Gerät gespeichert, außerhalb des Kurzbefehls.",
-      "FR": ""
+      "FR": "Pour des raisons de sécurité, toutes les données sont stockées uniquement sur votre appareil, en dehors du raccourci."
     },
     "menu.status": {
       "US": "Change Status",
       "RU": "Изменить статус",
       "DE": "Ändere deinen Status",
-      "FR": ""
+      "FR": "Modifier votre status"
     },
     "menu.profile": {
       "US": "My Profile",
       "RU": "Мой профиль",
       "DE": "Mein Profil",
-      "FR": ""
+      "FR": "Mon Profile"
     }
   },
   "Credits": {
