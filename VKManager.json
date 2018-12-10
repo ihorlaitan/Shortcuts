@@ -121,24 +121,6 @@
       "DE": "Favoriten",
       "FR": "Favoris"
     },
-    "friends.profile": {
-      "US": "Open Profile",
-      "RU": "Открыть профиль",
-      "DE": "Profil öffnen",
-      "FR": "Ouvrir le profile"
-    },
-    "favorites.add": {
-      "US": "Add to Favorites",
-      "RU": "Добавить в избранные",
-      "DE": "Zu den Favoriten hinzufügen",
-      "FR": "Ajouter aux favoris"
-    },
-    "favorites.remove": {
-      "US": "Remove from Favorites",
-      "RU": "Удалить из избранных",
-      "DE": "Von den Favoriten entfernen",
-      "FR": "Retirer des favoris"
-    },
     "info.token": {
       "US": "In order for the Shortcut to be able to interact with Vkontakte you need an Access Token. To get it, in the next step, you need to log in to Vkontakte, click allow, then copy the link and return to the Shortcut.",
       "RU": "Для того, чтобы команда могла взаимодействовать с Вконтакте, необходим токен доступа. Чтобы получить его, на следующем шаге Вам необходимо авторизоваться во Вконтакте, нажать кнопку Разрешить, затем скопировать ссылку и вернуться к команде.",
@@ -162,6 +144,30 @@
       "RU": "Мой профиль",
       "DE": "Mein Profil",
       "FR": "Mon Profile"
+    },
+    "actions.profile": {
+      "US": "Open Profile",
+      "RU": "Открыть профиль",
+      "DE": "Profil öffnen",
+      "FR": "Ouvrir le profile"
+    },
+    "actions.message": {
+      "US": "Send Message",
+      "RU": "Отправить сообщение",
+      "DE": "",
+      "FR": "Envoyer un message"
+    },
+    "actions.add": {
+      "US": "Add to Favorites",
+      "RU": "Добавить в избранные",
+      "DE": "Zu den Favoriten hinzufügen",
+      "FR": "Ajouter aux favoris"
+    },
+    "actions.remove": {
+      "US": "Remove from Favorites",
+      "RU": "Удалить из избранных",
+      "DE": "Von den Favoriten entfernen",
+      "FR": "Retirer des favoris"
     },
     "settings.items": {
       "US": "Friends Per Page",
