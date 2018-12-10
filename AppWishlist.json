@@ -26,7 +26,7 @@
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
-      "FR": "Langage",
+      "FR": "Langue du raccourci",
       "IT": "Lingua"
     },
     "language.help": {
@@ -117,7 +117,7 @@
       "US": "Apps Per Page",
       "RU": "Кол-во приложений",
       "DE": "",
-      "FR": "Application par page",
+      "FR": "Applications par page",
       "IT": "Applicazioni per pagina"
     }
   },
