@@ -101,13 +101,13 @@
       "US": "Newest",
       "RU": "Новые",
       "DE": "",
-      "FR": "Les + récents"
+      "FR": "Les plus récents"
     },
     "menu.updated": {
       "US": "Recent Updated",
       "RU": "Недавно обновленные",
       "DE": "Wichtige Updates",
-      "FR": "Mise à jour récente"
+      "FR": "Mises à jour récentes"
     },
     "menu.new": {
       "US": "New Shortcuts",
@@ -125,13 +125,13 @@
       "US": "Most Downloaded",
       "RU": "Самые загружаемые",
       "DE": "von den Downloads her",
-      "FR": "Les + téléchargés"
+      "FR": "Les plus téléchargés"
     },
     "top.likes": {
       "US": "Most Liked",
       "RU": "Самые понравившиеся",
       "DE": "von den Likes her",
-      "FR": "Les + aimés"
+      "FR": "Les plus aimés"
     },
     "menu.search": {
       "US": "Search",
@@ -143,7 +143,7 @@
       "US": "Install Shortcut",
       "RU": "Установить команду",
       "DE": "Installiere den Kurzbefehl",
-      "FR": "Installer le raccourcis"
+      "FR": "Installer le raccourci"
     },
     "shortcut.open": {
       "US": "Open in Safari",
