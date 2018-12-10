@@ -115,17 +115,17 @@
       "DE": "Freundesliste",
       "FR": "Liste d’amis"
     },
+    "menu.favorites": {
+      "US": "Favorites",
+      "RU": "Избранные",
+      "DE": "Favoriten",
+      "FR": "Favoris"
+    },
     "friends.profile": {
       "US": "Open Profile",
       "RU": "Открыть профиль",
       "DE": "Profil öffnen",
       "FR": "Ouvrir le profile"
-    },
-    "friends.favorites": {
-      "US": "Favorites",
-      "RU": "Избранные",
-      "DE": "Favoriten",
-      "FR": "Favoris"
     },
     "favorites.add": {
       "US": "Add to Favorites",
