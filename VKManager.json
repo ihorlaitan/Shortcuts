@@ -128,10 +128,10 @@
       "FR": "Access Token"
     },
     "info.main": {
-      "US": "After clicking on the 'Ok' button:\n- The site will open\n- While on the site, run the Shortcut, through 'share'",
-      "RU": "После нажатия на кнопку 'Ок':\n- Откроется сайт\n- Находясь на сайте, запустите команду, через 'поделиться'",
-      "DE": "After clicking on the 'Ok' button:\n- The site will open\n- While on the site, run the Shortcut, through 'share'",
-      "FR": "After clicking on the 'Ok' button:\n- The site will open\n- While on the site, run the Shortcut, through 'share'"
+      "US": "After clicking on the 'OK' button:\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'",
+      "RU": "После нажатия на кнопку 'OK':\n1. Откроется сайт\n* Находясь на сайте, запустите команду, через 'поделиться'",
+      "DE": "After clicking on the 'OK' button:\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'",
+      "FR": "After clicking on the 'OK' button:\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'"
     },
     "menu.status": {
       "US": "Change Status",
