@@ -8,7 +8,8 @@
   },
   "Strings": {
     "menu.name": {
-      "US": "Shortcuts Utilities"
+      "US": "Shortcuts Utilities",
+      "FR": "Utilitaires pour Raccourcis"
     },
     "menu.settings": {
       "US": "Settings",
@@ -20,7 +21,7 @@
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
-      "FR": "Langage"
+      "FR": "Langue du raccourci"
     },
     "language.help": {
       "US": "Help Us Translate",
