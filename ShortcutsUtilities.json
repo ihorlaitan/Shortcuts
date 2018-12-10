@@ -39,6 +39,24 @@
       "RU": "Обратная связь",
       "DE": "Feedback",
       "FR": "Commentaires"
+    },
+    "menu.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню",
+      "DE": "",
+      "FR": "Retour au menu"
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": "",
+      "FR": "Retour"
+    },
+    "menu.next": {
+      "US": "Next Page",
+      "RU": "След. страница",
+      "DE": "",
+      "FR": "Page Suivante"
     }
   },
   "Credits": {
