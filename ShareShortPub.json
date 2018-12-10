@@ -17,7 +17,7 @@
       "US": "Settings",
       "RU": "Настройки",
       "DE": "Einstellungen",
-      "FR": "Settings"
+      "FR": "Options"
     },
     "settings.general": {
       "US": "General",
@@ -119,7 +119,7 @@
       "US": "Install Shortcut",
       "RU": "Установить команду",
       "DE": "Installiere den Kurzbefehl",
-      "FR": "Installer un raccourcis"
+      "FR": "Installer un raccourci"
     },
     "shortcut.open": {
       "US": "Open in Safari",
@@ -173,13 +173,13 @@
       "US": "Error! Shortcut was not uploaded!",
       "RU": "Ошибка! Команда не загружена!",
       "DE": "",
-      "FR": "Erreur ! Le raccourci n'a pas été téléchargé !"
+      "FR": "Erreur ! Le raccourci n’a pas été téléchargé !"
     },
     "shortcut.update": {
       "US": "Upload New Version",
       "RU": "Загрузить новую версию",
       "DE": "",
-      "FR": "Uploadé une nouvelle version"
+      "FR": "Uploader une nouvelle version"
     },
     "shortcuts.changelog": {
       "US": "Enter a Changelog",
@@ -209,7 +209,7 @@
       "US": "Custom (ex. 12.3)",
       "RU": "Другая (пр. 12.3)",
       "DE": "",
-      "FR": "Personnalisé (ex : 12.3)"
+      "FR": "Personnaliser (ex : 12.3)"
     },
     "versiontype.latest": {
       "US": "Latest",
