@@ -11,175 +11,175 @@
       "US": "ShareShortcuts Hub",
       "RU": "ShareShortcuts Hub",
       "DE": "ShareShortcuts Hub",
-      "FR": ""
+      "FR": "ShareShortcuts Hub"
     },
     "menu.settings": {
       "US": "Settings",
       "RU": "Настройки",
       "DE": "Einstellungen",
-      "FR": ""
+      "FR": "Options"
     },
     "settings.general": {
       "US": "General",
       "RU": "Основные",
       "DE": "",
-      "FR": ""
+      "FR": "Général"
     },
     "settings.start": {
       "US": "Start Screen",
       "RU": "Начальный экран",
       "DE": "",
-      "FR": ""
+      "FR": "Écran de démarrage"
     },
     "start.main": {
       "US": "Main Menu",
       "RU": "Главное меню",
       "DE": "",
-      "FR": ""
+      "FR": "Menu principal"
     },
     "start.selected": {
       "US": "(selected)",
       "RU": "(выбрано)",
       "DE": "",
-      "FR": ""
+      "FR": "(sélectionné)"
     },
     "settings.language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
-      "FR": ""
+      "FR": "Langue du raccourci"
     },
     "language.help": {
       "US": "Help Us Translate",
       "RU": "Помощь в переводе",
       "DE": "Hilf uns übersetzen",
-      "FR": ""
+      "FR": "Aidez-nous à traduire !"
     },
     "settings.pin": {
       "US": "PIN Code",
       "RU": "ПИН-код",
       "DE": "",
-      "FR": ""
+      "FR": "Code PIN"
     },
     "pin.set": {
       "US": "Set PIN",
       "RU": "Установить ПИН-код",
       "DE": "",
-      "FR": ""
+      "FR": "Définir un code PIN"
     },
     "pin.reset": {
       "US": "Reset PIN",
       "RU": "Сбросить ПИН-код",
       "DE": "",
-      "FR": ""
+      "FR": "Réinitialiser le code PIN"
     },
     "settings.credits": {
       "US": "Credits",
       "RU": "Благодарности",
       "DE": "Danke an",
-      "FR": ""
+      "FR": "Merci !"
     },
     "settings.feedback": {
       "US": "Feedback",
       "RU": "Обратная связь",
       "DE": "Feedback",
-      "FR": ""
+      "FR": "Commentaires"
     },
     "menu.back": {
       "US": "Back to Menu",
       "RU": "В главное меню",
       "DE": "",
-      "FR": ""
+      "FR": "Retour au menu"
     },
     "menu.prev": {
       "US": "Back",
       "RU": "Назад",
       "DE": "",
-      "FR": ""
+      "FR": "Retour"
     },
     "menu.newest": {
       "US": "Newest",
       "RU": "Новые",
       "DE": "",
-      "FR": ""
+      "FR": "Les + récents"
     },
     "menu.updated": {
       "US": "Recent Updated",
       "RU": "Недавно обновленные",
       "DE": "Wichtige Updates",
-      "FR": ""
+      "FR": "Mise à jour récente"
     },
     "menu.new": {
       "US": "New Shortcuts",
       "RU": "Новые команды",
       "DE": "Letzter Kurzbefehl",
-      "FR": ""
+      "FR": "Nouveaux raccourcis"
     },
     "menu.top": {
       "US": "Top 100",
       "RU": "Топ 100",
       "DE": "Top 100",
-      "FR": ""
+      "FR": "Top 100"
     },
     "top.downloads": {
       "US": "Most Downloaded",
       "RU": "Самые загружаемые",
       "DE": "von den Downloads her",
-      "FR": ""
+      "FR": "Les + téléchargés"
     },
     "top.likes": {
       "US": "Most Liked",
       "RU": "Самые понравившиеся",
       "DE": "von den Likes her",
-      "FR": ""
+      "FR": "Les + aimés"
     },
     "menu.search": {
       "US": "Search",
       "RU": "Поиск",
       "DE": "Suchen",
-      "FR": ""
+      "FR": "Recherche"
     },
     "shortcut.install": {
       "US": "Install Shortcut",
       "RU": "Установить команду",
       "DE": "Installiere den Kurzbefehl",
-      "FR": ""
+      "FR": "Installer le raccourcis"
     },
     "shortcut.open": {
       "US": "Open in Safari",
       "RU": "Открыть в Safari",
       "DE": "Öffne in Safari",
-      "FR": ""
+      "FR": "Ouvrir dans Safari"
     },
     "menu.categories": {
       "US": "Categories",
       "RU": "Категории",
       "DE": "Kategorien",
-      "FR": ""
+      "FR": "Catégories"
     },
     "search.next": {
       "US": "Next Page",
       "RU": "Следующая страница",
       "DE": "Nächste Seite",
-      "FR": ""
+      "FR": "Page suivante"
     },
     "shortcut.version": {
       "US": "Version",
       "RU": "Версия",
       "DE": "Version",
-      "FR": ""
+      "FR": "Version"
     },
     "shortcut.author": {
       "US": "Author",
       "RU": "Автор",
       "DE": "Entwickler",
-      "FR": ""
+      "FR": "Auteur"
     },
     "shortcut.back": {
       "US": "Back to Menu",
       "RU": "В главное меню",
       "DE": "",
-      "FR": ""
+      "FR": "Retour au menu"
     }
   },
   "Credits": {
