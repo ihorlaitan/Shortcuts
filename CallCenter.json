@@ -74,7 +74,7 @@
     "menu.back": {
       "US": "Back to Menu",
       "RU": "В главное меню",
-      "FR": "Retour vers le menu"
+      "FR": "Retour au menu"
     },
     "menu.prev": {
       "US": "Back",
@@ -104,32 +104,32 @@
     "actions.info": {
       "US": "Information",
       "RU": "Информация",
-      "FR": ""
+      "FR": "Information"
     },
     "info.birthday": {
       "US": "Birthday",
       "RU": "День рождения",
-      "FR": ""
+      "FR": "Date d’anniversaire"
     },
     "info.number": {
       "US": "Phone Number",
       "RU": "Номер телефона",
-      "FR": ""
+      "FR": "Numéro de téléphone"
     },
     "info.email": {
       "US": "Email",
       "RU": "Эл. почта",
-      "FR": ""
+      "FR": "Courriel"
     },
     "info.address": {
       "US": "Address",
       "RU": "Адрес",
-      "FR": ""
+      "FR": "Addresse"
     },
     "actions.call": {
       "US": "Call by Phone",
       "RU": "Позвонить по телефону",
-      "FR": "Appel via Phone"
+      "FR": "Appel via le téléphone"
     },
     "actions.facetime": {
       "US": "Call by FaceTime",
@@ -184,17 +184,17 @@
     "appearance.call": {
       "US": "Call Type",
       "RU": "Тип звонка",
-      "FR": ""
+      "FR": "Type d’appel"
     },
     "actions.callby": {
       "US": "Call by ...",
       "RU": "Позвонить по ...",
-      "FR": ""
+      "FR": "Appeler par ..."
     },
     "call.ask": {
       "US": "Always Ask",
       "RU": "Всегда спрашивать",
-      "FR": ""
+      "FR": "Toujours demande"
     }
   },
   "Credits": {
