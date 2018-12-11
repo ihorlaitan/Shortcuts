@@ -180,6 +180,24 @@
       "RU": "Кол-во друзей",
       "DE": "",
       "FR": "Friends par page"
+    },
+    "menu.messages": {
+      "US": "Messages",
+      "RU": "Сообщения",
+      "DE": "",
+      "FR": ""
+    },
+    "messages.sticker": {
+      "US": "[Sticker]",
+      "RU": "[Стикер]",
+      "DE": "",
+      "FR": ""
+    },
+    "messages.video": {
+      "US": "[Video]",
+      "RU": "[Видео]",
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
