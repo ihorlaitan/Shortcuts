@@ -1,5 +1,5 @@
 {
-  "Version": "1.3",
+  "Version": "2.0",
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
@@ -97,30 +97,6 @@
       "DE": "",
       "FR": "Retour"
     },
-    "menu.next": {
-      "US": "Next Page",
-      "RU": "След. страница",
-      "DE": "",
-      "FR": "Page Suivante"
-    },
-    "menu.message": {
-      "US": "Send Message",
-      "RU": "Отправить сообщение",
-      "DE": "Eine Nachricht senden",
-      "FR": "Envoyer un message"
-    },
-    "menu.friends": {
-      "US": "My Friends",
-      "RU": "Мои друзья",
-      "DE": "Freundesliste",
-      "FR": "Liste d’amis"
-    },
-    "menu.favorites": {
-      "US": "Favorites",
-      "RU": "Избранные",
-      "DE": "Favoriten",
-      "FR": "Favoris"
-    },
     "info.name": {
       "US": "Access Token",
       "RU": "Ключ доступа",
@@ -133,7 +109,7 @@
       "DE": "After clicking on the 'OK' button:\n\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'",
       "FR": "After clicking on the 'OK' button:\n\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'"
     },
-    "menu.status": {
+    "profile.status": {
       "US": "Change Status",
       "RU": "Изменить статус",
       "DE": "Ändere deinen Status",
@@ -162,24 +138,6 @@
       "RU": "Обратный отсчет",
       "DE": "",
       "FR": ""
-    },
-    "actions.add": {
-      "US": "Add to Favorites",
-      "RU": "Добавить в избранные",
-      "DE": "Zu den Favoriten hinzufügen",
-      "FR": "Ajouter aux favoris"
-    },
-    "actions.remove": {
-      "US": "Remove from Favorites",
-      "RU": "Удалить из избранных",
-      "DE": "Von den Favoriten entfernen",
-      "FR": "Retirer des favoris"
-    },
-    "settings.items": {
-      "US": "Friends Per Page",
-      "RU": "Кол-во друзей",
-      "DE": "",
-      "FR": "Friends par page"
     },
     "menu.messages": {
       "US": "Messages",
