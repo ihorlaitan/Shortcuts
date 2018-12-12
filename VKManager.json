@@ -156,6 +156,18 @@
       "RU": "[Видео]",
       "DE": "",
       "FR": ""
+    },
+    "messages.photo": {
+      "US": "[Photo]",
+      "RU": "[Фото]",
+      "DE": "",
+      "FR": ""
+    },
+    "messages.wall": {
+      "US": "[Wall]",
+      "RU": "[Запись]",
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
