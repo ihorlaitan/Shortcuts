@@ -143,31 +143,31 @@
       "US": "Messages",
       "RU": "Сообщения",
       "DE": "",
-      "FR": ""
+      "FR": "Messages"
     },
     "messages.sticker": {
       "US": "[Sticker]",
       "RU": "[Стикер]",
       "DE": "",
-      "FR": ""
+      "FR": "[Autocollant]"
     },
     "messages.video": {
       "US": "[Video]",
       "RU": "[Видео]",
       "DE": "",
-      "FR": ""
+      "FR": "[Vidéo]"
     },
     "messages.photo": {
       "US": "[Photo]",
       "RU": "[Фото]",
       "DE": "",
-      "FR": ""
+      "FR": "[Photo]"
     },
     "messages.wall": {
       "US": "[Wall]",
       "RU": "[Запись]",
       "DE": "",
-      "FR": ""
+      "FR": "[Mur]"
     }
   },
   "Credits": {
