@@ -157,6 +157,96 @@
       "DE": "Kategorien",
       "FR": "Catégories"
     },
+    "categories.api": {
+      "US": "API",
+      "RU": "API",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.calculations": {
+      "US": "Calculations",
+      "RU": "Вычисления",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.fun": {
+      "US": "Fun",
+      "RU": "Развлечения",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.homekit": {
+      "US": "Homekit",
+      "RU": "Умный дом",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.messaging": {
+      "US": "Messaging",
+      "RU": "Общение",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.music": {
+      "US": "Music",
+      "RU": "Музыка",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.photos": {
+      "US": "Photos and videos",
+      "RU": "Фото и видео",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.productivity": {
+      "US": "Productivity",
+      "RU": "Производительность",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.reference": {
+      "US": "Reference",
+      "RU": "Команды-ссылки",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.routines": {
+      "US": "Routines",
+      "RU": "Рутинные задачи",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.social": {
+      "US": "Social Network",
+      "RU": "Социальные сети",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.streaming": {
+      "US": "Streaming",
+      "RU": "Стриминг",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.travel": {
+      "US": "Travel and Maps",
+      "RU": "Карты и путешествия",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.utilities": {
+      "US": "Utilities",
+      "RU": "Утилиты",
+      "DE": "",
+      "FR": ""
+    },
+    "categories.weather": {
+      "US": "Weather",
+      "RU": "Погода",
+      "DE": "",
+      "FR": ""
+    },
     "search.next": {
       "US": "Next Page",
       "RU": "Следующая страница",
