@@ -47,7 +47,7 @@
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
-      "FR": "Langues"
+      "FR": "Langue du raccourci"
     },
     "language.help": {
       "US": "Help Us Translate",
@@ -101,25 +101,25 @@
       "US": "Access Token",
       "RU": "Ключ доступа",
       "DE": "Access Token",
-      "FR": "Access Token"
+      "FR": "Jeton d’accès"
     },
     "info.main": {
       "US": "After clicking on the 'OK' button:\n\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'",
       "RU": "После нажатия на кнопку 'OK':\n\n1. Откроется сайт\n2. Находясь на сайте, запустите команду, через 'поделиться'",
       "DE": "After clicking on the 'OK' button:\n\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'",
-      "FR": "After clicking on the 'OK' button:\n\n1. The site will open\n2. While on the site, run the Shortcut, through 'share'"
+      "FR": "Lorsque vous avez appuyé sur le bouton 'OK' :\n\n 1. Le site va s’ouvrir\n2.Dès que vous êtes sur le site, exécutez le raccourci, à l’aide de 'Partager'"
     },
     "profile.status": {
       "US": "Change Status",
       "RU": "Изменить статус",
       "DE": "Ändere deinen Status",
-      "FR": "Modifier votre status"
+      "FR": "Modifier mon status"
     },
     "menu.profile": {
       "US": "My Profile",
       "RU": "Мой профиль",
       "DE": "Mein Profil",
-      "FR": "Mon Profile"
+      "FR": "Mon profile"
     },
     "actions.profile": {
       "US": "Open Profile",
@@ -137,7 +137,7 @@
       "US": "Message Countdown",
       "RU": "Обратный отсчет",
       "DE": "",
-      "FR": ""
+      "FR": "Compte à rebours des messages"
     },
     "menu.messages": {
       "US": "Messages",

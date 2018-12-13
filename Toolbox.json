@@ -197,7 +197,7 @@
       "TR": "URL bulunamadı!",
       "CH": "连结不存在",
       "ZH": "連結不存在",
-      "FR": "URl non trouvée !"
+      "FR": "URL non trouvée !"
     },
     "qrcode.image": {
       "US": "Image",
@@ -242,7 +242,7 @@
       "TR": "Ağ Bağlantısı Hız Testi",
       "CH": "网络速度测试",
       "ZH": "網絡速度測試",
-      "FR": "Test de vitesse réseau"
+      "FR": "Tester la vitesse de mon réseau"
     },
     "network.switch": {
       "US": "Auto Switch Network",
@@ -386,7 +386,7 @@
       "TR": "yıl",
       "CH": "年",
       "ZH": "年",
-      "FR": "Années"
+      "FR": "ans"
     },
     "settings.pin": {
       "US": "PIN Code",
@@ -431,7 +431,7 @@
       "TR": "Pano",
       "CH": "剪贴板",
       "ZH": "剪貼板",
-      "FR": "Presse-Papier"
+      "FR": "Presse-papier"
     },
     "other.timer": {
       "US": "Set Timer",
@@ -476,7 +476,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Emoji par Nom"
+      "FR": "Emoji par nom"
     },
     "emoji.available": {
       "US": "Available Emoji",
@@ -485,7 +485,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Emoji disponible"
+      "FR": "Emoji(s) disponible(s)"
     },
     "emoji.notfound": {
       "US": "Emoji not found!",
@@ -503,7 +503,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Chiffrer par Base64"
+      "FR": "Chiffrer en Base64"
     },
     "base64.encode": {
       "US": "Encode",
@@ -557,7 +557,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Copié dans le presse-papier"
+      "FR": "Copier dans le presse-papier"
     },
     "other.regex": {
       "US": "Regex Text",
@@ -566,7 +566,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Teste Regex"
+      "FR": "Tester une expression régulière ( Regex )"
     },
     "regex.between": {
       "US": "Between Two Strings",
@@ -656,7 +656,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Recherche d’informations sur l’IP"
+      "FR": "Recherche d’informations de l’adresse IP"
     },
     "ip.my": {
       "US": "My IP",
@@ -674,7 +674,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": ""
+      "FR": "Fournisseur d’accès"
     },
     "ip.location": {
       "US": "Location",
@@ -683,7 +683,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Prestataire"
+      "FR": "Emplacement"
     },
     "ip.country": {
       "US": "Country",
@@ -719,7 +719,7 @@
       "TR": "",
       "CH": "",
       "ZH": "",
-      "FR": "Test de Ping réseau"
+      "FR": "Test de ping réseau"
     },
     "ping.average": {
       "US": "Average",

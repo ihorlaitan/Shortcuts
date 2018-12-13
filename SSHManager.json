@@ -55,7 +55,7 @@
       "RU": "Язык команды",
       "DE": "Sprache",
       "NL": "Taal",
-      "FR": "Langue des raccourcis"
+      "FR": "Langue du raccourci"
     },
     "language.help": {
       "US": "Help Us Translate",
@@ -139,14 +139,14 @@
       "RU": "Произнести текст",
       "DE": "Sage eine Nachricht",
       "NL": "Zeg bericht",
-      "FR": "Dire le message"
+      "FR": "Écrire un message"
     },
     "menu.sleep": {
       "US": "Sleep & Unlock",
       "RU": "Сон и разблокировка",
       "DE": "Ruhemodus & Entsperren",
       "NL": "Slaap & Ontgrendel",
-      "FR": "Mode veille & déverrouillage"
+      "FR": "Mode veille & Déverrouillage"
     },
     "menu.volume": {
       "US": "Set Volume",
@@ -195,7 +195,7 @@
       "RU": "Изменить пароль",
       "DE": "Passwort ändern",
       "NL": "Verander Wachtwoord",
-      "FR": "Changer de mot passe"
+      "FR": "Changer de mot de passe"
     },
     "ssh.clear": {
       "US": "Clear Data",
@@ -230,7 +230,7 @@
       "RU": "Режим сна",
       "DE": "Ruhemodus",
       "NL": "Slaapstand",
-      "FR": "Mode Veille"
+      "FR": "Mode veille"
     },
     "power.restart": {
       "US": "Restart",
@@ -335,7 +335,7 @@
       "RU": "Текущая громкость",
       "DE": "",
       "NL": "",
-      "FR": "Volument acutel"
+      "FR": "Volume acutel"
     },
     "power.screensaver": {
       "US": "Screen Saver",
@@ -370,7 +370,7 @@
       "RU": "Запущенные программы",
       "DE": "",
       "NL": "",
-      "FR": "Lancement d’applications"
+      "FR": "Lancement d’application"
     },
     "actions.playpause": {
       "US": "Play/Pause",

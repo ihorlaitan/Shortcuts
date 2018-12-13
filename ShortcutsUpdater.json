@@ -26,7 +26,7 @@
       "CH": "语言",
       "ZH": "語言",
       "DK": "Sprog",
-      "FR": "Langue du Raccourci"
+      "FR": "Langue du raccourci"
     },
     "language.help": {
       "US": "Help Us Translate",
@@ -89,7 +89,7 @@
       "CH": "可用的更新",
       "ZH": "可用的更新",
       "DK": "Tilgængelige Opdateringer",
-      "FR": "Mises à jours disponibles"
+      "FR": "Mises à jour disponibles"
     },
     "menu.supported": {
       "US": "Supported Shortcuts",
@@ -161,7 +161,7 @@
       "CH": "没有网路连接",
       "ZH": "沒有網路連接",
       "DK": "",
-      "FR": "Aucun connexion internet !"
+      "FR": "Aucune connexion internet !"
     },
     "settings.items": {
       "US": "Apps Per Page",
