@@ -59,8 +59,8 @@
       "US": "Back to Menu",
       "RU": "В главное меню",
       "DE": "",
-      "CH": "",
-      "ZH": "",
+      "CH": "回到主頁",
+      "ZH": "回到主頁",
       "DK": "",
       "FR": "Retour au menu"
     },
@@ -68,8 +68,8 @@
       "US": "Back",
       "RU": "Назад",
       "DE": "",
-      "CH": "",
-      "ZH": "",
+      "CH": "返回",
+      "ZH": "返回",
       "DK": "",
       "FR": "Retour"
     },
@@ -77,8 +77,8 @@
       "US": "Next Page",
       "RU": "След. страница",
       "DE": "Nächste Seite",
-      "CH": "",
-      "ZH": "",
+      "CH": "下一頁",
+      "ZH": "下一頁",
       "DK": "",
       "FR": "Page suivante"
     },
@@ -167,8 +167,8 @@
       "US": "Apps Per Page",
       "RU": "Кол-во приложений",
       "DE": "",
-      "CH": "",
-      "ZH": "",
+      "CH": "每頁捷徑數目",
+      "ZH": "每頁捷徑數目",
       "DK": "",
       "FR": "Applications par page"
     }
