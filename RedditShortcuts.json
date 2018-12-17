@@ -68,6 +68,22 @@
     "menu.next": {
       "US": "Next Page",
       "RU": "След. страница"
+    },
+    "menu.new": {
+      "US": "New Shortcuts",
+      "RU": "Новые команды"
+    },
+    "shortcut.author": {
+      "US": "Author",
+      "RU": "Автор"
+    },
+    "shortcut.open": {
+      "US": "Open in Safari",
+      "RU": "Открыть в Safari"
+    },
+    "shortcut.install": {
+      "US": "Install Shortcut",
+      "RU": "Установить команду"
     }
   },
   "Credits": {
