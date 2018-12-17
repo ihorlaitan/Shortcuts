@@ -1,0 +1,76 @@
+{
+  "Version": "1.0",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇱🇷 English"
+  },
+  "Strings": {
+    "menu.name": {
+      "US": "Reddit Shortcuts",
+      "RU": "Команды на Reddit"
+    },
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки"
+    },
+    "settings.general": {
+      "US": "General",
+      "RU": "Основные"
+    },
+    "settings.start": {
+      "US": "Start Screen",
+      "RU": "Начальный экран"
+    },
+    "start.main": {
+      "US": "Main Menu",
+      "RU": "Главное меню"
+    },
+    "start.selected": {
+      "US": "(selected)",
+      "RU": "(выбрано)"
+    },
+    "settings.language": {
+      "US": "Shortcut Language",
+      "RU": "Язык команды"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе"
+    },
+    "settings.pin": {
+      "US": "PIN Code",
+      "RU": "ПИН-код"
+    },
+    "pin.set": {
+      "US": "Set PIN",
+      "RU": "Установить ПИН-код"
+    },
+    "pin.reset": {
+      "US": "Reset PIN",
+      "RU": "Сбросить ПИН-код"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь"
+    },
+    "menu.back": {
+      "US": "Back to Menu",
+      "RU": "В главное меню"
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад"
+    },
+    "menu.next": {
+      "US": "Next Page",
+      "RU": "След. страница"
+    }
+  },
+  "Credits": {
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy"
+  }
+}
