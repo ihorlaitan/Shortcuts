@@ -77,6 +77,10 @@
       "US": "Top Shortcuts",
       "RU": "Топ команд"
     },
+    "menu.search": {
+      "US": "Search",
+      "RU": "Поиск"
+    },
     "shortcut.author": {
       "US": "Author",
       "RU": "Автор"
