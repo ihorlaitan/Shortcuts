@@ -73,6 +73,10 @@
       "US": "New Shortcuts",
       "RU": "Новые команды"
     },
+    "menu.top": {
+      "US": "Top Shortcuts",
+      "RU": "Топ команд"
+    },
     "shortcut.author": {
       "US": "Author",
       "RU": "Автор"
