@@ -2,99 +2,123 @@
   "Version": "1.1",
   "Languages": {
     "RU": "🇷🇺 Русский",
-    "US": "🇱🇷 English"
+    "US": "🇱🇷 English",
+    "FR": "🇫🇷 Français"
   },
   "Strings": {
     "menu.name": {
       "US": "Reddit Shortcuts",
-      "RU": "Команды на Reddit"
+      "RU": "Команды на Reddit",
+      "FR": "Raccourci Reddit"
     },
     "menu.settings": {
       "US": "Settings",
-      "RU": "Настройки"
+      "RU": "Настройки",
+      "FR": "Options"
     },
     "settings.general": {
       "US": "General",
-      "RU": "Основные"
+      "RU": "Основные",
+      "FR": "Général"
     },
     "settings.start": {
       "US": "Start Screen",
-      "RU": "Начальный экран"
+      "RU": "Начальный экран",
+      "FR": "Écran de démarrage"
     },
     "start.main": {
       "US": "Main Menu",
-      "RU": "Главное меню"
+      "RU": "Главное меню",
+      "FR": "Menu principal"
     },
     "start.selected": {
       "US": "(selected)",
-      "RU": "(выбрано)"
+      "RU": "(выбрано)",
+      "FR": "(sélectionné)"
     },
     "settings.language": {
       "US": "Shortcut Language",
-      "RU": "Язык команды"
+      "RU": "Язык команды",
+      "FR": "Langue du raccourci""
     },
     "language.help": {
       "US": "Help Us Translate",
-      "RU": "Помощь в переводе"
+      "RU": "Помощь в переводе",
+      "FR": "Aidez-nous à traduire"
     },
     "settings.pin": {
       "US": "PIN Code",
-      "RU": "ПИН-код"
+      "RU": "ПИН-код",
+      "FR": "Code PIN"
     },
     "pin.set": {
       "US": "Set PIN",
-      "RU": "Установить ПИН-код"
+      "RU": "Установить ПИН-код",
+      "FR": "Définir un code PIN"
     },
     "pin.reset": {
       "US": "Reset PIN",
-      "RU": "Сбросить ПИН-код"
+      "RU": "Сбросить ПИН-код",
+      "FR": "Réinitialiser le code PIN"
     },
     "settings.credits": {
       "US": "Credits",
-      "RU": "Благодарности"
+      "RU": "Благодарности",
+      "FR": "Merci !"
     },
     "settings.feedback": {
       "US": "Feedback",
-      "RU": "Обратная связь"
+      "RU": "Обратная связь",
+      "FR": "Commentaires"
     },
     "menu.back": {
       "US": "Back to Menu",
-      "RU": "В главное меню"
+      "RU": "В главное меню",
+      "FR": "Retour au menu"
     },
     "menu.prev": {
       "US": "Back",
-      "RU": "Назад"
+      "RU": "Назад",
+      "FR": "Retour"
     },
     "menu.next": {
       "US": "Next Page",
-      "RU": "След. страница"
+      "RU": "След. страница",
+      "FR": "Page suivante"
     },
     "menu.new": {
       "US": "New Shortcuts",
-      "RU": "Новые команды"
+      "RU": "Новые команды",
+      "FR": "Nouveaux Raccourcis"
     },
     "menu.top": {
       "US": "Top Shortcuts",
-      "RU": "Топ команды"
+      "RU": "Топ команды",
+      "FR": "Top Raccourcis"
     },
     "menu.search": {
       "US": "Search",
-      "RU": "Поиск"
+      "RU": "Поиск",
+      "FR": "Recherche"
     },
     "shortcut.author": {
       "US": "Author",
-      "RU": "Автор"
+      "RU": "Автор",
+      "FR": "Auteur"
     },
     "shortcut.open": {
       "US": "Open in Safari",
-      "RU": "Открыть в Safari"
+      "RU": "Открыть в Safari",
+      "FR": "Ouvrir dans Safari"
     },
     "shortcut.install": {
       "US": "Install Shortcut",
-      "RU": "Установить команду"
+      "RU": "Установить команду",
+      "FR": "Installer le raccourci"
     }
   },
   "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy"
+    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
 }
