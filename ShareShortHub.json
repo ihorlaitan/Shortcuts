@@ -161,91 +161,91 @@
       "US": "API",
       "RU": "API",
       "DE": "",
-      "FR": ""
+      "FR": "API"
     },
     "categories.calculations": {
       "US": "Calculations",
       "RU": "Вычисления",
       "DE": "",
-      "FR": ""
+      "FR": "Calculs"
     },
     "categories.fun": {
       "US": "Fun",
       "RU": "Развлечения",
       "DE": "",
-      "FR": ""
+      "FR": "Fun"
     },
     "categories.homekit": {
       "US": "Homekit",
       "RU": "Умный дом",
       "DE": "",
-      "FR": ""
+      "FR": "HomeKit"
     },
     "categories.messaging": {
       "US": "Messaging",
       "RU": "Общение",
       "DE": "",
-      "FR": ""
+      "FR": "Messagerie"
     },
     "categories.music": {
       "US": "Music",
       "RU": "Музыка",
       "DE": "",
-      "FR": ""
+      "FR": "Musique"
     },
     "categories.photos": {
       "US": "Photos and videos",
       "RU": "Фото и видео",
       "DE": "",
-      "FR": ""
+      "FR": "Photos et vidéos"
     },
     "categories.productivity": {
       "US": "Productivity",
       "RU": "Производительность",
       "DE": "",
-      "FR": ""
+      "FR": "Productivité"
     },
     "categories.reference": {
       "US": "Reference",
       "RU": "Команды-ссылки",
       "DE": "",
-      "FR": ""
+      "FR": "Référence"
     },
     "categories.routines": {
       "US": "Routines",
       "RU": "Рутинные задачи",
       "DE": "",
-      "FR": ""
+      "FR": "Routines"
     },
     "categories.social": {
       "US": "Social Network",
       "RU": "Социальные сети",
       "DE": "",
-      "FR": ""
+      "FR": "Réseaux sociaux"
     },
     "categories.streaming": {
       "US": "Streaming",
       "RU": "Стриминг",
       "DE": "",
-      "FR": ""
+      "FR": "Streaming"
     },
     "categories.travel": {
       "US": "Travel and Maps",
       "RU": "Карты и путешествия",
       "DE": "",
-      "FR": ""
+      "FR": "Voyage et cartes"
     },
     "categories.utilities": {
       "US": "Utilities",
       "RU": "Утилиты",
       "DE": "",
-      "FR": ""
+      "FR": "Utilitaires"
     },
     "categories.weather": {
       "US": "Weather",
       "RU": "Погода",
       "DE": "",
-      "FR": ""
+      "FR": "Météo"
     },
     "search.next": {
       "US": "Next Page",
