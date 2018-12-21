@@ -7,17 +7,7 @@
     "FR": "🇫🇷 Français"
   },
   "Strings": {
-    "menu.name": {
-      "US": "Shortcuts Utilities",
-      "FR": "Utilitaires pour Raccourcis"
-    },
-    "menu.settings": {
-      "US": "Settings",
-      "RU": "Настройки",
-      "DE": "Einstellungen",
-      "FR": "Options"
-    },
-    "settings.language": {
+    "language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
@@ -29,36 +19,24 @@
       "DE": "Hilf uns übersetzen",
       "FR": "Aidez-nous à traduire !"
     },
-    "settings.credits": {
-      "US": "Credits",
-      "RU": "Благодарности",
-      "DE": "Danke an",
-      "FR": "Merci !"
-    },
-    "settings.feedback": {
-      "US": "Feedback",
-      "RU": "Обратная связь",
-      "DE": "Feedback",
-      "FR": "Commentaires"
-    },
-    "menu.back": {
-      "US": "Back to Menu",
-      "RU": "В главное меню",
+    "pin": {
+      "US": "PIN Code",
+      "RU": "ПИН-код",
       "DE": "",
-      "FR": "Retour au menu"
+      "FR": "Code PIN"
     },
-    "menu.prev": {
-      "US": "Back",
-      "RU": "Назад",
+    "pin.set": {
+      "US": "Set PIN",
+      "RU": "Установить ПИН-код",
       "DE": "",
-      "FR": "Retour"
+      "FR": "Définir un code PIN"
     },
-    "menu.next": {
-      "US": "Next Page",
-      "RU": "След. страница",
+    "pin.reset": {
+      "US": "Reset PIN",
+      "RU": "Сбросить ПИН-код",
       "DE": "",
-      "FR": "Page Suivante"
-    }
+      "FR": "Réinitialiser le code PIN"
+    },
   },
   "Credits": {
     "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy"
