@@ -102,6 +102,18 @@
       "RU": "Кол-во приложений",
       "DE": "",
       "FR": "Applications par page"
+    },
+    "add.manually": {
+      "US": "Add Manually",
+      "RU": "Добавить вручную",
+      "DE": "",
+      "FR": ""
+    },
+    "add.scan": {
+      "US": "Scan Barcode",
+      "RU": "Сканировать штрихкод",
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
