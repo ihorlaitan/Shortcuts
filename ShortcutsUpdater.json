@@ -1,5 +1,5 @@
 {
-  "Version": "1.11",
+  "Version": "2.0",
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇺🇸 English",
@@ -171,6 +171,15 @@
       "ZH": "每頁捷徑數目",
       "DK": "",
       "FR": "Applications par page"
+    },
+    "info.wait": {
+      "US": "Checking for updates may take some time...",
+      "RU": "Проверка обновлений может занять некоторое время...",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
     }
   },
   "Credits": {
