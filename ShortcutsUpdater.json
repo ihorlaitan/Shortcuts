@@ -180,6 +180,15 @@
       "ZH": "",
       "DK": "",
       "FR": ""
+    },
+    "settings.check": {
+      "US": "Time of Check (days)",
+      "RU": "Время проверки (дн.)",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
     }
   },
   "Credits": {
