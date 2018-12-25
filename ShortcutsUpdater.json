@@ -198,6 +198,24 @@
       "ZH": "",
       "DK": "",
       "FR": ""
+    },
+    "changelog.translate": {
+      "US": "Translated",
+      "RU": "Переведено",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "changelog.default": {
+      "US": "Default",
+      "RU": "По умолчанию",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
     }
   },
   "Credits": {
