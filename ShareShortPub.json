@@ -1,5 +1,5 @@
 {
-  "Version": "1.6",
+  "Version": "2.0",
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
@@ -86,10 +86,10 @@
       "FR": "Commentaires"
     },
     "menu.back": {
-      "US": "Back to Menu",
-      "RU": "В главное меню",
+      "US": "Back",
+      "RU": "Назад",
       "DE": "",
-      "FR": "Retour au menu"
+      "FR": "Retour"
     },
     "menu.prev": {
       "US": "Back",
