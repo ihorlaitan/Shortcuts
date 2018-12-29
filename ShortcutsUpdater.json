@@ -216,6 +216,33 @@
       "ZH": "",
       "DK": "",
       "FR": ""
+    },
+    "settings.translate": {
+      "US": "Translate Changelog",
+      "RU": "Переводить изменения",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "menu.yes": {
+      "US": "Yes",
+      "RU": "Да",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "menu.no": {
+      "US": "No",
+      "RU": "Нет",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
     }
   },
   "Credits": {
