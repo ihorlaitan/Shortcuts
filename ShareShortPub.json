@@ -240,6 +240,12 @@
       "RU": "Кол-во приложений",
       "DE": "",
       "FR": "Application par page"
+    },
+    "account.since": {
+      "US": "Register",
+      "RU": "Регистрация",
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
