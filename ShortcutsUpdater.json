@@ -56,13 +56,13 @@
       "FR": "Commentaires"
     },
     "menu.back": {
-      "US": "Back to Menu",
-      "RU": "В главное меню",
+      "US": "Back",
+      "RU": "Назад",
       "DE": "",
-      "CH": "回到主頁",
-      "ZH": "回到主頁",
+      "CH": "返回",
+      "ZH": "返回",
       "DK": "",
-      "FR": "Retour au menu"
+      "FR": "Retour"
     },
     "menu.prev": {
       "US": "Back",
