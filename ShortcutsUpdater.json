@@ -243,6 +243,24 @@
       "ZH": "",
       "DK": "",
       "FR": ""
+    },
+    "settings.general": {
+      "US": "General",
+      "RU": "Основные",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "settings.other": {
+      "US": "Other",
+      "RU": "Другие",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
     }
   },
   "Credits": {
