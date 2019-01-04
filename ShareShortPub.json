@@ -25,53 +25,17 @@
       "DE": "",
       "FR": "Général"
     },
-    "settings.start": {
-      "US": "Start Screen",
-      "RU": "Начальный экран",
-      "DE": "",
-      "FR": "Écran de démarrage"
-    },
-    "start.main": {
-      "US": "Main Menu",
-      "RU": "Главное меню",
-      "DE": "",
-      "FR": "Menu principal"
-    },
-    "start.selected": {
-      "US": "(selected)",
-      "RU": "(выбрано)",
-      "DE": "",
-      "FR": "(sélectionné)"
-    },
     "settings.language": {
       "US": "Shortcut Language",
       "RU": "Язык команды",
       "DE": "Sprache",
       "FR": "Langue du raccourci"
     },
-    "language.help": {
-      "US": "Help Us Translate",
-      "RU": "Помощь в переводе",
-      "DE": "Hilf uns übersetzen",
-      "FR": "Aidez-nous à traduire !"
-    },
     "settings.pin": {
       "US": "PIN Code",
       "RU": "ПИН-код",
       "DE": "",
       "FR": "Code PIN"
-    },
-    "pin.set": {
-      "US": "Set PIN",
-      "RU": "Установить ПИН-код",
-      "DE": "",
-      "FR": "Définir un code PIN"
-    },
-    "pin.reset": {
-      "US": "Reset PIN",
-      "RU": "Сбросить ПИН-код",
-      "DE": "",
-      "FR": "Réinitialiser le code PIN"
     },
     "settings.credits": {
       "US": "Credits",
@@ -91,23 +55,11 @@
       "DE": "",
       "FR": "Retour"
     },
-    "menu.prev": {
-      "US": "Back",
-      "RU": "Назад",
-      "DE": "",
-      "FR": "Retour"
-    },
     "menu.next": {
       "US": "Next Page",
       "RU": "След. страница",
       "DE": "Nächste Seite",
       "FR": "Page suivante"
-    },
-    "menu.shortcuts": {
-      "US": "My Shortcuts",
-      "RU": "Мои команды",
-      "DE": "Meine Kurzbefehle",
-      "FR": "Mes Raccourcis"
     },
     "menu.account": {
       "US": "My Account",
@@ -120,12 +72,6 @@
       "RU": "Установить команду",
       "DE": "Installiere den Kurzbefehl",
       "FR": "Installer un raccourci"
-    },
-    "shortcut.open": {
-      "US": "Open in Safari",
-      "RU": "Открыть в Safari",
-      "DE": "Öffne in Safari",
-      "FR": "Ouvrir dans Safari"
     },
     "account.avatar": {
       "US": "Change Avatar",
