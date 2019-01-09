@@ -1,5 +1,5 @@
 {
-  "Version": "2.1",
+  "Version": "2.2",
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
@@ -270,10 +270,21 @@
       "RU": "В главное меню",
       "DE": "",
       "FR": "Retour au menu"
+    },
+    "settings.info": {
+      "US": "About",
+      "RU": "О команде",
+      "DE": "",
+      "FR": ""
+    },
+    "info.text": {
+      "US": "Soon...",
+      "RU": "Скоро...",
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "Daniel Bahl (Made ShareShortcuts)": "https://twitter.com/danielbahl",
     "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
     "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
