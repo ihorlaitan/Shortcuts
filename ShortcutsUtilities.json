@@ -37,6 +37,18 @@
       "DE": "",
       "FR": "Réinitialiser le code PIN"
     },
+    "info.version": {
+      "US": "Current Version",
+      "RU": "Текущая версия",
+      "DE": "",
+      "FR": ""
+    },
+    "info.open": {
+      "US": "Open",
+      "RU": "Открыть",
+      "DE": "",
+      "FR": ""
+    },
     "info.title": {
       "US": "Information",
       "RU": "Информация",
