@@ -1,5 +1,5 @@
 {
-  "Version": "2.4",
+  "Version": "2.5",
   "Languages": {
     "RU": "🇷🇺 Русский",
     "US": "🇱🇷 English",
@@ -198,10 +198,21 @@
       "RU": "Новая команда успешно загружена",
       "DE": "",
       "FR": ""
+    },
+    "settings.info": {
+      "US": "About",
+      "RU": "О команде",
+      "DE": "",
+      "FR": ""
+    },
+    "info.text": {
+      "US": "Soon...",
+      "RU": "Скоро...",
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
-    "xMrVizzy (Made Shortcut)": "https://twitter.com/xmrvizzy",
     "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
     "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
   }
