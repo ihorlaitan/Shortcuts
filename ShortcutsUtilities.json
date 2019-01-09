@@ -36,6 +36,48 @@
       "RU": "Сбросить ПИН-код",
       "DE": "",
       "FR": "Réinitialiser le code PIN"
+    },
+    "info.title": {
+      "US": "Information",
+      "RU": "Информация",
+      "DE": "",
+      "FR": ""
+    },
+    "info.text": {
+      "US": "There will be soon info...",
+      "RU": "Скоро будет описание команды...",
+      "DE": "",
+      "FR": ""
+    },
+    "credits.title": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an",
+      "FR": "Merci !"
+    },
+    "credits.text": {
+      "US": "Many thanks to everyone who contributed their help to the creation of the Shortcut! You can click on the name to view the author's page!",
+      "RU": "Большое спасибо всем, кто вложил свою помощь в создание команды! Вы можете нажать на имя, чтобы просмотреть страницу автора!",
+      "DE": "",
+      "FR": ""
+    },
+    "feedback.title": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Feedback",
+      "FR": "Commentaires"
+    },
+    "feedback.text": {
+      "US": "Found a mistake in the Shortcut or Translation? Help us fix it!",
+      "RU": "Нашли ошибку в команде или переводе? Помогите нам ее исправить!",
+      "DE": "",
+      "FR": ""
+    },
+    "feedback.button": {
+      "US": "Share Error",
+      "RU": "Поделиться ошибкой",
+      "DE": "",
+      "FR": ""
     }
   },
   "Credits": {
